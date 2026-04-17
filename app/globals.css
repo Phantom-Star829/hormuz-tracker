@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { background: #0b0f17; color: #e5e7eb; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+
+.panel { background: #121826; border: 1px solid #1f2937; border-radius: 10px; }
+.tabular { font-variant-numeric: tabular-nums; }

@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-04-17T08:00:00Z",
+  "bbox": { "minLat": 26.0, "maxLat": 27.0, "minLon": 55.8, "maxLon": 56.8 },
+  "vessels": [
+    { "mmsi": 538005000, "name": "MAERSK SHAMS", "type": "Cargo",  "lat": 26.52, "lon": 56.25, "sog": 11.4, "cog": 128 },
+    { "mmsi": 636019000, "name": "MSC JASMINE",  "type": "Cargo",  "lat": 26.61, "lon": 56.19, "sog": 0.2,  "cog": 0 },
+    { "mmsi": 372415000, "name": "GULF HORIZON",  "type": "Tanker", "lat": 26.44, "lon": 56.41, "sog": 8.9,  "cog": 302 },
+    { "mmsi": 355123000, "name": "ARABIAN STAR",  "type": "Tanker", "lat": 26.70, "lon": 56.05, "sog": 0.0,  "cog": 0 },
+    { "mmsi": 477554900, "name": "PACIFIC DAWN",  "type": "Cargo",  "lat": 26.35, "lon": 56.55, "sog": 13.1, "cog": 118 },
+    { "mmsi": 636020300, "name": "HAPAG ATLAS",   "type": "Cargo",  "lat": 26.28, "lon": 56.62, "sog": 0.1,  "cog": 0 },
+    { "mmsi": 235104577, "name": "EVER CLIMB",    "type": "Cargo",  "lat": 26.58, "lon": 56.08, "sog": 7.4,  "cog": 310 },
+    { "mmsi": 525019900, "name": "PERSIAN PRIDE", "type": "Tanker", "lat": 26.49, "lon": 56.33, "sog": 12.0, "cog": 135 },
+    { "mmsi": 352001234, "name": "DOHA EXPRESS",  "type": "Tanker", "lat": 26.66, "lon": 56.48, "sog": 0.0,  "cog": 0 },
+    { "mmsi": 440112233, "name": "ONE HORIZON",   "type": "Cargo",  "lat": 26.38, "lon": 56.13, "sog": 10.6, "cog": 296 }
+  ],
+  "demo": true
+}

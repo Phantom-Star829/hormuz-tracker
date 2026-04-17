@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-04-17T08:00:00Z",
+  "carriers": [
+    { "name": "Maersk", "status": "suspended", "note": "Suspended Hormuz transits pending security reassessment", "sourceUrl": "https://www.maersk.com/news" },
+    { "name": "MSC", "status": "suspended", "note": "Rerouting via Cape of Good Hope", "sourceUrl": "https://www.msc.com/en/newsroom" },
+    { "name": "CMA CGM", "status": "limited", "note": "Case-by-case transits with military escort", "sourceUrl": "https://www.cma-cgm.com/news" },
+    { "name": "Hapag-Lloyd", "status": "suspended", "note": "All Gulf-bound traffic paused", "sourceUrl": "https://www.hapag-lloyd.com/en/press.html" },
+    { "name": "ONE", "status": "operational", "note": "Continuing scheduled transits", "sourceUrl": "https://www.one-line.com/en/news" },
+    { "name": "Evergreen", "status": "limited", "note": "Reduced frequency, insurance premium surcharge", "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp" }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-18T19:13:08.888Z",
+  "updatedAt": "2026-04-18T21:04:19.877Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWZEa1FMRXpldnFQRS0yZlg4ejFVSkppVGxvZFR4blRPY1RnMHY1WmRaMlFLRlNXWllRNUVKZG9GQXNXR1ZmYUpfTnpyQlRKazVoM3lDalB3VFJ4a2I1SW5XVTVrTmZMRXNRbVNKOWV5NTBnaldhbHB4SVNxUmVQNGN6WWpKSWFicnZCMUhmM0JoazV1?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

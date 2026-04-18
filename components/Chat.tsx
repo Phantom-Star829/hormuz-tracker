@@ -60,28 +60,34 @@ export default function Chat() {
     }
   }
 
+  const hasMessages = messages.length > 0;
+
   return (
-    <div className="panel p-5 flex flex-col h-[520px]">
+    <div
+      className={`panel p-4 flex flex-col ${hasMessages ? "max-h-[70vh]" : ""}`}
+      style={{ height: hasMessages ? "auto" : "auto" }}
+    >
       <div className="flex items-baseline justify-between mb-3">
         <h2 className="text-lg font-semibold">Ask the Dashboard</h2>
         <span className="text-xs text-muted">Claude Sonnet 4.5 · cached context</span>
       </div>
 
-      <div ref={scrollRef} className="flex-1 overflow-y-auto space-y-3 pr-1 mb-3">
-        {messages.length === 0 ? (
-          <div className="text-sm text-muted py-6">
-            <div className="mb-3">Ask anything about the current state of the Strait. Examples:</div>
-            <div className="flex flex-wrap gap-2">
-              {SUGGESTIONS.map((s) => (
-                <button
-                  key={s}
-                  onClick={() => send(s)}
-                  className="text-[11px] px-2.5 py-1.5 rounded-md bg-border/60 hover:bg-border text-left border border-border/60 hover:border-border transition"
-                >
-                  {s}
-                </button>
-              ))}
-            </div>
+      <div
+        ref={scrollRef}
+        className={`${hasMessages ? "flex-1 overflow-y-auto space-y-3 pr-1 mb-3 min-h-[180px]" : "mb-3"}`}
+      >
+        {!hasMessages ? (
+          <div className="flex flex-wrap gap-2 items-center">
+            <span className="text-xs text-muted mr-1">Try:</span>
+            {SUGGESTIONS.map((s) => (
+              <button
+                key={s}
+                onClick={() => send(s)}
+                className="text-[11px] px-2.5 py-1 rounded-md bg-border/60 hover:bg-border text-left border border-border/60 hover:border-border transition"
+              >
+                {s}
+              </button>
+            ))}
           </div>
         ) : (
           messages.map((m, i) => (

@@ -1,17 +1,49 @@
 {
-  "updatedAt": "2026-04-18T00:00:00Z",
+  "updatedAt": "2026-04-18T22:07:48.728Z",
   "historicalDailyAverage": 100,
   "strandedBaseline": 150,
   "series": [
-    { "date": "2026-04-10", "transits": 98, "strandedEstimate": 142 },
-    { "date": "2026-04-11", "transits": 94, "strandedEstimate": 147 },
-    { "date": "2026-04-12", "transits": 71, "strandedEstimate": 158 },
-    { "date": "2026-04-13", "transits": 58, "strandedEstimate": 169 },
-    { "date": "2026-04-14", "transits": 42, "strandedEstimate": 184 },
-    { "date": "2026-04-15", "transits": 37, "strandedEstimate": 198 },
-    { "date": "2026-04-16", "transits": 41, "strandedEstimate": 206 },
-    { "date": "2026-04-17", "transits": 46, "strandedEstimate": 211 }
+    {
+      "date": "2026-04-10",
+      "transits": 98,
+      "strandedEstimate": 142
+    },
+    {
+      "date": "2026-04-11",
+      "transits": 94,
+      "strandedEstimate": 147
+    },
+    {
+      "date": "2026-04-12",
+      "transits": 71,
+      "strandedEstimate": 158
+    },
+    {
+      "date": "2026-04-13",
+      "transits": 58,
+      "strandedEstimate": 169
+    },
+    {
+      "date": "2026-04-14",
+      "transits": 42,
+      "strandedEstimate": 184
+    },
+    {
+      "date": "2026-04-15",
+      "transits": 37,
+      "strandedEstimate": 198
+    },
+    {
+      "date": "2026-04-16",
+      "transits": 41,
+      "strandedEstimate": 206
+    },
+    {
+      "date": "2026-04-17",
+      "transits": 46,
+      "strandedEstimate": 211
+    }
   ],
-  "source": "AISStream.io (free tier) — bounding box 25.8-27.2°N, 55.5-57.2°E. Collected hourly via GitHub Actions. Persian Gulf coverage from free-tier volunteer receivers is sparse, so gaps are common; collector preserves last good reading on empty samples.",
+  "source": "AISStream.io — coverage gap (0 MMSI in 3min sample at 2026-04-18T22:07:48.728Z). Last good reading retained.",
   "demo": true
 }

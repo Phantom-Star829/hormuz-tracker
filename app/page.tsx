@@ -1,9 +1,21 @@
 import Dashboard from "@/components/Dashboard";
-import vesselsData from "@/data/vessel-counts.json";
-import carriersData from "@/data/carriers.json";
-import positionsData from "@/data/vessel-positions.json";
+import vesselsFallback from "@/data/vessel-counts.json";
+import carriersFallback from "@/data/carriers.json";
+import positionsFallback from "@/data/vessel-positions.json";
 
-export const revalidate = 60;
+export const revalidate = 300;
+
+const RAW = "https://raw.githubusercontent.com/Phantom-Star829/hormuz-tracker/main/data";
+
+async function ghJson<T>(path: string, fallback: T): Promise<T> {
+  try {
+    const res = await fetch(`${RAW}/${path}`, { next: { revalidate: 300 } });
+    if (!res.ok) return fallback;
+    return (await res.json()) as T;
+  } catch {
+    return fallback;
+  }
+}
 
 type Quote = { date: string; close: number };
 
@@ -50,8 +62,8 @@ async function fetchBrent() {
   }
 }
 
-function computeAlerts() {
-  const series = vesselsData.series;
+function computeAlerts(vessels: typeof vesselsFallback) {
+  const series = vessels.series;
   const alerts: { severity: "warn" | "alert"; title: string; detail: string; time: string }[] = [];
   if (series.length < 2) return { alerts, updatedAt: new Date().toISOString() };
   const today = series.at(-1)!;
@@ -65,19 +77,19 @@ function computeAlerts() {
       time: today.date,
     });
   }
-  if (today.transits >= vesselsData.historicalDailyAverage * 0.9) {
+  if (today.transits >= vessels.historicalDailyAverage * 0.9) {
     alerts.push({
       severity: "alert",
       title: "Transit volume near historical average",
-      detail: `${today.transits}/day vs ${vesselsData.historicalDailyAverage}/day baseline — strait likely reopening.`,
+      detail: `${today.transits}/day vs ${vessels.historicalDailyAverage}/day baseline, strait likely reopening.`,
       time: today.date,
     });
   }
-  if (today.strandedEstimate > vesselsData.strandedBaseline) {
+  if (today.strandedEstimate > vessels.strandedBaseline) {
     alerts.push({
       severity: "warn",
       title: `${today.strandedEstimate} vessels stranded`,
-      detail: `Above baseline of ${vesselsData.strandedBaseline}. Backup continues to grow.`,
+      detail: `Above baseline of ${vessels.strandedBaseline}. Backup continues to grow.`,
       time: today.date,
     });
   }
@@ -85,15 +97,20 @@ function computeAlerts() {
 }
 
 export default async function Page() {
-  const brent = await fetchBrent();
-  const alerts = computeAlerts();
+  const [vessels, carriers, positions, brent] = await Promise.all([
+    ghJson("vessel-counts.json", vesselsFallback),
+    ghJson("carriers.json", carriersFallback),
+    ghJson("vessel-positions.json", positionsFallback),
+    fetchBrent(),
+  ]);
+  const alerts = computeAlerts(vessels);
   return (
     <Dashboard
-      vessels={vesselsData as any}
-      carriers={carriersData as any}
+      vessels={vessels as any}
+      carriers={carriers as any}
       brent={brent}
       alerts={alerts}
-      positions={positionsData as any}
+      positions={positions as any}
     />
   );
 }

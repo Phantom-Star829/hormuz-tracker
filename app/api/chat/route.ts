@@ -1,13 +1,25 @@
 import Anthropic from "@anthropic-ai/sdk";
-import vesselsData from "@/data/vessel-counts.json";
-import carriersData from "@/data/carriers.json";
-import positionsData from "@/data/vessel-positions.json";
+import vesselsFallback from "@/data/vessel-counts.json";
+import carriersFallback from "@/data/carriers.json";
+import positionsFallback from "@/data/vessel-positions.json";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+const RAW = "https://raw.githubusercontent.com/Phantom-Star829/hormuz-tracker/main/data";
+
+async function ghJson<T>(path: string, fallback: T): Promise<T> {
+  try {
+    const res = await fetch(`${RAW}/${path}`, { next: { revalidate: 300 } });
+    if (!res.ok) return fallback;
+    return (await res.json()) as T;
+  } catch {
+    return fallback;
+  }
+}
 
 const SYSTEM_STATIC = `You are the onboard analyst for a Strait of Hormuz live transit dashboard.
 
@@ -48,6 +60,12 @@ export async function POST(req: Request) {
     return new Response("messages required", { status: 400 });
   }
 
+  const [vesselsData, carriersData, positionsData] = await Promise.all([
+    ghJson("vessel-counts.json", vesselsFallback),
+    ghJson("carriers.json", carriersFallback),
+    ghJson("vessel-positions.json", positionsFallback),
+  ]);
+
   const today = vesselsData.series.at(-1);
   const prior = vesselsData.series.at(-2);
   const liveSnapshot = `**Current dashboard state** (updated ${vesselsData.updatedAt})
@@ -56,18 +74,19 @@ Transits today: ${today?.transits ?? "n/a"} vessels (${Math.round(((today?.trans
 Yesterday: ${prior?.transits ?? "n/a"} vessels
 Day-over-day delta: ${today && prior ? (today.transits - prior.transits >= 0 ? "+" : "") + (today.transits - prior.transits) : "n/a"}
 Stranded estimate today: ${today?.strandedEstimate ?? "n/a"} (baseline 150)
+Data source note: ${vesselsData.source}
 
 Transit series (last ${vesselsData.series.length} days):
-${vesselsData.series.map((d) => `  ${d.date}: ${d.transits} transits, ${d.strandedEstimate} stranded`).join("\n")}
+${vesselsData.series.map((d: any) => `  ${d.date}: ${d.transits} transits, ${d.strandedEstimate} stranded`).join("\n")}
 
 Carrier status (updated ${carriersData.updatedAt}):
-${carriersData.carriers.map((c) => `  ${c.name}: ${c.status.toUpperCase()} — ${c.note}`).join("\n")}
+${carriersData.carriers.map((c: any) => `  ${c.name}: ${c.status.toUpperCase()} — ${c.note}`).join("\n")}
 
 Vessel positions on map right now (${positionsData.vessels.length} in bounding box):
 ${positionsData.vessels
-  .map((v) => `  ${v.name} (${v.type}, MMSI ${v.mmsi}): ${v.lat.toFixed(3)}°N ${v.lon.toFixed(3)}°E, ${v.sog.toFixed(1)}kn @ ${v.cog}°${v.sog <= 1 ? " [anchored]" : ""}`)
+  .map((v: any) => `  ${v.name} (${v.type}, MMSI ${v.mmsi}): ${v.lat.toFixed(3)}°N ${v.lon.toFixed(3)}°E, ${v.sog.toFixed(1)}kn @ ${v.cog}°${v.sog <= 1 ? " [anchored]" : ""}`)
   .join("\n")}
-${positionsData.demo ? "\n(NOTE: positions are demo data until AISStream key is configured)" : ""}`;
+${positionsData.demo ? "\n(NOTE: positions are demo data — AISStream coverage gap; last good snapshot retained)" : ""}`;
 
   const stream = await anthropic.messages.stream({
     model: "claude-sonnet-4-5",

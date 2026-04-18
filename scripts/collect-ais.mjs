@@ -14,8 +14,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_FILE = path.join(__dirname, "..", "data", "vessel-counts.json");
 const POSITIONS_FILE = path.join(__dirname, "..", "data", "vessel-positions.json");
 
-const BBOX = [[26.2, 56.0], [26.8, 56.6]]; // [[minLat,minLon],[maxLat,maxLon]]
-const LISTEN_MS = 90_000;
+// Widened to catch approaches (Gulf of Oman + entry to Persian Gulf).
+// AISStream free tier has sparse volunteer receivers in this region;
+// narrower boxes often sample zero vessels in a short window.
+const BBOX = [[25.8, 55.5], [27.2, 57.2]]; // [[minLat,minLon],[maxLat,maxLon]]
+const LISTEN_MS = 180_000;
 const API_KEY = process.env.AISSTREAM_API_KEY;
 
 if (!API_KEY) {
@@ -88,31 +91,40 @@ ws.on("close", async () => {
 
   const data = JSON.parse(fs.readFileSync(DATA_FILE, "utf8"));
   const today = new Date().toISOString().slice(0, 10);
-  const idx = data.series.findIndex((d) => d.date === today);
-  const strandedEstimate = Math.max(150, (data.series.at(-1)?.strandedEstimate ?? 150) + (100 - estimatedDaily) / 2);
-  const entry = { date: today, transits: estimatedDaily, strandedEstimate: Math.round(strandedEstimate) };
-
-  if (idx >= 0) data.series[idx] = entry;
-  else data.series.push(entry);
-
-  // Keep last 30 days
-  data.series = data.series.slice(-30);
   data.updatedAt = new Date().toISOString();
-  data.demo = false;
-  data.source = `AISStream.io live feed — ${count} unique MMSI in last ${Math.round(sampleHours * 60)}min sample`;
+
+  if (count === 0) {
+    // Don't overwrite with zeros — AISStream free tier has coverage gaps in the Gulf.
+    // Mark the data as a coverage gap but keep the last good reading.
+    data.source = `AISStream.io — coverage gap (0 MMSI in ${Math.round(sampleHours * 60)}min sample at ${new Date().toISOString()}). Last good reading retained.`;
+    console.log("Coverage gap — preserving last good reading.");
+  } else {
+    const idx = data.series.findIndex((d) => d.date === today);
+    const strandedEstimate = Math.max(150, (data.series.at(-1)?.strandedEstimate ?? 150) + (100 - estimatedDaily) / 2);
+    const entry = { date: today, transits: estimatedDaily, strandedEstimate: Math.round(strandedEstimate) };
+    if (idx >= 0) data.series[idx] = entry;
+    else data.series.push(entry);
+    data.series = data.series.slice(-30);
+    data.demo = false;
+    data.source = `AISStream.io live feed — ${count} unique MMSI in last ${Math.round(sampleHours * 60)}min sample`;
+  }
 
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2));
   console.log(`Wrote ${DATA_FILE}: transits=${estimatedDaily}`);
 
   const vessels = Array.from(latest.values()).filter((v) => typeof v.lat === "number" && typeof v.lon === "number");
-  const posPayload = {
-    updatedAt: new Date().toISOString(),
-    bbox: { minLat: BBOX[0][0], maxLat: BBOX[1][0], minLon: BBOX[0][1], maxLon: BBOX[1][1] },
-    vessels,
-    demo: false,
-  };
-  fs.writeFileSync(POSITIONS_FILE, JSON.stringify(posPayload, null, 2));
-  console.log(`Wrote ${POSITIONS_FILE}: ${vessels.length} positions`);
+  if (vessels.length > 0) {
+    const posPayload = {
+      updatedAt: new Date().toISOString(),
+      bbox: { minLat: BBOX[0][0], maxLat: BBOX[1][0], minLon: BBOX[0][1], maxLon: BBOX[1][1] },
+      vessels,
+      demo: false,
+    };
+    fs.writeFileSync(POSITIONS_FILE, JSON.stringify(posPayload, null, 2));
+    console.log(`Wrote ${POSITIONS_FILE}: ${vessels.length} positions`);
+  } else {
+    console.log("No live positions — preserving last good positions file.");
+  }
 
   // Fire Make.com webhook on meaningful alerts
   const hookUrl = process.env.MAKE_ALERT_WEBHOOK;

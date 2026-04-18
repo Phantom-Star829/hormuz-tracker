@@ -1,11 +1,41 @@
 {
-  "updatedAt": "2026-04-17T08:00:00Z",
+  "updatedAt": "2026-04-18T19:13:08.888Z",
   "carriers": [
-    { "name": "Maersk", "status": "suspended", "note": "Suspended Hormuz transits pending security reassessment", "sourceUrl": "https://www.maersk.com/news" },
-    { "name": "MSC", "status": "suspended", "note": "Rerouting via Cape of Good Hope", "sourceUrl": "https://www.msc.com/en/newsroom" },
-    { "name": "CMA CGM", "status": "limited", "note": "Case-by-case transits with military escort", "sourceUrl": "https://www.cma-cgm.com/news" },
-    { "name": "Hapag-Lloyd", "status": "suspended", "note": "All Gulf-bound traffic paused", "sourceUrl": "https://www.hapag-lloyd.com/en/press.html" },
-    { "name": "ONE", "status": "operational", "note": "Continuing scheduled transits", "sourceUrl": "https://www.one-line.com/en/news" },
-    { "name": "Evergreen", "status": "limited", "note": "Reduced frequency, insurance premium surcharge", "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp" }
+    {
+      "name": "Maersk",
+      "status": "operational",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWZEa1FMRXpldnFQRS0yZlg4ejFVSkppVGxvZFR4blRPY1RnMHY1WmRaMlFLRlNXWllRNUVKZG9GQXNXR1ZmYUpfTnpyQlRKazVoM3lDalB3VFJ4a2I1SW5XVTVrTmZMRXNRbVNKOWV5NTBnaldhbHB4SVNxUmVQNGN6WWpKSWFicnZCMUhmM0JoazV1?oc=5"
+    },
+    {
+      "name": "MSC",
+      "status": "operational",
+      "note": "Strait of Hormuz Reopens - Cruise Critic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
+    },
+    {
+      "name": "CMA CGM",
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
+    },
+    {
+      "name": "Hapag-Lloyd",
+      "status": "operational",
+      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV95Z0lZQmhfNEV3LXI2T3dDcjBsVWpzMmcwME1ETF9kRGJUbk81RTFEUjNxdTBzeV9EWDl6VFFldWpwRWhyOXZvOHVONW5NSXAzZWpjeXNBRUhzbnFaTEd5ajdFclRid0hTLXdhajRIQ2RKWmNEZFp0VVYzM1MwZGVwWGFRWTJZeUxROXhqQURud0NoUXlhUmpxMFJYb19hSkh4QUJJRE1SQVlBRmQ5TWFEVk1uUzl0bmxn?oc=5"
+    },
+    {
+      "name": "ONE",
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
+    },
+    {
+      "name": "Evergreen",
+      "status": "suspended",
+      "note": "Strait of Hormuz now totally blocked — with US stopping 14 Iran-tied tankers and hundreds of others too scared to cross - New York Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlFoeFQyTjZEOFBWNnI3QURRc3VnR1hwb2xUeDZZVGxCaHZfdmxEaXFGODRKajktOWk5LURvekdjTU4wRFRuR2RRSnEyTk1veDVSXzZqWHJlbGNRWDhMS2N0dzJ2bnFaOUtVLV94aF9WcUd0amtMLTF5Tk9ROEVkNjFtWGZUb2JnU2pqUktGYThmWXAtSFVJOTlMTmlKZkIzbGJHWWZXeWszd19OdjhwQkFab1RvVDA?oc=5"
+    }
   ]
 }

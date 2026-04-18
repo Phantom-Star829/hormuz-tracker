@@ -88,8 +88,11 @@ export default function VesselMap({ positions }: { positions: Positions }) {
         </div>
       </div>
       {positions.demo && (
-        <div className="absolute bottom-3 left-3 bg-accent/20 border border-accent text-accent text-[11px] px-2 py-1 rounded pointer-events-none z-[400]">
-          DEMO positions — live once AISStream key is set
+        <div
+          className="absolute bottom-3 left-3 bg-accent/20 border border-accent text-accent text-[11px] px-2 py-1 rounded z-[400] cursor-help"
+          title="AISStream free tier relies on volunteer receivers, and the Persian Gulf has little volunteer coverage. Every hour the collector samples for 3min; when it sees 0 vessels it preserves the last known positions rather than blanking the map. Paid AIS (MarineTraffic, Spire) would fix this."
+        >
+          AIS coverage gap — showing last known positions
         </div>
       )}
     </div>

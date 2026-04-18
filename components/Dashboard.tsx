@@ -82,7 +82,14 @@ export default function Dashboard({
         <div className="text-xs text-muted tabular text-right space-y-1">
           <div>Updated {new Date(vessels.updatedAt).toLocaleString()}</div>
           <div className="flex md:justify-end"><AutoRefresh /></div>
-          {vessels.demo && <div className="text-accent">DEMO DATA — connect AISStream key to go live</div>}
+          {vessels.demo && (
+            <div
+              className="text-accent cursor-help"
+              title="AISStream free tier has sparse volunteer receiver coverage in the Persian Gulf. Every hour the collector samples for 3min; when 0 vessels are observed the collector preserves the last known reading rather than overwriting with zeros. Paid AIS would resolve this."
+            >
+              AIS coverage gap — last known values
+            </div>
+          )}
         </div>
       </header>
 

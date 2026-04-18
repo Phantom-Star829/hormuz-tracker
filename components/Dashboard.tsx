@@ -13,6 +13,7 @@ import {
 } from "recharts";
 import VesselMap from "./VesselMapWrapper";
 import Chat from "./Chat";
+import AutoRefresh from "./AutoRefresh";
 
 type VesselPoint = { date: string; transits: number; strandedEstimate: number };
 type Vessels = {
@@ -78,9 +79,10 @@ export default function Dashboard({
             paired with carrier suspension status and Brent crude. Collected hourly via GitHub Actions.
           </p>
         </div>
-        <div className="text-xs text-muted tabular text-right">
+        <div className="text-xs text-muted tabular text-right space-y-1">
           <div>Updated {new Date(vessels.updatedAt).toLocaleString()}</div>
-          {vessels.demo && <div className="text-accent mt-1">DEMO DATA — connect AISStream key to go live</div>}
+          <div className="flex md:justify-end"><AutoRefresh /></div>
+          {vessels.demo && <div className="text-accent">DEMO DATA — connect AISStream key to go live</div>}
         </div>
       </header>
 

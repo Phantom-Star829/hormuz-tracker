@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-18T23:59:37.448Z",
+  "updatedAt": "2026-04-19T06:23:02.204Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWZEa1FMRXpldnFQRS0yZlg4ejFVSkppVGxvZFR4blRPY1RnMHY1WmRaMlFLRlNXWllRNUVKZG9GQXNXR1ZmYUpfTnpyQlRKazVoM3lDalB3VFJ4a2I1SW5XVTVrTmZMRXNRbVNKOWV5NTBnaldhbHB4SVNxUmVQNGN6WWpKSWFicnZCMUhmM0JoazV1?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews.com",
+      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV95Z0lZQmhfNEV3LXI2T3dDcjBsVWpzMmcwME1ETF9kRGJUbk81RTFEUjNxdTBzeV9EWDl6VFFldWpwRWhyOXZvOHVONW5NSXAzZWpjeXNBRUhzbnFaTEd5ajdFclRid0hTLXdhajRIQ2RKWmNEZFp0VVYzM1MwZGVwWGFRWTJZeUxROXhqQURud0NoUXlhUmpxMFJYb19hSkh4QUJJRE1SQVlBRmQ5TWFEVk1uUzl0bmxn?oc=5"
     },
     {

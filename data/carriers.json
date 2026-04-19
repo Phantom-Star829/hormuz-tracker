@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T14:30:51.723Z",
+  "updatedAt": "2026-04-19T17:11:50.628Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,14 +15,14 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "News Tight capacity ex-India sees CMA CGM increase rates and surcharges - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmlrb0hRZl9GUGdfbW9BbGxtV3RzWWliWndxRG54SEJYRlpHVWxXc2pMcjkyemNHb0pZSXNaLWhPTlZGTERSZ3d4dEJZMXFKVkRMWmt2WUZKVFFKVG05NlM1UzJqTFltb1I0UkhRRzBfUThSamR4d1pxMUZlZjRQSW4tVTRiOXNKenRsSlphcFZ2RV9RQ0E?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews",
+      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV95Z0lZQmhfNEV3LXI2T3dDcjBsVWpzMmcwME1ETF9kRGJUbk81RTFEUjNxdTBzeV9EWDl6VFFldWpwRWhyOXZvOHVONW5NSXAzZWpjeXNBRUhzbnFaTEd5ajdFclRid0hTLXdhajRIQ2RKWmNEZFp0VVYzM1MwZGVwWGFRWTJZeUxROXhqQURud0NoUXlhUmpxMFJYb19hSkh4QUJJRE1SQVlBRmQ5TWFEVk1uUzl0bmxn?oc=5"
     },
     {

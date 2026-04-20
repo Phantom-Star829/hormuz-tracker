@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-20T20:10:55.303Z",
+  "updatedAt": "2026-04-20T23:32:49.936Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU1CdVFFWElNbi1mVmt3a19lNHV4bzdwVjJvYXgxWk5MMlhNMVZkT2QtVnNnSHFhb19PaWVVWktnejUtd21RNWVyT1pzem84VmxCTW5ZMWtOeXc0MVNwTmlmY0NnRkNXNW1IWkdjNFRoQ1ZVMjJjbUdrcnNTdlFBMjA0MHRfc0EyMjdBODhwa3dmRUFJTV85eVRVRi1ldndSMkQxYU93clhRRGU0T0h4RThOV09JektZNjBXUGlfTmEzS3VzZGI1akpEdGg2UjJyVkNwSUhlT0ppSHcwZ1NVNlJLWXdlc21WczNYTElTYkl6cVk?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -34,7 +34,7 @@
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "Strait of Hormuz now totally blocked — with US stopping 14 Iran-tied tankers and hundreds of others too scared to cross - New York Post",
+      "note": "Strait of Hormuz now totally blocked — with US stopping 14 Iran-tied tankers and hundreds of others too scared to cross - nypost.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlFoeFQyTjZEOFBWNnI3QURRc3VnR1hwb2xUeDZZVGxCaHZfdmxEaXFGODRKajktOWk5LURvekdjTU4wRFRuR2RRSnEyTk1veDVSXzZqWHJlbGNRWDhMS2N0dzJ2bnFaOUtVLV94aF9WcUd0amtMLTF5Tk9ROEVkNjFtWGZUb2JnU2pqUktGYThmWXAtSFVJOTlMTmlKZkIzbGJHWWZXeWszd19OdjhwQkFab1RvVDA?oc=5"
     }
   ]

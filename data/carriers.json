@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-20T23:32:49.936Z",
+  "updatedAt": "2026-04-21T06:28:14.470Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWZEa1FMRXpldnFQRS0yZlg4ejFVSkppVGxvZFR4blRPY1RnMHY1WmRaMlFLRlNXWllRNUVKZG9GQXNXR1ZmYUpfTnpyQlRKazVoM3lDalB3VFJ4a2I1SW5XVTVrTmZMRXNRbVNKOWV5NTBnaldhbHB4SVNxUmVQNGN6WWpKSWFicnZCMUhmM0JoazV1?oc=5"
     },
     {
       "name": "MSC",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU1CdVFFWElNbi1mVmt3a19lNHV4bzdwVjJvYXgxWk5MMlhNMVZkT2QtVnNnSHFhb19PaWVVWktnejUtd21RNWVyT1pzem84VmxCTW5ZMWtOeXc0MVNwTmlmY0NnRkNXNW1IWkdjNFRoQ1ZVMjJjbUdrcnNTdlFBMjA0MHRfc0EyMjdBODhwa3dmRUFJTV85eVRVRi1ldndSMkQxYU93clhRRGU0T0h4RThOV09JektZNjBXUGlfTmEzS3VzZGI1akpEdGg2UjJyVkNwSUhlT0ppSHcwZ1NVNlJLWXdlc21WczNYTElTYkl6cVk?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,13 +28,13 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "How to reopen the Strait of Hormuz - Defense One",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ea1pVY2lRdEdha3ZRM01LNmlDSF9HVkJPdkdtY2drS3NyMlE1QWJLR3ZSdHlYdDh1NEJoM3liZ21jNkxJLW9vbUhMMHB2WElSNVVzVzAxMlhjbWRCNGF2Q1Z0aEVwMVVYY1lWYXppSVlvcThSOEpKckc5Z1hZQQ?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "Strait of Hormuz now totally blocked — with US stopping 14 Iran-tied tankers and hundreds of others too scared to cross - nypost.com",
+      "note": "Strait of Hormuz now totally blocked — with US stopping 14 Iran-tied tankers and hundreds of others too scared to cross - New York Post",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlFoeFQyTjZEOFBWNnI3QURRc3VnR1hwb2xUeDZZVGxCaHZfdmxEaXFGODRKajktOWk5LURvekdjTU4wRFRuR2RRSnEyTk1veDVSXzZqWHJlbGNRWDhMS2N0dzJ2bnFaOUtVLV94aF9WcUd0amtMLTF5Tk9ROEVkNjFtWGZUb2JnU2pqUktGYThmWXAtSFVJOTlMTmlKZkIzbGJHWWZXeWszd19OdjhwQkFab1RvVDA?oc=5"
     }
   ]

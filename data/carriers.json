@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T10:59:32.061Z",
+  "updatedAt": "2026-04-21T16:00:07.269Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "How to reopen the Strait of Hormuz - Defense One",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ea1pVY2lRdEdha3ZRM01LNmlDSF9HVkJPdkdtY2drS3NyMlE1QWJLR3ZSdHlYdDh1NEJoM3liZ21jNkxJLW9vbUhMMHB2WElSNVVzVzAxMlhjbWRCNGF2Q1Z0aEVwMVVYY1lWYXppSVlvcThSOEpKckc5Z1hZQQ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

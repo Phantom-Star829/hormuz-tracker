@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-04-22T06:18:22.513Z",
+  "updatedAt": "2026-04-22T10:57:40.013Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWZEa1FMRXpldnFQRS0yZlg4ejFVSkppVGxvZFR4blRPY1RnMHY1WmRaMlFLRlNXWllRNUVKZG9GQXNXR1ZmYUpfTnpyQlRKazVoM3lDalB3VFJ4a2I1SW5XVTVrTmZMRXNRbVNKOWV5NTBnaldhbHB4SVNxUmVQNGN6WWpKSWFicnZCMUhmM0JoazV1?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Strait of Hormuz Reopens - Cruise Critic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "How to reopen the Strait of Hormuz - Defense One",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ea1pVY2lRdEdha3ZRM01LNmlDSF9HVkJPdkdtY2drS3NyMlE1QWJLR3ZSdHlYdDh1NEJoM3liZ21jNkxJLW9vbUhMMHB2WElSNVVzVzAxMlhjbWRCNGF2Q1Z0aEVwMVVYY1lWYXppSVlvcThSOEpKckc5Z1hZQQ?oc=5"
     },
     {
       "name": "Evergreen",

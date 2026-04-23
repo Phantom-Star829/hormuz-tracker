@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T06:32:15.833Z",
+  "updatedAt": "2026-04-23T11:38:03.253Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,13 +10,13 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Strait of Hormuz Reopens - Cruise Critic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - WWD",
+      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - wwd.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU1CdVFFWElNbi1mVmt3a19lNHV4bzdwVjJvYXgxWk5MMlhNMVZkT2QtVnNnSHFhb19PaWVVWktnejUtd21RNWVyT1pzem84VmxCTW5ZMWtOeXc0MVNwTmlmY0NnRkNXNW1IWkdjNFRoQ1ZVMjJjbUdrcnNTdlFBMjA0MHRfc0EyMjdBODhwa3dmRUFJTV85eVRVRi1ldndSMkQxYU93clhRRGU0T0h4RThOV09JektZNjBXUGlfTmEzS3VzZGI1akpEdGg2UjJyVkNwSUhlT0ppSHcwZ1NVNlJLWXdlc21WczNYTElTYkl6cVk?oc=5"
     },
     {

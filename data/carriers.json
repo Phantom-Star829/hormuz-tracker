@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T00:07:51.298Z",
+  "updatedAt": "2026-04-30T04:03:37.559Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Strait of Hormuz Reopens - Cruise Critic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "suspended",
-      "note": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says - CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdjJlUzh6ZGZYa2dRbV81Wnl0U2pnOFZzUWtfLVN2YjdhTzYwZTZKZGZBMDNrZllvVWg3dUVaMGMwdDFsVGhXaXdjeTYybElkZDZYMGJCb2gwbXZZbnhJU0FxSUE5RkdWTnRkNVNwbEF0Sk5kYWJ4RVRwcWVxRTDSAYQBQVVfeXFMTlFlbEFTU1NsNUxOcUlNQTM3NEpSakFLaHg5Y0VLNlNPWko4VENBOTlZM3d0Nkg4cG1LakFSVmdfZnlvbGh4dHQ0b0kySUEyMkZTRDhtYkE2VmxFaUt0ZVVrUmM2SFc0OXY1TVFjMmRJUG1yWWlZblRZbGNoRVBPdEF2cEhU?oc=5"
+      "status": "operational",
+      "note": "Reopening the Strait of Hormuz Is Now Job One in the Iran War - WSJ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJWZHRmcHluTHdJQ09BdzZsbEgtQ1NsbHBGczR4emE4d0dmcUJvWnpVaEtUYzZOLUFzNHhmVW05cmw1QnRRSGdNWkNiU3FHczBjajJWdjYtNW4zaW9udkhCbmhPU3VqWVEwOC14cmdGR0tZQmIwNUExeTltOFhmOEstSWhIVVJxWVNZa3k3WGlnQQ?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T22:12:56.228Z",
+  "updatedAt": "2026-04-30T00:07:51.298Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "suspended",
+      "note": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says - CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdjJlUzh6ZGZYa2dRbV81Wnl0U2pnOFZzUWtfLVN2YjdhTzYwZTZKZGZBMDNrZllvVWg3dUVaMGMwdDFsVGhXaXdjeTYybElkZDZYMGJCb2gwbXZZbnhJU0FxSUE5RkdWTnRkNVNwbEF0Sk5kYWJ4RVRwcWVxRTDSAYQBQVVfeXFMTlFlbEFTU1NsNUxOcUlNQTM3NEpSakFLaHg5Y0VLNlNPWko4VENBOTlZM3d0Nkg4cG1LakFSVmdfZnlvbGh4dHQ0b0kySUEyMkZTRDhtYkE2VmxFaUt0ZVVrUmM2SFc0OXY1TVFjMmRJUG1yWWlZblRZbGNoRVBPdEF2cEhU?oc=5"
     },
     {
       "name": "Evergreen",

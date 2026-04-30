@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T11:53:26.610Z",
+  "updatedAt": "2026-04-30T14:24:29.697Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Strait of Hormuz Reopens - Cruise Critic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
     },
     {
       "name": "CMA CGM",

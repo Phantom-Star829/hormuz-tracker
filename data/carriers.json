@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T04:14:45.181Z",
+  "updatedAt": "2026-05-01T07:36:38.195Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Strait of Hormuz Reopens - Cruise Critic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RnZYM09Ydmtsa1FUcU9sV21FWXJrbmphVUt6c0RqR2VpZjcyWGtVTTgyMGVkTzE2VUtIdExFSmk3WDJrTmJ5WlJ2VFpPZE85SV9fZWxvckVyOFhhZ2IzVDN6aTQ4ODhVVnc?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hormuz standoff shows no signs of letting up for vital shipping to resume from Gulf - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV95Z0lZQmhfNEV3LXI2T3dDcjBsVWpzMmcwME1ETF9kRGJUbk81RTFEUjNxdTBzeV9EWDl6VFFldWpwRWhyOXZvOHVONW5NSXAzZWpjeXNBRUhzbnFaTEd5ajdFclRid0hTLXdhajRIQ2RKWmNEZFp0VVYzM1MwZGVwWGFRWTJZeUxROXhqQURud0NoUXlhUmpxMFJYb19hSkh4QUJJRE1SQVlBRmQ5TWFEVk1uUzl0bmxn?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

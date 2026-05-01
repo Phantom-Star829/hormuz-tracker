@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-01T21:07:52.273Z",
+  "updatedAt": "2026-05-01T22:05:32.598Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk Middle East update: New shipping restrictions and surcharges - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDhqaEZYZmNWdzB2TU9IcV9oU2JtcGx1TnhRQWJTODkzTnlrV2FkY3NsTEQxT0U2WmFoUnJaUWNWS19EZnRmSW1ZcHptMThVS09Mb3NnNzQ4Y3BGT01YcU1YUi1pWXhxNi1TVW5BNHBiRjRiU19iMmZUbnFSVmMxREEtWTk2NmZQYTZQSWpZM2tteTV1b29uRjJB?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

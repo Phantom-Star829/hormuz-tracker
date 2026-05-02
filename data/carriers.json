@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T03:49:23.375Z",
+  "updatedAt": "2026-05-02T06:21:47.830Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU1CdVFFWElNbi1mVmt3a19lNHV4bzdwVjJvYXgxWk5MMlhNMVZkT2QtVnNnSHFhb19PaWVVWktnejUtd21RNWVyT1pzem84VmxCTW5ZMWtOeXc0MVNwTmlmY0NnRkNXNW1IWkdjNFRoQ1ZVMjJjbUdrcnNTdlFBMjA0MHRfc0EyMjdBODhwa3dmRUFJTV85eVRVRi1ldndSMkQxYU93clhRRGU0T0h4RThOV09JektZNjBXUGlfTmEzS3VzZGI1akpEdGg2UjJyVkNwSUhlT0ppSHcwZ1NVNlJLWXdlc21WczNYTElTYkl6cVk?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

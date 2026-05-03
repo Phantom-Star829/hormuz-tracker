@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T21:01:12.543Z",
+  "updatedAt": "2026-05-03T21:59:01.692Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "limited",
-      "note": "News Frustrated shippers question validity of carrier fuel surcharges - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORThiNDNyaVdWUUtZdzhXcnhYa0lmY0pFb0pxT1RyY0JIRDNQZlpWcENyWEp0di1PRGduVTlkcnhYUF9IRUc0TFhPNjRNaUFxS1JxcjFoTjMzUjNMWU9QZGg4WHZBZnI0cG1UYWgzMVVEcThBd3pmSEFkcnYwT3lENVZfZkVNakpaMEw3LTBfZDdYckk?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

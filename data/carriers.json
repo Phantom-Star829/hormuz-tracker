@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-04T18:51:24.321Z",
+  "updatedAt": "2026-05-04T20:42:10.219Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Shipments stranded in Strait of Hormuz as security risks halt vessel movements - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEJ0S1pWZVBVb09mUlU0R21tNmxpRDVvN3JwdWlYbThJUzR1RVViemhwbmlZT0pTY2huTldUdzd6UG5wdkVHd2xfRzNtTTFDWmVTVjFWQ0xoQ3ZtQ0VUd0g5aWZ3eldmTmxiNGRnLUQ3M0VDMzdRNnJobGMtcVc5UDIyT2h3MHY5dHR2X1hvRkQxcVZKcFpwUXpvM2FhUXhJNHRnXzJaUm00UQ?oc=5"
+      "status": "limited",
+      "note": "Maersk Vessel Exits Persian Gulf Under US Military Escort - Bloomberg.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGdpVGxPMG9jX0hlbGhCV1lIM0U0WTBQcGFsSHR0RXRhOHh2QUxmWG1mQ1ZRdkFGX3ZpU1ZsTngxQ19mOGhnWDc1SVplWE9TM1BJRmVKWUlJQUZuZDF5aUdOYmxRMzFXX3czUTJYZ2x4WlpLLWFGbnNNLVUxZlA1UXZvZDhEWlRkci1lbndoTHVMSTV1SjdoeEY4UmdST2t3eFBvLWt0MUs3TjI4?oc=5"
     },
     {
       "name": "MSC",

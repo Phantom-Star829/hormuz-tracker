@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-04T09:33:03.581Z",
+  "updatedAt": "2026-05-04T12:05:41.055Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk Middle East update: New shipping restrictions and surcharges - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDhqaEZYZmNWdzB2TU9IcV9oU2JtcGx1TnhRQWJTODkzTnlrV2FkY3NsTEQxT0U2WmFoUnJaUWNWS19EZnRmSW1ZcHptMThVS09Mb3NnNzQ4Y3BGT01YcU1YUi1pWXhxNi1TVW5BNHBiRjRiU19iMmZUbnFSVmMxREEtWTk2NmZQYTZQSWpZM2tteTV1b29uRjJB?oc=5"
+      "status": "suspended",
+      "note": "Shipments stranded in Strait of Hormuz as security risks halt vessel movements - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEJ0S1pWZVBVb09mUlU0R21tNmxpRDVvN3JwdWlYbThJUzR1RVViemhwbmlZT0pTY2huTldUdzd6UG5wdkVHd2xfRzNtTTFDWmVTVjFWQ0xoQ3ZtQ0VUd0g5aWZ3eldmTmxiNGRnLUQ3M0VDMzdRNnJobGMtcVc5UDIyT2h3MHY5dHR2X1hvRkQxcVZKcFpwUXpvM2FhUXhJNHRnXzJaUm00UQ?oc=5"
     },
     {
       "name": "MSC",

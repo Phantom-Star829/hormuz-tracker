@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T06:54:26.287Z",
+  "updatedAt": "2026-05-04T09:33:03.581Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU1CdVFFWElNbi1mVmt3a19lNHV4bzdwVjJvYXgxWk5MMlhNMVZkT2QtVnNnSHFhb19PaWVVWktnejUtd21RNWVyT1pzem84VmxCTW5ZMWtOeXc0MVNwTmlmY0NnRkNXNW1IWkdjNFRoQ1ZVMjJjbUdrcnNTdlFBMjA0MHRfc0EyMjdBODhwa3dmRUFJTV85eVRVRi1ldndSMkQxYU93clhRRGU0T0h4RThOV09JektZNjBXUGlfTmEzS3VzZGI1akpEdGg2UjJyVkNwSUhlT0ppSHcwZ1NVNlJLWXdlc21WczNYTElTYkl6cVk?oc=5"
+      "status": "suspended",
+      "note": "Shipments stranded in Strait of Hormuz as security risks halt vessel movements - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEJ0S1pWZVBVb09mUlU0R21tNmxpRDVvN3JwdWlYbThJUzR1RVViemhwbmlZT0pTY2huTldUdzd6UG5wdkVHd2xfRzNtTTFDWmVTVjFWQ0xoQ3ZtQ0VUd0g5aWZ3eldmTmxiNGRnLUQ3M0VDMzdRNnJobGMtcVc5UDIyT2h3MHY5dHR2X1hvRkQxcVZKcFpwUXpvM2FhUXhJNHRnXzJaUm00UQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-05T00:06:55.314Z",
+  "updatedAt": "2026-05-05T03:49:16.834Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk Vessel Exits Persian Gulf Under US Military Escort - Bloomberg.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGdpVGxPMG9jX0hlbGhCV1lIM0U0WTBQcGFsSHR0RXRhOHh2QUxmWG1mQ1ZRdkFGX3ZpU1ZsTngxQ19mOGhnWDc1SVplWE9TM1BJRmVKWUlJQUZuZDF5aUdOYmxRMzFXX3czUTJYZ2x4WlpLLWFGbnNNLVUxZlA1UXZvZDhEWlRkci1lbndoTHVMSTV1SjdoeEY4UmdST2t3eFBvLWt0MUs3TjI4?oc=5"
+      "note": "US Navy escorts Maersk ship through Strait of Hormuz - The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tTUNGRm92cVRWUW1KZ0p0b1pXR0VIQ3NzZ09rZnpEd3VRVC13bDVtdndwNmFXSGdtMmxpM0dlcWF3RWFNMkpOaGUzYUtOY2tyTTdwTXkwNnBUVTVnWlhETnlIeXdfaG5NZUE?oc=5"
     },
     {
       "name": "MSC",

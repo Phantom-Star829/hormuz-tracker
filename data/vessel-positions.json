@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T16:46:20.519Z",
+  "updatedAt": "2026-05-05T09:20:19.804Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,13 @@
   },
   "vessels": [
     {
-      "mmsi": 413530630,
-      "name": "MMSI 413530630",
+      "mmsi": 341028000,
+      "name": "ALMA NOVA",
       "type": "Other",
-      "lat": 25.959965,
-      "lon": 55.50015166666667,
-      "sog": 0,
-      "cog": 352
+      "lat": 26.305525,
+      "lon": 56.25003,
+      "sog": 0.1,
+      "cog": 180
     }
   ],
   "demo": false

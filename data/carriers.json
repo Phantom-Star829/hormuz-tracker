@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T22:09:16.058Z",
+  "updatedAt": "2026-05-06T23:08:21.940Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Reopening of Bookings to Upper Gulf Locations - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazM5cXNXeDZmRFZUUVo3aWp0ZXhTdkpTNmlPdGl4dngycVNwRGtqYzZMdF9RSDZyWVE2VXI1SXJWY0Zma2tUM0NUbGtUVUc4b0VWeTZwTlI5ekRwTjhsQjZiLS1tNnZ3ZW8wUWpWSEEwbExmdVpNYnc2MnExaFJ2R2FjYV9VQTN6b0FUSlUyRExjOFJ6Ym9XLU5mSzhFd3duYW1leGtPS2ZzMU1yVWc3bEh2cEhHQQ?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd Halts Strait of Hormuz Shipments Amid Geopolitical Tensions - Moomoo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGd2Qmozd0NDX1BjSklwNlo3RGwzTzF0c2NCX1lRanQ5NXlVMHVEcmNkNFRtS1ZNSnpFd3hJbTdvelpXMzZtU05FU08xSmVxYXd2SkItYW1sQnVGUFF2R1dNNmdrWUFYV3hYTXJnb1dlLWM5VXA5QlgwdFFPb21UUUxzSXBTaDlLMU14aGQ5VjVYaGdKS0VLVThwN3BTX2FTZFBqWjhPQmNEUkctMUg3VHdBRQ?oc=5"
     },
     {
       "name": "ONE",

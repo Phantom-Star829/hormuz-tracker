@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T16:54:46.254Z",
+  "updatedAt": "2026-05-06T18:55:37.014Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "suspended",
-      "note": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5"
+      "note": "After Attack on CMA CGM Boxship, Trump Suspends Hormuz Transit Corridor - The Maritime Executive",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmVsUm5UWFBYQ3VKMEFwdFFLbVBnNHZYRjZCTWdoeUVybjNCX1ltSEc0MnBRWE9EeG13anZ2NkhSUW1jNmpIU0M1RmRRUzQ2RW5KbDZkZjVQZTNEb290ZnFuVFh1dVp3emswM0IweFZ6eDN4blU0ZEFMTEFkYm1uZU9Pc1cxdDJnYnpVbGxGdHYyMGVPaGk1QjNRYldkbVZjZTI2M0VOT2VFU1B6RFVqZ2JxTQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T09:37:18.304Z",
+  "updatedAt": "2026-05-06T12:04:26.926Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Shipping giant MSC opens new trade route to bypass Hormuz disruption - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWhpZFIyWTVVWWpsRVloVjlqR1lmQ3hHTk93VHMteURiNmZJLUlTdVNwSm5CRmhEd0NYak1MNnl2RkxuQmNuajBFSGxzOVoxalE5ZXgwajFNai1OcWZwS3hFX2trUTRKRG5sTjQ3Z1ZaOGsyZDJ6dTI2OWZGOFVkUU9WaXhCVG5EZEhyMUQ3SHJtLTNyYjV6VloyUXZXMUlZbGVSQ3dRdW9odWh2MTkxM0ZXVQ?oc=5"
+      "status": "limited",
+      "note": "Maersk Ship Clears Hormuz Under US Escort as MSC, Hapag-Lloyd Pivot Routes - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSnllRTJnenExQUZhQVgxUnVFMzFmNDZ4c3JHNzBKM2hHdzZZTnJabDdsTzBKZTlDb3c4Q25tQ09sMDF5QTZydzRxU1c5QXhoUEF5X3BmMXlLUGp6TWx3VnU1SlVrc0wtUTRFZjJROHVpWEYwSzBGU3dnNWpnQVJxeGdyRng3bF9hczQtTnp0RFNrT1Z5N0d0SUlpTkZ2WDZYYlpQMHlyQ1R2aEhjVVNwMHR5T2U1SkFBd3dHaGdqUE9pY3g2blRBdFU2cTU5akxaQXlVWHViZThEbGdxU3VEOWZGYXZ2cmdkTElSS3VzT00?oc=5"
     },
     {
       "name": "CMA CGM",

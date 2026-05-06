@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T12:04:26.926Z",
+  "updatedAt": "2026-05-06T14:44:11.409Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,15 +9,15 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "Maersk Ship Clears Hormuz Under US Escort as MSC, Hapag-Lloyd Pivot Routes - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSnllRTJnenExQUZhQVgxUnVFMzFmNDZ4c3JHNzBKM2hHdzZZTnJabDdsTzBKZTlDb3c4Q25tQ09sMDF5QTZydzRxU1c5QXhoUEF5X3BmMXlLUGp6TWx3VnU1SlVrc0wtUTRFZjJROHVpWEYwSzBGU3dnNWpnQVJxeGdyRng3bF9hczQtTnp0RFNrT1Z5N0d0SUlpTkZ2WDZYYlpQMHlyQ1R2aEhjVVNwMHR5T2U1SkFBd3dHaGdqUE9pY3g2blRBdFU2cTU5akxaQXlVWHViZThEbGdxU3VEOWZGYXZ2cmdkTElSS3VzT00?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "suspended",
-      "note": "After Attack on CMA CGM Boxship, Trump Suspends Hormuz Transit Corridor - The Maritime Executive",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmVsUm5UWFBYQ3VKMEFwdFFLbVBnNHZYRjZCTWdoeUVybjNCX1ltSEc0MnBRWE9EeG13anZ2NkhSUW1jNmpIU0M1RmRRUzQ2RW5KbDZkZjVQZTNEb290ZnFuVFh1dVp3emswM0IweFZ6eDN4blU0ZEFMTEFkYm1uZU9Pc1cxdDJnYnpVbGxGdHYyMGVPaGk1QjNRYldkbVZjZTI2M0VOT2VFU1B6RFVqZ2JxTQ?oc=5"
+      "note": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

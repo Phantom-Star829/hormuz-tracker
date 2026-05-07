@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T20:18:28.452Z",
+  "updatedAt": "2026-05-07T18:58:00.645Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,58 @@
   },
   "vessels": [
     {
-      "mmsi": 341028000,
-      "name": "ALMA NOVA",
+      "mmsi": 352753000,
+      "name": "FRANBO PROGRESS",
       "type": "Other",
-      "lat": 26.305515,
-      "lon": 56.25004166666667,
-      "sog": 0.1,
-      "cog": 180
+      "lat": 26.1927,
+      "lon": 55.82306666666667,
+      "sog": 43.4,
+      "cog": 136
+    },
+    {
+      "mmsi": 563180300,
+      "name": "BOW LION",
+      "type": "Other",
+      "lat": 26.20272333333333,
+      "lon": 55.82541166666667,
+      "sog": 47.7,
+      "cog": 295
+    },
+    {
+      "mmsi": 538005129,
+      "name": "SERENE MONACO",
+      "type": "Tanker",
+      "lat": 26.19725,
+      "lon": 55.76716666666667,
+      "sog": 42.6,
+      "cog": 220
+    },
+    {
+      "mmsi": 636022355,
+      "name": "LILA INCHEON",
+      "type": "Other",
+      "lat": 26.1932,
+      "lon": 55.82136333333334,
+      "sog": 47.6,
+      "cog": 140
+    },
+    {
+      "mmsi": 352005947,
+      "name": "RATGA",
+      "type": "Other",
+      "lat": 26.1945,
+      "lon": 55.81856666666667,
+      "sog": 48.5,
+      "cog": 131
+    },
+    {
+      "mmsi": 341495000,
+      "name": "TRISTAR TRIUMPH",
+      "type": "Other",
+      "lat": 26.19246,
+      "lon": 55.776848333333334,
+      "sog": 50.4,
+      "cog": 63
     }
   ],
   "demo": false

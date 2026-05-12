@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T13:13:18.756Z",
+  "updatedAt": "2026-05-12T16:32:37.261Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Reopening of Bookings to Upper Gulf Locations - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazM5cXNXeDZmRFZUUVo3aWp0ZXhTdkpTNmlPdGl4dngycVNwRGtqYzZMdF9RSDZyWVE2VXI1SXJWY0Zma2tUM0NUbGtUVUc4b0VWeTZwTlI5ekRwTjhsQjZiLS1tNnZ3ZW8wUWpWSEEwbExmdVpNYnc2MnExaFJ2R2FjYV9VQTN6b0FUSlUyRExjOFJ6Ym9XLU5mSzhFd3duYW1leGtPS2ZzMU1yVWc3bEh2cEhHQQ?oc=5"
+      "status": "limited",
+      "note": "Maersk Ship Clears Hormuz Under US Escort as MSC, Hapag-Lloyd Pivot Routes - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSnllRTJnenExQUZhQVgxUnVFMzFmNDZ4c3JHNzBKM2hHdzZZTnJabDdsTzBKZTlDb3c4Q25tQ09sMDF5QTZydzRxU1c5QXhoUEF5X3BmMXlLUGp6TWx3VnU1SlVrc0wtUTRFZjJROHVpWEYwSzBGU3dnNWpnQVJxeGdyRng3bF9hczQtTnp0RFNrT1Z5N0d0SUlpTkZ2WDZYYlpQMHlyQ1R2aEhjVVNwMHR5T2U1SkFBd3dHaGdqUE9pY3g2blRBdFU2cTU5akxaQXlVWHViZThEbGdxU3VEOWZGYXZ2cmdkTElSS3VzT00?oc=5"
     },
     {
       "name": "ONE",

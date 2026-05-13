@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T05:00:17.081Z",
+  "updatedAt": "2026-05-13T08:11:28.114Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Reopening the Strait of Hormuz Is Now Job One in the Iran War - WSJ",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJWZHRmcHluTHdJQ09BdzZsbEgtQ1NsbHBGczR4emE4d0dmcUJvWnpVaEtUYzZOLUFzNHhmVW05cmw1QnRRSGdNWkNiU3FHczBjajJWdjYtNW4zaW9udkhCbmhPU3VqWVEwOC14cmdGR0tZQmIwNUExeTltOFhmOEstSWhIVVJxWVNZa3k3WGlnQQ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

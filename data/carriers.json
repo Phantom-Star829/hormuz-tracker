@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-14T10:32:56.221Z",
+  "updatedAt": "2026-05-14T13:05:13.879Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "US Navy escorts Maersk ship through Strait of Hormuz - The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tTUNGRm92cVRWUW1KZ0p0b1pXR0VIQ3NzZ09rZnpEd3VRVC13bDVtdndwNmFXSGdtMmxpM0dlcWF3RWFNMkpOaGUzYUtOY2tyTTdwTXkwNnBUVTVnWlhETnlIeXdfaG5NZUE?oc=5"
+      "status": "operational",
+      "note": "Reopening strait of Hormuz would have limited impact on cargo flows, says Maersk - The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHA5T1RSWk1LMUd5WFNIZ1RMOFN5U1F3RFZSLTVqWldBR19MN1FXWHpwb0h6Qk13eW1SeUx0d3hSdnVZR01OQkFRQ2VaTVUweEw0SlJyYlNKSXZNUjRUQldaa1Fkc2pzTDFDSF9QNk51S1Utc3pERTNoaC1neDZaTzVoOVJNUnhac0RNNTZ2bWxSTGo4dXA5eExtSEpUQ0NRbDUtWFlYOUlWUm9ydTVaTUNQS2UtNy10ZDJfMk81TVgyOGtDSHFJ?oc=5"
     },
     {
       "name": "MSC",

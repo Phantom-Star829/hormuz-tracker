@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T00:06:21.479Z",
+  "updatedAt": "2026-05-17T04:20:08.865Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen - PBS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORE9hb3FLN0EtMjR3U1lobWZrdldEb1pIT3FXa3ZBa0R5MU1nTkI5NlJGZ1NqRGk2SnhwWHE5alJ4RWx0ZmZRX2UteE1FM1pJR05XSjhFdlltNTVQVkVuUV9naVkzVW9tVE9iZXpKcGxObTJMNndBVnhROWJYXzZRWTlYOG9qdVdCdnV4dFlsR080czVwRlhYekRpd2llbWJYQ3pUME83ZkhzaDNFeUpoaHN4Q2dNVEZuZjNCZzl4ZTNVbjY4enF1Tmg2UGxPckJZ0gHWAUFVX3lxTE5NRllpbXdPUnJUZVl3Z2JJNy1pUGhPbjhhbUVmbEwwYmhWVVBfVU9hdWN1aEx1U3pQVEFaNFJhMWxZMVh6X3dQalk5c2dJS2tYNlRIMWxPODdDYjc5S1l0cllCOHk4TkxoOTRpbkNmRXZYTnJmS1g0eXl2VjFXRTZkX1RWOTdFNGQxZ3dISFhDYzRGQ192R1hRUHBjS0JRVzBuOHNIdG5CWlktTHdLZ2VlM2pFS3lhR1VWVXJPT09RTUNUOHloQlVrU0diNjNPSWVoaEJZMkE?oc=5"
+      "status": "limited",
+      "note": "Maersk Ship Clears Hormuz Under US Escort as MSC, Hapag-Lloyd Pivot Routes - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSnllRTJnenExQUZhQVgxUnVFMzFmNDZ4c3JHNzBKM2hHdzZZTnJabDdsTzBKZTlDb3c4Q25tQ09sMDF5QTZydzRxU1c5QXhoUEF5X3BmMXlLUGp6TWx3VnU1SlVrc0wtUTRFZjJROHVpWEYwSzBGU3dnNWpnQVJxeGdyRng3bF9hczQtTnp0RFNrT1Z5N0d0SUlpTkZ2WDZYYlpQMHlyQ1R2aEhjVVNwMHR5T2U1SkFBd3dHaGdqUE9pY3g2blRBdFU2cTU5akxaQXlVWHViZThEbGdxU3VEOWZGYXZ2cmdkTElSS3VzT00?oc=5"
     },
     {
       "name": "ONE",

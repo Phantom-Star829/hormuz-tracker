@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T04:40:31.146Z",
+  "updatedAt": "2026-05-18T08:54:04.384Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "suspended",
-      "note": "Shipping giant MSC opens new trade route to bypass Hormuz disruption - Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWkzV2ZnNk5LQng3a2wwRU5ucjJkbFowZnNONG1VY0haNkVnWC15Z1ZTTFRQVEZtRW1EbVZqb29FSDlHT0J0SlIwM2RlWUQyQWVoUXJpWFRodDdxa1hiY2kwS0tqYTVsWUJUUEtBbXhhYU5XRTRGNkd1X2QwN3ctc1M1Wm1hMWlIRHk0c3l0bkVMdnpZZkJIbERMWQ?oc=5"
+      "note": "MSC launches Europe–Gulf route via Saudi ports to bypass Strait of Hormuz - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9uWElTR19rMkZYcGtORXI1dTlHTUJhdkhacG1uQlI4Vi1ESFo5a0t2azJWNnhJQWZXaHFHWFZaMXlTdzd1V214YkpneVlkcVZNWkhxbW9NMjI5Rzd3N2h1dDVzNk1MVmVIUV82eTlCLUlVRE9idVJyZjUwVzVIS3pnOEY3WklRR05sVXJKSkt6UjNSblNQVVBidzJYZVRzWlkwd2J0V3BSZFFMMlA1bTg4UWRSM3AzeUEyM0NuUdIB1AFBVV95cUxPcVBEbmpLVE1yRWNlV1cyUGZHLVdPOENXNUU1anBzWFdpNDFFdWNPUXk1RDVsT1FDWU9tLTJWN1d5emFjRXZVazY0d1lFR2lBUXkxVUZtUkNLb2NGY3FKWmp6U1ROb2FnZzNzYW1LM3BjUUhIT1VjcFdHcVBRcVFtZjhMSktpVGxCNHJKOUJmX3JGV2txM3drVzVaLWtUWF93cGwxOFF5aXlwSDQwWmJaVTlUaGRrcEtLQ1h5cHBfTXFleW1ocDhDZVl6UDY4WWphUXdSdg?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Maersk Ship Clears Hormuz Under US Escort as MSC, Hapag-Lloyd Pivot Routes - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSnllRTJnenExQUZhQVgxUnVFMzFmNDZ4c3JHNzBKM2hHdzZZTnJabDdsTzBKZTlDb3c4Q25tQ09sMDF5QTZydzRxU1c5QXhoUEF5X3BmMXlLUGp6TWx3VnU1SlVrc0wtUTRFZjJROHVpWEYwSzBGU3dnNWpnQVJxeGdyRng3bF9hczQtTnp0RFNrT1Z5N0d0SUlpTkZ2WDZYYlpQMHlyQ1R2aEhjVVNwMHR5T2U1SkFBd3dHaGdqUE9pY3g2blRBdFU2cTU5akxaQXlVWHViZThEbGdxU3VEOWZGYXZ2cmdkTElSS3VzT00?oc=5"
+      "status": "operational",
+      "note": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen - PBS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORE9hb3FLN0EtMjR3U1lobWZrdldEb1pIT3FXa3ZBa0R5MU1nTkI5NlJGZ1NqRGk2SnhwWHE5alJ4RWx0ZmZRX2UteE1FM1pJR05XSjhFdlltNTVQVkVuUV9naVkzVW9tVE9iZXpKcGxObTJMNndBVnhROWJYXzZRWTlYOG9qdVdCdnV4dFlsR080czVwRlhYekRpd2llbWJYQ3pUME83ZkhzaDNFeUpoaHN4Q2dNVEZuZjNCZzl4ZTNVbjY4enF1Tmg2UGxPckJZ0gHWAUFVX3lxTE5NRllpbXdPUnJUZVl3Z2JJNy1pUGhPbjhhbUVmbEwwYmhWVVBfVU9hdWN1aEx1U3pQVEFaNFJhMWxZMVh6X3dQalk5c2dJS2tYNlRIMWxPODdDYjc5S1l0cllCOHk4TkxoOTRpbkNmRXZYTnJmS1g0eXl2VjFXRTZkX1RWOTdFNGQxZ3dISFhDYzRGQ192R1hRUHBjS0JRVzBuOHNIdG5CWlktTHdLZ2VlM2pFS3lhR1VWVXJPT09RTUNUOHloQlVrU0diNjNPSWVoaEJZMkE?oc=5"
     },
     {
       "name": "ONE",

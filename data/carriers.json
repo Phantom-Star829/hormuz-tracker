@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T21:44:36.732Z",
+  "updatedAt": "2026-05-19T23:21:01.922Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Attack on French Cargo Ship Highlights Continued Risks in Strait of Hormuz - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEVxRmdWVE9iajV4VGRZYl9LTllObm11Z2NGcnh3d2YxZTdLYnFkTWhPTS1yZk9FdE9lY092bWNiSnZJX1VBSXJjT1Q4RXhJd29RczBhUE4tNUQ3U2dvQnBhV0tNRldOUGFLZk11dkZiTUYtX2RRMHdZeEdYMEt2c1d4V1dhNU1ONW5F?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

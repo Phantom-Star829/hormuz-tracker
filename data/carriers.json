@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-20T08:36:58.221Z",
+  "updatedAt": "2026-05-22T08:33:18.056Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Reopening strait of Hormuz would have limited impact on cargo flows, says Maersk - The Guardian",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHA5T1RSWk1LMUd5WFNIZ1RMOFN5U1F3RFZSLTVqWldBR19MN1FXWHpwb0h6Qk13eW1SeUx0d3hSdnVZR01OQkFRQ2VaTVUweEw0SlJyYlNKSXZNUjRUQldaa1Fkc2pzTDFDSF9QNk51S1Utc3pERTNoaC1neDZaTzVoOVJNUnhac0RNNTZ2bWxSTGo4dXA5eExtSEpUQ0NRbDUtWFlYOUlWUm9ydTVaTUNQS2UtNy10ZDJfMk81TVgyOGtDSHFJ?oc=5"
+      "status": "suspended",
+      "note": "Maersk Keeping Strait of Hormuz Transits Suspended as Ceasefire Confidence Wavers - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakFPR1ZhQ0ppOWl3LUNSN1lySTRwdHpLRUxaRzRjVDRfeWxjVVBSMm5sdGNQbk1SaHBCemd4N0Ixb3dheDc0ZGVtUE1lbE5lbVhFY2c2S1BBcDV4ZkVBWG9rNlJ6dUZJNl96ODh4U0tiblZFRFZYZzFCQU56a0oyT3VWaTVYbDRCMUs4WGhBenBhcnhNZzRwRl9kNnFtZEs4NWtHSUdR?oc=5"
     },
     {
       "name": "MSC",
       "status": "suspended",
-      "note": "Travel Logistics Game-Changer: Saudi Arabia’s New MSC Route Bypasses Strait of Hormuz, Connecting Europe to Gulf Ports for Efficient Travel ",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQmdLVFJOMnpobkM5RlNFSnRSdlNJdGd2S1pOSWI0ZFZrNFJ5OWNNMkRWUzBpdmwzMHY1MlJrZ1BDNk5MRUltQV9IYzBPeGhrVFJFQ0NMUTQtWnU2dTVTdlEzWHlKakowbTlpbU8tRDIxc3JkSFdWWjJDMVdqT1J6VGc5QTcya3RldmpjWEJaZXNkb2pZMDExS1lPeXdUWV9KekQ2b1pma1YxNm5QTDloTnhlWThCdGNZX2t4WDMxdWI2TGFlV0M3Z1JkdXV6cmV4d2VZU2dURC0xN3Bpdk5yb0hRMzktdGg2U2ZFRl9tNUZwN0poa2dNUXdlRWlTUnpMRWswUFdpNGM1dXZiQ3J2LV9KNndYbjBjQVZZ?oc=5"
+      "note": "MSC unveils Saudi land bridge to bypass Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVhrcVExdi04UDMwLTJYQTBjZ3dKcmRKOWZkMEkzWjlSY1NUdzlkVzAzODIzazQxYThMbUR0Skh0eFRiOVhqNjVlcy1jRXVCdHdGRXYzSkl6RnZTTHROdHZ3V2RLbFI0M01DeVhnTG1jQ1djRGxYbHYwRnFxWlZYWFlNVVUyV0ZJVFJZME1KemZkdG1aelR5RXM1UVYyY0xNQ21JRF9WTlR3TW1uYlFXc1YteV9YUGI0YzlORW5LbEpFMTNsX0JpN0lrZEVIRXVUTS1N?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "suspended",
+      "note": "Shippers Hapag-Lloyd, CMA CGM Suspend Cuba Bookings After US Executive Order - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0d6eEhzeVB6QkdOWUJ5ODRtVkRVWnI5ZDN0amtXX3phYTE4R2RfakNJb1B2OTNCdGw1NTVMM1FubmdweUY2Wm1hODMwSW4wRVBzWlcwLWFIeVBGck05RE93cHZjVDBncHBYQU1fOFFSVmlhXzN1RTRqeW1wQWl4OGV0dml3ZGR3ZU9rRkJhei1BMW5MWUNOYnRyRnhOUQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipping firms are being whipsawed by changing stances and risks as they wait for Hormuz to reopen - PBS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORE9hb3FLN0EtMjR3U1lobWZrdldEb1pIT3FXa3ZBa0R5MU1nTkI5NlJGZ1NqRGk2SnhwWHE5alJ4RWx0ZmZRX2UteE1FM1pJR05XSjhFdlltNTVQVkVuUV9naVkzVW9tVE9iZXpKcGxObTJMNndBVnhROWJYXzZRWTlYOG9qdVdCdnV4dFlsR080czVwRlhYekRpd2llbWJYQ3pUME83ZkhzaDNFeUpoaHN4Q2dNVEZuZjNCZzl4ZTNVbjY4enF1Tmg2UGxPckJZ0gHWAUFVX3lxTE5NRllpbXdPUnJUZVl3Z2JJNy1pUGhPbjhhbUVmbEwwYmhWVVBfVU9hdWN1aEx1U3pQVEFaNFJhMWxZMVh6X3dQalk5c2dJS2tYNlRIMWxPODdDYjc5S1l0cllCOHk4TkxoOTRpbkNmRXZYTnJmS1g0eXl2VjFXRTZkX1RWOTdFNGQxZ3dISFhDYzRGQ192R1hRUHBjS0JRVzBuOHNIdG5CWlktTHdLZ2VlM2pFS3lhR1VWVXJPT09RTUNUOHloQlVrU0diNjNPSWVoaEJZMkE?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

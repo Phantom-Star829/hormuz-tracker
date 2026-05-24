@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T10:07:08.730Z",
+  "updatedAt": "2026-05-24T11:42:03.710Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "Shippers Hapag-Lloyd, CMA CGM Suspend Cuba Bookings After US Executive Order - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0d6eEhzeVB6QkdOWUJ5ODRtVkRVWnI5ZDN0amtXX3phYTE4R2RfakNJb1B2OTNCdGw1NTVMM1FubmdweUY2Wm1hODMwSW4wRVBzWlcwLWFIeVBGck05RE93cHZjVDBncHBYQU1fOFFSVmlhXzN1RTRqeW1wQWl4OGV0dml3ZGR3ZU9rRkJhei1BMW5MWUNOYnRyRnhOUQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

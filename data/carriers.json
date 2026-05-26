@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-26T16:53:58.960Z",
+  "updatedAt": "2026-05-26T19:29:27.149Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Maersk Keeping Strait of Hormuz Transits Suspended as Ceasefire Confidence Wavers - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakFPR1ZhQ0ppOWl3LUNSN1lySTRwdHpLRUxaRzRjVDRfeWxjVVBSMm5sdGNQbk1SaHBCemd4N0Ixb3dheDc0ZGVtUE1lbE5lbVhFY2c2S1BBcDV4ZkVBWG9rNlJ6dUZJNl96ODh4U0tiblZFRFZYZzFCQU56a0oyT3VWaTVYbDRCMUs4WGhBenBhcnhNZzRwRl9kNnFtZEs4NWtHSUdR?oc=5"
+      "status": "limited",
+      "note": "Maersk-operated ship escorted by US military through Strait of Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQcDFSbFN6eXI4OE15MUxFQUY4a09EVmp1WUZHZlJYTFdPNHVRMEVOb2NUTTM0bk9wSTBaZkdKSUZUWmFMQmRUY0p2MFp1OF9fMTEzTXloXzd0Z3BzVHVzZTlsR000dVhCRTFTeUhSNXNwb3k3ZzZPalFjRGdSNzRlc2JDS2pETVI3UU5EaE0zcWd4ZC1CWGotZndnUG5VaTdOcTRpZUtROEJCb3pXUzRzT05FN0lYT3g3RmZqeG9xaG56Rlp4cmU5ckdiNG5YSlFmTm9vV0ZBdXQzY0s1UmlXYlZUTTFYcWdQakZOZGZQWFpDV3I1enNFZkFCLTQtQnpyWDBuYmFUZHo1aGVQOUtBUUNvS190LWZobTRaVEJWdzljaGNLY215cUFaU0x0VFdpOHh3ZVJGX1pJVUllR3ZmeVpoaFlUVm1IV0ZjZEUwc3FKa2czUEpLVWNvSGtiQ3Rw?oc=5"
     },
     {
       "name": "MSC",

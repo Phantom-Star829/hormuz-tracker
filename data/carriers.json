@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T08:52:53.748Z",
+  "updatedAt": "2026-05-29T12:28:23.594Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "The Risks of Iran’s Threat to Control the Strait of Hormuz - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LblBnVmxab2lVdlBFRmpHWkZRZjJCM29sTGdhbTlEMWU4MUJoUGJ3NGM4SlBOa0VUaTV2eXRsMHIxRURfU3g3dmgxYW9KU3FJcHl5eDlwNk85azd1WXhMRkZoOHRPUTRuVXR5b3hZV21pOTk2bjhrZVJ6R0U?oc=5"
+      "status": "operational",
+      "note": "Trump faces growing pressure to reopen Hormuz Strait — one way or another - The Hill",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzBIZ0o2WEw4M0JJMjJLdEJ0djc5enBJa2pGNkdkYW1Ydmt6WVg2SU52X2dMbDBoVkFHOEVxXzFUOG1paldqV0ZGQlBLYlZVZzB3QUZNQWZ2cnNoR3RhOHdfQUt1djVYRlB6cjJHa09uR3BmdlZfblUtOFBUaFdvT2Fld9IBiAFBVV95cUxPN2drUWJQa0I3WUx2Sm93NVhnT0VoWkVrdXowQkVQZmFTWXkxS3lacnhNS0Z1VmRSQjhhMklaZERSTXpQcy1seENuZ0ZWZkdVWThBZGxhbU9QdlluQTBnOWp6d0FmdHE1MDlyN0hVbzU2eU1seFlwZWxCdGladkJGT0I0QndHMEVk?oc=5"
     },
     {
       "name": "Evergreen",

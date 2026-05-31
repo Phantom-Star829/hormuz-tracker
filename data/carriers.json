@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-31T16:24:03.079Z",
+  "updatedAt": "2026-05-31T18:16:36.730Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Maersk suspends vessel transit through Strait of Hormuz - Emporia Gazette",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdERmWnFaSFV5ZmRvQjlPTV9PX2pHWEVXS0k3VUdlb1FoYm51UWJ2REFYZjVaaGpYejdsWmxSU3pyODAwRFZWX0gwOXZuVjVNWmRfUVNPbUZZNHNQYTVCRWNoZ3ZnS2JWQ1VpRF9pX0xuYUQwUHp3Z1hZSjJnOGlOenFRWU5KZHdfdF9FTnhEQ2ZJTHJnaERDSUV3?oc=5"
+      "status": "limited",
+      "note": "Maersk-operated ship escorted by US military through Strait of Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE5iQzVZMzMtM1ZqbU11OVJId1AycmZWdEF4WXV0ZFdUbDRHYVpXWDZPOUZwZ25OdUdwUF8yemlWSFpiRkdsaENDblg2Z1IzdlNuVTRpR1pnd2dEYnZVR1FQMHVYU1o4Z1pLQ2lhcFlxYWFwUk1Hcy1nS3cwc2pKV3lWN1lteGM3YW01NlFyeDlzbmtwb0Y3V0RRS3RuQ0ZfaG53UF9VRE1lMXFRRW5BOVVTZHBrUGlRU0RqNUh3cV94blhrSjRGenp3?oc=5"
     },
     {
       "name": "MSC",

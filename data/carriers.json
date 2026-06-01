@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-01T06:19:47.554Z",
+  "updatedAt": "2026-06-01T12:50:27.707Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "suspended",
-      "note": "Maersk suspends vessel transit through Strait of Hormuz - Emporia Gazette",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdERmWnFaSFV5ZmRvQjlPTV9PX2pHWEVXS0k3VUdlb1FoYm51UWJ2REFYZjVaaGpYejdsWmxSU3pyODAwRFZWX0gwOXZuVjVNWmRfUVNPbUZZNHNQYTVCRWNoZ3ZnS2JWQ1VpRF9pX0xuYUQwUHp3Z1hZSjJnOGlOenFRWU5KZHdfdF9FTnhEQ2ZJTHJnaERDSUV3?oc=5"
+      "note": "Maersk reroutes non-Saudi Gulf cargo away from Jeddah - Seatrade Maritime News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGZaR1RIZnI1MUxCS2RaaVBHTVNmMnVGTGo2ZzVpYkhPV3VMbTVuQzFHWGtTbUtPMU1wYnhhalB3eFFQcVhxWVhmeFQ0WGVvNFE5VTQyWmJ6MTJuMFRacndPbksyZ1lIbTdqOUNyNUxBMGJSMnJqOHFtWEpWamxzMHE3dS1NZmZqalkxSXoxRTJ1RzUyeXN2allycEFWeEk?oc=5"
     },
     {
       "name": "MSC",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "CMA CGM and Hapag-Lloyd stop Cuba operations after US order - Baird Maritime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVNFNWd4VENtQTMyd2Y3b0xrSVc0Z2lKZDhxNUZhaVZNbW1Tdm9CMTRmSnZycHNxQXNfQ3RXQXJ6WTV4enlQalBodUNhTHBXNUxob2pEOWZ4UkRVeUlFbnhtdU8tcGE4SnMwd2oya0ZKRTEtQWoxVmF0bThFUHRiRldPV0hBc18xcnNybzdXVmFRZ1QzZUlJN1EzMTNMcV9GUUl5S0NXWWNPNEHSAbgBQVVfeXFMTTJuYndfcEpfWmJkbVNieGZmdzh6aWp1b1pwX2lrSzMtXzZhZnp4UHd5YlJWWjVneVZiT1FyOWFvby1EbURjNGktTU9LcXNyZ2F3OUpjUXVKTElTZmw5WDRiZk1qNmRjcnhJMGRxeFhoNzZZTnJTWWYtV1YzV3NFVE1qRXRyZC1qZkZnTDFBc3BEOE81VmZqVzhYZ0NrYTU5T2ZoZE9EU3ZTcUJ2MXl5NGd4LTdEVk5tdA?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

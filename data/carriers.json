@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T15:07:01.377Z",
+  "updatedAt": "2026-06-02T18:54:47.235Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "status": "limited",
+      "note": "Strait of Hormuz Crossings with US Assistance: Limited Progress, Persistent Risks as of June 2026 - News and Statistics - IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWxXYlBwVnJObXcyek54UjhsVVRZM0VjYnVCVkRaX0V0cFJHNnRCeF9DWktfREJFQW9uOEFNM2VWZE1lTmNJVlVDQkNweWp1THdoZ09jX3hXRVRTUzVISkVMRnNXQXVqTkxOUGgyRkFxRG5iNlhrTm0wTHZ4VFd6RWlqWlI4bExGTGpKU0p1QUdnUnc4R3M4eldwYmkwN1N3UkY4?oc=5"
     },
     {
       "name": "ONE",

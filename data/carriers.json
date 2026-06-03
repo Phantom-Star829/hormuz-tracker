@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T17:12:51.086Z",
+  "updatedAt": "2026-06-03T21:30:51.795Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,15 +9,15 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "MSC unveils Saudi land bridge route to bypass Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdF9FWWFuRU9WM0ZmYlM2MXBVbEFDNUZfWnNkUFZaTXpoelZHWUw4S3ZPdkwwbnBXWXpGMWNEaXdXbGZpcXlFVDRaMVpyc0NOSGtEWVd4eVowN2pyYzRGRVVONDFEQzRKWG1WVDlyVjVlMXlvT3JBZ2V0NmZYYzZiNU1IcE13dVFyVFRCU29ub0dpUFNEbFE3X1YyNEhXTjNVNDVlM0UxMGliejdETTUxUUdwS1dIVmFwdUhVNldVNE95aFU1d1RzbjVaOEhEcThzUFRVYldLZjU4YUxwS3daSkV5Mi1oVEJxbkFZ?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "US denies restarting Strait of Hormuz escorts - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElEVHVnNFFKdk9LOXZQWFFFOWhab1IxRElfNmFhLWs0bjRVelpZbHl2dXAybHhydWdYMnlHdkV2Y0x3eXBIbE5Db0FzS0o1N2wtS1h1cmtfM1d4SDBwcWIyZ3dwNzg2WWo4UEFYWE1DUDRuOTdUYkJyR2JZVE4zZWRzQ1dvbmNuUkVPc1Aybjdmdw?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9rR2xOTDZqbXlFWURlMGMwS01lUHMwb3pibTEzVlA0Z3NpelZ6djExenpuWlkwdTJHR1lpVGVHY0JtNkMza1NRcWgyeURtUWxXMWg1QmhHSEdEUGtqbVg3Zi1xQVB5LVpfOTM2THVLZC0zMzJwX0QtWHpDazBmMS05MHZmMHZwWWFIOUxaaGhSV3VRY2hvNzY1SVRVbHhrbExQdExFdTBEbE1wend3SFk0YkRHYXhuaTlTMjR2RXhDaVJvM19kS1JKcGdxTTJRLTloM3VjREdWUQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump faces growing pressure to reopen Hormuz Strait — one way or another - The Hill",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzBIZ0o2WEw4M0JJMjJLdEJ0djc5enBJa2pGNkdkYW1Ydmt6WVg2SU52X2dMbDBoVkFHOEVxXzFUOG1paldqV0ZGQlBLYlZVZzB3QUZNQWZ2cnNoR3RhOHdfQUt1djVYRlB6cjJHa09uR3BmdlZfblUtOFBUaFdvT2Fld9IBiAFBVV95cUxPN2drUWJQa0I3WUx2Sm93NVhnT0VoWkVrdXowQkVQZmFTWXkxS3lacnhNS0Z1VmRSQjhhMklaZERSTXpQcy1seENuZ0ZWZkdVWThBZGxhbU9QdlluQTBnOWp6d0FmdHE1MDlyN0hVbzU2eU1seFlwZWxCdGladkJGT0I0QndHMEVk?oc=5"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

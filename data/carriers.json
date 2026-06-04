@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T05:03:50.393Z",
+  "updatedAt": "2026-06-04T09:01:03.540Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "US denies restarting Strait of Hormuz escorts - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElEVHVnNFFKdk9LOXZQWFFFOWhab1IxRElfNmFhLWs0bjRVelpZbHl2dXAybHhydWdYMnlHdkV2Y0x3eXBIbE5Db0FzS0o1N2wtS1h1cmtfM1d4SDBwcWIyZ3dwNzg2WWo4UEFYWE1DUDRuOTdUYkJyR2JZVE4zZWRzQ1dvbmNuUkVPc1Aybjdmdw?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9rR2xOTDZqbXlFWURlMGMwS01lUHMwb3pibTEzVlA0Z3NpelZ6djExenpuWlkwdTJHR1lpVGVHY0JtNkMza1NRcWgyeURtUWxXMWg1QmhHSEdEUGtqbVg3Zi1xQVB5LVpfOTM2THVLZC0zMzJwX0QtWHpDazBmMS05MHZmMHZwWWFIOUxaaGhSV3VRY2hvNzY1SVRVbHhrbExQdExFdTBEbE1wend3SFk0YkRHYXhuaTlTMjR2RXhDaVJvM19kS1JKcGdxTTJRLTloM3VjREdWUQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Trump faces growing pressure to reopen Hormuz Strait — one way or another - The Hill",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzBIZ0o2WEw4M0JJMjJLdEJ0djc5enBJa2pGNkdkYW1Ydmt6WVg2SU52X2dMbDBoVkFHOEVxXzFUOG1paldqV0ZGQlBLYlZVZzB3QUZNQWZ2cnNoR3RhOHdfQUt1djVYRlB6cjJHa09uR3BmdlZfblUtOFBUaFdvT2Fld9IBiAFBVV95cUxPN2drUWJQa0I3WUx2Sm93NVhnT0VoWkVrdXowQkVQZmFTWXkxS3lacnhNS0Z1VmRSQjhhMklaZERSTXpQcy1seENuZ0ZWZkdVWThBZGxhbU9QdlluQTBnOWp6d0FmdHE1MDlyN0hVbzU2eU1seFlwZWxCdGladkJGT0I0QndHMEVk?oc=5"
     },
     {
       "name": "Evergreen",

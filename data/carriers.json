@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T12:15:40.200Z",
+  "updatedAt": "2026-06-04T16:31:01.014Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "MSC unveils Saudi land bridge route to bypass Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdF9FWWFuRU9WM0ZmYlM2MXBVbEFDNUZfWnNkUFZaTXpoelZHWUw4S3ZPdkwwbnBXWXpGMWNEaXdXbGZpcXlFVDRaMVpyc0NOSGtEWVd4eVowN2pyYzRGRVVONDFEQzRKWG1WVDlyVjVlMXlvT3JBZ2V0NmZYYzZiNU1IcE13dVFyVFRCU29ub0dpUFNEbFE3X1YyNEhXTjNVNDVlM0UxMGliejdETTUxUUdwS1dIVmFwdUhVNldVNE95aFU1d1RzbjVaOEhEcThzUFRVYldLZjU4YUxwS3daSkV5Mi1oVEJxbkFZ?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump faces growing pressure to reopen Hormuz Strait — one way or another - The Hill",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzBIZ0o2WEw4M0JJMjJLdEJ0djc5enBJa2pGNkdkYW1Ydmt6WVg2SU52X2dMbDBoVkFHOEVxXzFUOG1paldqV0ZGQlBLYlZVZzB3QUZNQWZ2cnNoR3RhOHdfQUt1djVYRlB6cjJHa09uR3BmdlZfblUtOFBUaFdvT2Fld9IBiAFBVV95cUxPN2drUWJQa0I3WUx2Sm93NVhnT0VoWkVrdXowQkVQZmFTWXkxS3lacnhNS0Z1VmRSQjhhMklaZERSTXpQcy1seENuZ0ZWZkdVWThBZGxhbU9QdlluQTBnOWp6d0FmdHE1MDlyN0hVbzU2eU1seFlwZWxCdGladkJGT0I0QndHMEVk?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

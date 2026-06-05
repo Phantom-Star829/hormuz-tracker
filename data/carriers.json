@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T08:54:05.331Z",
+  "updatedAt": "2026-06-05T12:21:16.502Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "US denies restarting Strait of Hormuz escorts - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElEVHVnNFFKdk9LOXZQWFFFOWhab1IxRElfNmFhLWs0bjRVelpZbHl2dXAybHhydWdYMnlHdkV2Y0x3eXBIbE5Db0FzS0o1N2wtS1h1cmtfM1d4SDBwcWIyZ3dwNzg2WWo4UEFYWE1DUDRuOTdUYkJyR2JZVE4zZWRzQ1dvbmNuUkVPc1Aybjdmdw?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9rR2xOTDZqbXlFWURlMGMwS01lUHMwb3pibTEzVlA0Z3NpelZ6djExenpuWlkwdTJHR1lpVGVHY0JtNkMza1NRcWgyeURtUWxXMWg1QmhHSEdEUGtqbVg3Zi1xQVB5LVpfOTM2THVLZC0zMzJwX0QtWHpDazBmMS05MHZmMHZwWWFIOUxaaGhSV3VRY2hvNzY1SVRVbHhrbExQdExFdTBEbE1wend3SFk0YkRHYXhuaTlTMjR2RXhDaVJvM19kS1JKcGdxTTJRLTloM3VjREdWUQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening - CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTk5pQ2xPTFMtdnRTRms5YVRLTHRTOE5ESGxKbXZWY1ZrSUhSWHlzY2RocFFoUGYyZUNidmYtVDRzUnF3WGw1VC1DNnVJdnlURlEtQUh2Sm9pY29LTDBVRUplaGRPaGpVN0FTWkdvU3JTdlJLUVl1YjR5bHoxTXA3ejdLdnR3TUdYMVRENDdoSFBlZ3M4NURIOU1LRXpqdGJTUVd4amJwX3dxUdIBrwFBVV95cUxNQ0tGZ3N2UldCZ29ZaUJaZVZBQUR6c200THktWHlYQlptRXM5Y0VfMHRtRll5WEY5WGRDVUtMOVdWUXJSMnZaTmFRNFR0QmFpcDBQcUI4V0g1bWpVX05Bam1Uejh1YmkyeENXV1JoQVdpQ181NnpJeFpNejJpcENMME1qd0NHSFRWMjd2TkxMck03ZUpUYUxsVDFuUG5vUTc0MFBsUEY1cVhoNFZBR2w0?oc=5"
+      "status": "limited",
+      "note": "The Risks of Iran’s Threat to Control the Strait of Hormuz - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LblBnVmxab2lVdlBFRmpHWkZRZjJCM29sTGdhbTlEMWU4MUJoUGJ3NGM4SlBOa0VUaTV2eXRsMHIxRURfU3g3dmgxYW9KU3FJcHl5eDlwNk85azd1WXhMRkZoOHRPUTRuVXR5b3hZV21pOTk2bjhrZVJ6R0U?oc=5"
     },
     {
       "name": "Evergreen",

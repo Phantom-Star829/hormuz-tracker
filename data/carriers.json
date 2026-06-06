@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T12:17:03.480Z",
+  "updatedAt": "2026-06-06T14:54:12.530Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "US denies restarting Strait of Hormuz escorts - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElEVHVnNFFKdk9LOXZQWFFFOWhab1IxRElfNmFhLWs0bjRVelpZbHl2dXAybHhydWdYMnlHdkV2Y0x3eXBIbE5Db0FzS0o1N2wtS1h1cmtfM1d4SDBwcWIyZ3dwNzg2WWo4UEFYWE1DUDRuOTdUYkJyR2JZVE4zZWRzQ1dvbmNuUkVPc1Aybjdmdw?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

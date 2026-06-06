@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T18:20:43.373Z",
+  "updatedAt": "2026-06-06T20:22:03.919Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "MSC unveils Saudi land bridge route to bypass Hormuz - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWg5cWNwazR0Qy1JNVMwNF85Y29WWlRPU2Y0bkt0UlQ5bl9ieFNIeHBuMHdSeHdIcUJuUVlmV1FMNzUyLTRKbkQ3dW1ILTlES1RUMmw0M1liSUo3eHJxbndXbjVwVUNKME1uUlI0eFNSX3NneXhsd0hVWDAtOHRaZDdxUzk5XzdLVk96ekM1Z3ZNOHFDUS1kVGtqYVFaSG1nNHl0X21wdnNaTVJ1ZWtrY2ZtZkFvMGllcFRKMmdhcVAwcld5aVBHR3dNZk1pUFB2WkxlS1k0MDgxS00?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

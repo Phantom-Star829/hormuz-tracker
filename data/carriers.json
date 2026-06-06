@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T05:06:11.672Z",
+  "updatedAt": "2026-06-06T08:00:03.140Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump faces growing pressure to reopen Hormuz Strait — one way or another - The Hill",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzBIZ0o2WEw4M0JJMjJLdEJ0djc5enBJa2pGNkdkYW1Ydmt6WVg2SU52X2dMbDBoVkFHOEVxXzFUOG1paldqV0ZGQlBLYlZVZzB3QUZNQWZ2cnNoR3RhOHdfQUt1djVYRlB6cjJHa09uR3BmdlZfblUtOFBUaFdvT2Fld9IBiAFBVV95cUxPN2drUWJQa0I3WUx2Sm93NVhnT0VoWkVrdXowQkVQZmFTWXkxS3lacnhNS0Z1VmRSQjhhMklaZERSTXpQcy1seENuZ0ZWZkdVWThBZGxhbU9QdlluQTBnOWp6d0FmdHE1MDlyN0hVbzU2eU1seFlwZWxCdGladkJGT0I0QndHMEVk?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

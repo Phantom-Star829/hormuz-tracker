@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-07T00:18:08.123Z",
+  "updatedAt": "2026-06-07T05:51:35.248Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Maersk reroutes non-Saudi Gulf cargo away from Jeddah - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGZaR1RIZnI1MUxCS2RaaVBHTVNmMnVGTGo2ZzVpYkhPV3VMbTVuQzFHWGtTbUtPMU1wYnhhalB3eFFQcVhxWVhmeFQ0WGVvNFE5VTQyWmJ6MTJuMFRacndPbksyZ1lIbTdqOUNyNUxBMGJSMnJqOHFtWEpWamxzMHE3dS1NZmZqalkxSXoxRTJ1RzUyeXN2allycEFWeEk?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

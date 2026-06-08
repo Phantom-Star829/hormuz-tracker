@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-08T19:35:04.446Z",
+  "updatedAt": "2026-06-08T22:02:04.170Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Denmark's Maersk halts Hormuz Strait transits after US-Israel-Iran conflict, shifts to land routes - 煤炭资源网",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTFQ2NGpTLVJ4QUFaSG5LOV9VdnNWX0RGLWQ3WV9QNEdNYmtEMFNScDlaUlI0Rlp5WjlYRzJCNk9hSHljZlRqTmtPMm5kWTlmMWRaSGtTcDA4YmxpaDNhc3dvRG1KVVJY?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

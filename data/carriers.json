@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-10T12:37:32.236Z",
+  "updatedAt": "2026-06-10T16:45:56.042Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaDhvV2VlZnF4V2l5UTlPWE9qZzkyM3dPWndXSnd4NEVKSXlaVFdRczBlZDFsdFI5dndsQm9SSEx2ZHE5c0Foa1RHZmtfQk1WajhQdjB4VUxUX1dNXzBNd3JfVEMwYk1fMjNEdEtyRkhFS2lxU3c?oc=5"
     },
     {
       "name": "MSC",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
+      "note": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTlIMFBGUElTMDBza3dNX28yb1VyVVpSWi1kWEd0dUlSS3BXXzNTQ0NlSlhaT3ZCcGZDbmdzY2N3TERJS1c3cHJ2MU5ZQmd3QVhNQmpQRW5PT2w2R3VQS0NsRmpFZ1JNaUZlNzN0Y1FDNHRrTjJTQ1IzYXRWeUt3SQ?oc=5"
     },
     {
       "name": "Evergreen",

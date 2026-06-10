@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-10T16:45:56.042Z",
+  "updatedAt": "2026-06-10T19:46:49.325Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaDhvV2VlZnF4V2l5UTlPWE9qZzkyM3dPWndXSnd4NEVKSXlaVFdRczBlZDFsdFI5dndsQm9SSEx2ZHE5c0Foa1RHZmtfQk1WajhQdjB4VUxUX1dNXzBNd3JfVEMwYk1fMjNEdEtyRkhFS2lxU3c?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

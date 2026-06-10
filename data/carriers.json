@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T23:40:18.754Z",
+  "updatedAt": "2026-06-10T04:44:28.402Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "suspended",
+      "note": "CMA CGM ship struck in Strait of Hormuz, US halts 'Project Freedom' - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcjN0VzkxTzFNZkxZaHRIMnRiWGxZU1BqS2FPcUhuUzFkdUU0YlNEWlF6QjBENUlJb2NRUnVmemd5T1pnaUVGaC1aMWs3OExUb0F1amg5Q2tyZlExYzIwME5nY0ZvRkpTTm15emtUS1B1V2E4bjV5djgtSW9PRkZkOERsMnFqcTVOcFBMUVYtU0VPQUtQZWQzWDczWHY0MXRxXzFwTDdFZXlxdkVsSWU2LXQ3TzBUUEstalZBblFrRHZjWk9CWVFYOFZlOG1WSzZmTzZic2p5bDZSM0NHc25BemRQU0dOeC1TM3Y4Zk5tWllpRE5SMUctWlp5dGxUbmhxY1BlYmMySlhOeHcybjRwbUdzTmpKQjNUVGJ3eHh4WG1sWW5lb0dsY05ZR2dCT0RUZXh2aWJiVTlLc0V0LUduaVViak00V2tvZHc?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

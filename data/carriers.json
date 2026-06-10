@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T19:46:49.325Z",
+  "updatedAt": "2026-06-10T22:20:56.687Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTlIMFBGUElTMDBza3dNX28yb1VyVVpSWi1kWEd0dUlSS3BXXzNTQ0NlSlhaT3ZCcGZDbmdzY2N3TERJS1c3cHJ2MU5ZQmd3QVhNQmpQRW5PT2w2R3VQS0NsRmpFZ1JNaUZlNzN0Y1FDNHRrTjJTQ1IzYXRWeUt3SQ?oc=5"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

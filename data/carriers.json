@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-11T11:48:05.163Z",
+  "updatedAt": "2026-06-11T16:20:56.781Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

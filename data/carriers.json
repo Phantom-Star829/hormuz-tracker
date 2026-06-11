@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-11T16:20:56.781Z",
+  "updatedAt": "2026-06-11T19:44:39.282Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -21,15 +21,15 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
+      "status": "suspended",
+      "note": "Strait of Hormuz Escort Mission Paused Amid Reported MOU Progress - Global Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXRvZGdaV1JjVTY5V1N2TTZLSi02X2w0dk1RbEF1RXptWXZhU3N1eWFURGR5TDVjUUMyUmlTdWI2WmhZcDVIWU5IMWlFR19hUHkyVG9jcjdkb2UxNXRmV0pqQzBfcDU2cXFOYTduSHV0NnlTV2dfbTdsM3ZwMTVoYUR6WWhKZFR5dHVSTjVHeTlwNGZ5YXp6ZkJxdnhmdUczRnZLWGFhTEI?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

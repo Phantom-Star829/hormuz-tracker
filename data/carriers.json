@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T17:44:19.539Z",
+  "updatedAt": "2026-06-12T20:25:26.457Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Iran halts US talks, threatens closure of Strait of Hormuz - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWg5cWNwazR0Qy1JNVMwNF85Y29WWlRPU2Y0bkt0UlQ5bl9ieFNIeHBuMHdSeHdIcUJuUVlmV1FMNzUyLTRKbkQ3dW1ILTlES1RUMmw0M1liSUo3eHJxbndXbjVwVUNKME1uUlI0eFNSX3NneXhsd0hVWDAtOHRaZDdxUzk5XzdLVk96ekM1Z3ZNOHFDUS1kVGtqYVFaSG1nNHl0X21wdnNaTVJ1ZWtrY2ZtZkFvMGllcFRKMmdhcVAwcld5aVBHR3dNZk1pUFB2WkxlS1k0MDgxS00?oc=5"
+      "status": "limited",
+      "note": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off - WorldCargo News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmdSNHczaHhSMFJxYl9UM0NNMzZoMWpyTjI3bWxRU2g5RE1YUl92a0FiR1pZYUtsbVUyMGNsM2c1bXZGVmVxTElWNzViLXh1NDVmUHZuTktSNXRCNjQwWmJadmNYRWdQQ3ViLUROSUQyYVA5Y3hDblZQd05vc1F6eU9aS2pXQm9fSS1MZVJMemd1al94U1l6cUtadXYxWTdUcHJJT1JBSjJrOWZKQkNkS011a2J6bW9wNkR0ekt2OFBHdDZYSlhPVkJKVjl4d2d5bmdvNlVvUlVXYkU?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",

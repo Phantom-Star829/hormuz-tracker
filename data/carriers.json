@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-12T22:46:20.700Z",
+  "updatedAt": "2026-06-13T01:35:27.820Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1I2TENxZVVuYVdfNkpjekN4ZFVBUl9UanZBZzhTbU5Qd3JMV095YVo4NFk0ZnlXUFNuY0UtWTFPQndKT2xBM282Y3g2U2V5WmN3X0NVaUpiOFk3MWV4RVQzOUxmR25fZDd3OEZhNmI0U0dMRVgyR3hLWm4yUVZ1WG9ZM3VMckx6QXFuaVhJZFFFM0xXWDV4OUtqQkt1c0QzaTkySThDUC1NMHlvSjZROTdWd181VkpzaXc?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
@@ -28,14 +28,14 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "No One Can Reopen the Strait of Hormuz – and That Is the New Regional Order - Byline Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1RVlVfcDdnY2NoYWxPMHBJYVB3X1g3cjRuSDhnd0twcUljZmNNakk2aTJTSHctOXFrR0tVYjhZNWJscml4aUNIX1BBcXV2eTJpLXVFWlZSRHFLVmlFMVJLN0NCZkJVMlRXQW9MQ2FLdFROMVZ0WDFudFlDenF5YUY5aG1KTkUyNjNpRlJHOFRXa1N4WDRkWV9iNDVaY1NrRElXbGFJbm1zVy1DVmc?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "The Great Rotation: Why the Recent Value Rally Is Ready to Resume - IPE Reference Hub",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdHM1hSMVE0dHhyeWF6ZVd1YzlkM2puRUFkZFo1TXVnb2M4NVNrVnJDZmh2SG5UMVZTeG9NLVZsUE56c1pJYmhPb1kwZjhEbWNfczR2R0YyTFVOQkFwdThKZDA1RmtzektSRllZQ3hVNFJqM0ZzdTh3ZWJOZHV1eFZaamQwZG9ycmhQUnhrdF96TEMtUkhzbjV3b2RpYTJhWXZyY2ludUZ6NzdmNWZHSTRKRDdtTGRRRERReGgxdnJONHZwZFVzUjYtUnBvUQ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-13T06:29:13.029Z",
+  "updatedAt": "2026-06-13T10:09:30.218Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1I2TENxZVVuYVdfNkpjekN4ZFVBUl9UanZBZzhTbU5Qd3JMV095YVo4NFk0ZnlXUFNuY0UtWTFPQndKT2xBM282Y3g2U2V5WmN3X0NVaUpiOFk3MWV4RVQzOUxmR25fZDd3OEZhNmI0U0dMRVgyR3hLWm4yUVZ1WG9ZM3VMckx6QXFuaVhJZFFFM0xXWDV4OUtqQkt1c0QzaTkySThDUC1NMHlvSjZROTdWd181VkpzaXc?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",

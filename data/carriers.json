@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T12:05:20.687Z",
+  "updatedAt": "2026-06-13T14:24:13.148Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "Iran halts US talks, threatens closure of Strait of Hormuz - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWg5cWNwazR0Qy1JNVMwNF85Y29WWlRPU2Y0bkt0UlQ5bl9ieFNIeHBuMHdSeHdIcUJuUVlmV1FMNzUyLTRKbkQ3dW1ILTlES1RUMmw0M1liSUo3eHJxbndXbjVwVUNKME1uUlI0eFNSX3NneXhsd0hVWDAtOHRaZDdxUzk5XzdLVk96ekM1Z3ZNOHFDUS1kVGtqYVFaSG1nNHl0X21wdnNaTVJ1ZWtrY2ZtZkFvMGllcFRKMmdhcVAwcld5aVBHR3dNZk1pUFB2WkxlS1k0MDgxS00?oc=5"
     },
     {
       "name": "CMA CGM",

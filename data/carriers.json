@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T15:17:52.959Z",
+  "updatedAt": "2026-06-14T17:43:38.079Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Iran halts US talks, threatens closure of Strait of Hormuz - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWg5cWNwazR0Qy1JNVMwNF85Y29WWlRPU2Y0bkt0UlQ5bl9ieFNIeHBuMHdSeHdIcUJuUVlmV1FMNzUyLTRKbkQ3dW1ILTlES1RUMmw0M1liSUo3eHJxbndXbjVwVUNKME1uUlI0eFNSX3NneXhsd0hVWDAtOHRaZDdxUzk5XzdLVk96ekM1Z3ZNOHFDUS1kVGtqYVFaSG1nNHl0X21wdnNaTVJ1ZWtrY2ZtZkFvMGllcFRKMmdhcVAwcld5aVBHR3dNZk1pUFB2WkxlS1k0MDgxS00?oc=5"
+      "status": "limited",
+      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQY09nUGpKbi03ODJxekM0MkgxWG9nQlV5VEFwNlZUNkJBZFAtNnJpMzdVT2VPTXl1VTlfWUNWLWpLVC1yWTlaZlJVVVVvUHl5ZVFkdF9UUzdDWVdnMTZlZldLX0tSSlktdExyZURpNll6NjAtbUZPcmtrVDFRZTEzZ2gxWEhIWF9MUHUtMGxQRVRiVVBmUmktclpyVjhlRENxLWFycjVQYnFxSXpqanZaNmNUYjJKaVlBVXV2N3N6TTJoNVhVanpVZ2lqQUhXMUVTQm1yQ2V0RzlrSTFTRGdhTENWNUN6SGVZSy1VeGIyR05jM2toR3RSakNrVFpSTFZtcW1KanBKOWN2Ny1CbkIxS2ZOMFpqcWtweWc0RjBWazNPWFdqQU1ETEstNlJFekZ3NmlkRS1rOG9zODFET185X0xFYWwyMWdZVzV5aHpPZmo?oc=5"
     },
     {
       "name": "CMA CGM",

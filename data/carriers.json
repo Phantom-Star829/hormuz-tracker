@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:43:38.079Z",
+  "updatedAt": "2026-06-14T19:56:20.621Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "limited",
-      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQY09nUGpKbi03ODJxekM0MkgxWG9nQlV5VEFwNlZUNkJBZFAtNnJpMzdVT2VPTXl1VTlfWUNWLWpLVC1yWTlaZlJVVVVvUHl5ZVFkdF9UUzdDWVdnMTZlZldLX0tSSlktdExyZURpNll6NjAtbUZPcmtrVDFRZTEzZ2gxWEhIWF9MUHUtMGxQRVRiVVBmUmktclpyVjhlRENxLWFycjVQYnFxSXpqanZaNmNUYjJKaVlBVXV2N3N6TTJoNVhVanpVZ2lqQUhXMUVTQm1yQ2V0RzlrSTFTRGdhTENWNUN6SGVZSy1VeGIyR05jM2toR3RSakNrVFpSTFZtcW1KanBKOWN2Ny1CbkIxS2ZOMFpqcWtweWc0RjBWazNPWFdqQU1ETEstNlJFekZ3NmlkRS1rOG9zODFET185X0xFYWwyMWdZVzV5aHpPZmo?oc=5"
+      "note": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off - WorldCargo News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmdSNHczaHhSMFJxYl9UM0NNMzZoMWpyTjI3bWxRU2g5RE1YUl92a0FiR1pZYUtsbVUyMGNsM2c1bXZGVmVxTElWNzViLXh1NDVmUHZuTktSNXRCNjQwWmJadmNYRWdQQ3ViLUROSUQyYVA5Y3hDblZQd05vc1F6eU9aS2pXQm9fSS1MZVJMemd1al94U1l6cUtadXYxWTdUcHJJT1JBSjJrOWZKQkNkS011a2J6bW9wNkR0ekt2OFBHdDZYSlhPVkJKVjl4d2d5bmdvNlVvUlVXYkU?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T05:29:41.550Z",
+  "updatedAt": "2026-06-16T11:34:14.291Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off - WorldCargo News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmdSNHczaHhSMFJxYl9UM0NNMzZoMWpyTjI3bWxRU2g5RE1YUl92a0FiR1pZYUtsbVUyMGNsM2c1bXZGVmVxTElWNzViLXh1NDVmUHZuTktSNXRCNjQwWmJadmNYRWdQQ3ViLUROSUQyYVA5Y3hDblZQd05vc1F6eU9aS2pXQm9fSS1MZVJMemd1al94U1l6cUtadXYxWTdUcHJJT1JBSjJrOWZKQkNkS011a2J6bW9wNkR0ekt2OFBHdDZYSlhPVkJKVjl4d2d5bmdvNlVvUlVXYkU?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz - Houston Public Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dTY21nQXJJazJhNnVDVG1UWkJwb1JoU2NHRzJxMHk5akdUekw0YXpwZEU2NVhkOTdiSkNmTFJlbG9UZHJkY0pTY3VjTmZ6RlRtZVBvUGdwRFRWOEEwSXRWdHJ6dEpfV2xxcWt3SHBHdHNXSGppZDZFSVZDTlJYejVNRDRuSVRZdWVwYkJZVC15RVlaYzB6c0RILUo1MmlJV1BSX9IBrAFBVV95cUxNOUhMZkN4MWJCaThNNDUteEVHVFU0X3IyNUxidWdDSFZiOUlXTEMxY2tjWkZtMW16TExJU0FDQTQ0elBiSl9FcldLa2o2NTAtZHoza2xFMUtlNlJGTzZEMlV6OERhVkZrNDRsYjdiNUlrZldORHdnUTUxdFY2SHZfcDlHdF9VX254Y1NWWEZFamw4MVRNZmF2N0ZBZE1aWTh2OUduSkZ4SndlS0t5?oc=5"
     },
     {
       "name": "Evergreen",

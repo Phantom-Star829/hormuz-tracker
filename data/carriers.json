@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T17:21:29.361Z",
+  "updatedAt": "2026-06-16T21:19:08.948Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQY09nUGpKbi03ODJxekM0MkgxWG9nQlV5VEFwNlZUNkJBZFAtNnJpMzdVT2VPTXl1VTlfWUNWLWpLVC1yWTlaZlJVVVVvUHl5ZVFkdF9UUzdDWVdnMTZlZldLX0tSSlktdExyZURpNll6NjAtbUZPcmtrVDFRZTEzZ2gxWEhIWF9MUHUtMGxQRVRiVVBmUmktclpyVjhlRENxLWFycjVQYnFxSXpqanZaNmNUYjJKaVlBVXV2N3N6TTJoNVhVanpVZ2lqQUhXMUVTQm1yQ2V0RzlrSTFTRGdhTENWNUN6SGVZSy1VeGIyR05jM2toR3RSakNrVFpSTFZtcW1KanBKOWN2Ny1CbkIxS2ZOMFpqcWtweWc0RjBWazNPWFdqQU1ETEstNlJFekZ3NmlkRS1rOG9zODFET185X0xFYWwyMWdZVzV5aHpPZmo?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
@@ -29,7 +29,7 @@
       "name": "ONE",
       "status": "operational",
       "note": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz - Houston Public Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dTY21nQXJJazJhNnVDVG1UWkJwb1JoU2NHRzJxMHk5akdUekw0YXpwZEU2NVhkOTdiSkNmTFJlbG9UZHJkY0pTY3VjTmZ6RlRtZVBvUGdwRFRWOEEwSXRWdHJ6dEpfV2xxcWt3SHBHdHNXSGppZDZFSVZDTlJYejVNRDRuSVRZdWVwYkJZVC15RVlaYzB6c0RILUo1MmlJV1BSX9IBrAFBVV95cUxNOUhMZkN4MWJCaThNNDUteEVHVFU0X3IyNUxidWdDSFZiOUlXTEMxY2tjWkZtMW16TExJU0FDQTQ0elBiSl9FcldLa2o2NTAtZHoza2xFMUtlNlJGTzZEMlV6OERhVkZrNDRsYjdiNUlrZldORHdnUTUxdFY2SHZfcDlHdF9VX254Y1NWWEZFamw4MVRNZmF2N0ZBZE1aWTh2OUduSkZ4SndlS0t5?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMDQwcXJzSFlNb2V2d0EwUl8zWHRSMmlILXMxOHhOMTZrUHltYUNub1VSSHd3VUZuejBWRVdyT2NkM01KZUZmSXFxSkJKS0c4aW5Eal9IandpUmNaVW8yeXFXSy1EU05yTnVBWnFDN2dFT1BvV2t1cTUyMDFVYXFuczlpZjdDdG5RQ3Rua2ZjVkM5QVl5SmRqSXBaOFRQaFVvcUtvRDRtSEgtbXVkUkdQdDFCOTlCaTh4U0RRNFhsc2F1YW40QUg5UTgtTUMtb0h5Zm5PQ1QybTVvWW5TYW5BYnBJQkFIRFhJOE5wSlBETXB3SDlqTDlxYmV0VEdtVVBQdnZWUkRFM1g0aU1IMmfSAZYCQVVfeXFMTl9zbXFRUXNrUlZDNG52ekFQd1Q5b2MzdzJQdTlZbUp2YmxwcUNkWjNJSFY2YXdDTUtHdU9xZ3VrVHg2MHdycVJFT1FEMjF2RzJRYXh0aXVjR3lmZFVScmhpVW8wa29veTk3N2NOU1VSTEN4V3hOTXQyRWFsdFlBYVF5ZVVsbFQ1NGhjaldfSXBtdHQ5LXRSNDZNVjNNMlJJOGFzb3VDX2owM2gxUTVpYldzQ3Y5LWcyMElNRTZydUlYZ3NJbnVmR19rc3g4Y28tZDg4T2I4LUtwUEpDdnl5MTNuUmkxZ3hYcmhyZ3A1dDNrem5fbDNjYUs1QjdRdnZuVzl2eDhmSk5DWE5VN1pTTHpMVkQ5Nmc?oc=5"
     },
     {
       "name": "Evergreen",

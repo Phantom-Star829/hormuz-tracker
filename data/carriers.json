@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T00:01:20.662Z",
+  "updatedAt": "2026-06-16T05:29:41.550Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "US escorts Maersk ship through Hormuz as MSC, Hapag-Lloyd pivot routes - MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQY09nUGpKbi03ODJxekM0MkgxWG9nQlV5VEFwNlZUNkJBZFAtNnJpMzdVT2VPTXl1VTlfWUNWLWpLVC1yWTlaZlJVVVVvUHl5ZVFkdF9UUzdDWVdnMTZlZldLX0tSSlktdExyZURpNll6NjAtbUZPcmtrVDFRZTEzZ2gxWEhIWF9MUHUtMGxQRVRiVVBmUmktclpyVjhlRENxLWFycjVQYnFxSXpqanZaNmNUYjJKaVlBVXV2N3N6TTJoNVhVanpVZ2lqQUhXMUVTQm1yQ2V0RzlrSTFTRGdhTENWNUN6SGVZSy1VeGIyR05jM2toR3RSakNrVFpSTFZtcW1KanBKOWN2Ny1CbkIxS2ZOMFpqcWtweWc0RjBWazNPWFdqQU1ETEstNlJFekZ3NmlkRS1rOG9zODFET185X0xFYWwyMWdZVzV5aHpPZmo?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-16T21:19:08.948Z",
+  "updatedAt": "2026-06-16T23:47:55.757Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Maersk Keeps Gulf Restrictions in Place Despite Hormuz Reopening Push - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmVwRzVlWGJjNE9hSUVCdm94RVNEUHN4bFVZaW01Rk9LYmttNEw2eHJxOExSTFpDa1AxVnp2RjJISUtuVzkwS0FJZ1RYNmJUZDk2MDFnUFZiVEg5VzQtMExfdk1RWkF1THJhdEdqV3NFOEo1b2w2Umx4Y25wemZxNkpJNV85Q0szT2Y3cldMZjV2RmY0VEE?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off - WorldCargo News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmdSNHczaHhSMFJxYl9UM0NNMzZoMWpyTjI3bWxRU2g5RE1YUl92a0FiR1pZYUtsbVUyMGNsM2c1bXZGVmVxTElWNzViLXh1NDVmUHZuTktSNXRCNjQwWmJadmNYRWdQQ3ViLUROSUQyYVA5Y3hDblZQd05vc1F6eU9aS2pXQm9fSS1MZVJMemd1al94U1l6cUtadXYxWTdUcHJJT1JBSjJrOWZKQkNkS011a2J6bW9wNkR0ekt2OFBHdDZYSlhPVkJKVjl4d2d5bmdvNlVvUlVXYkU?oc=5"
     },
     {
       "name": "CMA CGM",

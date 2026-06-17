@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-16T23:47:55.757Z",
+  "updatedAt": "2026-06-17T05:10:29.595Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "note": "Maersk Keeps Gulf Restrictions in Place Despite Hormuz Reopening Push - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmVwRzVlWGJjNE9hSUVCdm94RVNEUHN4bFVZaW01Rk9LYmttNEw2eHJxOExSTFpDa1AxVnp2RjJISUtuVzkwS0FJZ1RYNmJUZDk2MDFnUFZiVEg5VzQtMExfdk1RWkF1THJhdEdqV3NFOEo1b2w2Umx4Y25wemZxNkpJNV85Q0szT2Y3cldMZjV2RmY0VEE?oc=5"
     },
     {
       "name": "MSC",

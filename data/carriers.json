@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T21:22:06.354Z",
+  "updatedAt": "2026-06-17T23:50:43.519Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz - Houston Public Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dTY21nQXJJazJhNnVDVG1UWkJwb1JoU2NHRzJxMHk5akdUekw0YXpwZEU2NVhkOTdiSkNmTFJlbG9UZHJkY0pTY3VjTmZ6RlRtZVBvUGdwRFRWOEEwSXRWdHJ6dEpfV2xxcWt3SHBHdHNXSGppZDZFSVZDTlJYejVNRDRuSVRZdWVwYkJZVC15RVlaYzB6c0RILUo1MmlJV1BSX9IBrAFBVV95cUxNOUhMZkN4MWJCaThNNDUteEVHVFU0X3IyNUxidWdDSFZiOUlXTEMxY2tjWkZtMW16TExJU0FDQTQ0elBiSl9FcldLa2o2NTAtZHoza2xFMUtlNlJGTzZEMlV6OERhVkZrNDRsYjdiNUlrZldORHdnUTUxdFY2SHZfcDlHdF9VX254Y1NWWEZFamw4MVRNZmF2N0ZBZE1aWTh2OUduSkZ4SndlS0t5?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T01:53:19.968Z",
+  "updatedAt": "2026-06-19T07:25:16.642Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Hormuz Is Reopening. Shipping’s Old Playbook Isn’t. - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmZicUUzb3poRW00RlJsd2RiWkRfU1lEakF0REo4TTZzNTZKLWFaTDdOQnVWYjBYN1I1cTdzMVNjTllDXzZiTC1SdEh0SWpaeDMyVVF1RUtqLWdFQ2Q3TFlrbS1zSGg5LXN5a2tocUx5ajRhdXBqSg?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-06-20T22:22:37.322Z",
+  "updatedAt": "2026-06-21T00:21:41.940Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "note": "Maersk Keeps Gulf Restrictions in Place Despite Hormuz Reopening Push - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmVwRzVlWGJjNE9hSUVCdm94RVNEUHN4bFVZaW01Rk9LYmttNEw2eHJxOExSTFpDa1AxVnp2RjJISUtuVzkwS0FJZ1RYNmJUZDk2MDFnUFZiVEg5VzQtMExfdk1RWkF1THJhdEdqV3NFOEo1b2w2Umx4Y25wemZxNkpJNV85Q0szT2Y3cldMZjV2RmY0VEE?oc=5"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Hormuz Is Reopening. Shipping’s Old Playbook Isn’t. - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmZicUUzb3poRW00RlJsd2RiWkRfU1lEakF0REo4TTZzNTZKLWFaTDdOQnVWYjBYN1I1cTdzMVNjTllDXzZiTC1SdEh0SWpaeDMyVVF1RUtqLWdFQ2Q3TFlrbS1zSGg5LXN5a2tocUx5ajRhdXBqSg?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Ships Stranded by War Face Costly Dilemma: Wait It Out or Risk Attack - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUUYyb3l6LXBfcDEwZDBfNDR1VGVwNTlacHJYRmNXNl9RYklGVE5pSjkxVjB1bTlnNDQ3WDhhM2JxcXdKSmJ2YTRwYTYzekNadF9pSm5NM1IyN3VmMGZ2bDZJY1ZVbVNELUdyRFd1MmJYSmN6ZXZDUlFwSWQ2Zw?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz - Houston Public Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMDQwcXJzSFlNb2V2d0EwUl8zWHRSMmlILXMxOHhOMTZrUHltYUNub1VSSHd3VUZuejBWRVdyT2NkM01KZUZmSXFxSkJKS0c4aW5Eal9IandpUmNaVW8yeXFXSy1EU05yTnVBWnFDN2dFT1BvV2t1cTUyMDFVYXFuczlpZjdDdG5RQ3Rua2ZjVkM5QVl5SmRqSXBaOFRQaFVvcUtvRDRtSEgtbXVkUkdQdDFCOTlCaTh4U0RRNFhsc2F1YW40QUg5UTgtTUMtb0h5Zm5PQ1QybTVvWW5TYW5BYnBJQkFIRFhJOE5wSlBETXB3SDlqTDlxYmV0VEdtVVBQdnZWUkRFM1g0aU1IMmfSAZYCQVVfeXFMTl9zbXFRUXNrUlZDNG52ekFQd1Q5b2MzdzJQdTlZbUp2YmxwcUNkWjNJSFY2YXdDTUtHdU9xZ3VrVHg2MHdycVJFT1FEMjF2RzJRYXh0aXVjR3lmZFVScmhpVW8wa29veTk3N2NOU1VSTEN4V3hOTXQyRWFsdFlBYVF5ZVVsbFQ1NGhjaldfSXBtdHQ5LXRSNDZNVjNNMlJJOGFzb3VDX2owM2gxUTVpYldzQ3Y5LWcyMElNRTZydUlYZ3NJbnVmR19rc3g4Y28tZDg4T2I4LUtwUEpDdnl5MTNuUmkxZ3hYcmhyZ3A1dDNrem5fbDNjYUs1QjdRdnZuVzl2eDhmSk5DWE5VN1pTTHpMVkQ5Nmc?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

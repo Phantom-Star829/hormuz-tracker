@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T05:28:13.992Z",
+  "updatedAt": "2026-06-22T12:26:32.830Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,15 +15,15 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Stranded by War Face Costly Dilemma: Wait It Out or Risk Attack - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUUYyb3l6LXBfcDEwZDBfNDR1VGVwNTlacHJYRmNXNl9RYklGVE5pSjkxVjB1bTlnNDQ3WDhhM2JxcXdKSmJ2YTRwYTYzekNadF9pSm5NM1IyN3VmMGZ2bDZJY1ZVbVNELUdyRFd1MmJYSmN6ZXZDUlFwSWQ2Zw?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
+      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
     },
     {
       "name": "ONE",

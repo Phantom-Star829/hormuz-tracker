@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:18:12.199Z",
+  "updatedAt": "2026-06-24T20:04:31.038Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,15 +9,15 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "Threat level reduced to shipping in Strait of Hormuz - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVml1eGZuRnBOd0stWHYxaGFXbkxUMlNBVExnQ0FCMWs2ZHdsYVJoRHh3SjFPNUFBMXpHak82SlhCT0thUmtSVW1fY1BqR1NMWThhMUxVRUZDSHE1alVXbG5DczZLRVd3Yl9QVHozcV9zekhOSS0tWkRBVDBXY2ZNT0tZUXp2V3gxN3Z2cUxJaWtWaDNEbmhaM1dDRQ?oc=5"
+      "status": "operational",
+      "note": "Hormuz Is Reopening. Shipping’s Old Playbook Isn’t. - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmZicUUzb3poRW00RlJsd2RiWkRfU1lEakF0REo4TTZzNTZKLWFaTDdOQnVWYjBYN1I1cTdzMVNjTllDXzZiTC1SdEh0SWpaeDMyVVF1RUtqLWdFQ2Q3TFlrbS1zSGg5LXN5a2tocUx5ajRhdXBqSg?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "suspended",
-      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
+      "status": "limited",
+      "note": "Ships Stranded by War Face Costly Dilemma: Wait It Out or Risk Attack - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUUYyb3l6LXBfcDEwZDBfNDR1VGVwNTlacHJYRmNXNl9RYklGVE5pSjkxVjB1bTlnNDQ3WDhhM2JxcXdKSmJ2YTRwYTYzekNadF9pSm5NM1IyN3VmMGZ2bDZJY1ZVbVNELUdyRFd1MmJYSmN6ZXZDUlFwSWQ2Zw?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T17:24:13.315Z",
+  "updatedAt": "2026-06-25T20:22:24.646Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Stranded by War Face Costly Dilemma: Wait It Out or Risk Attack - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUUYyb3l6LXBfcDEwZDBfNDR1VGVwNTlacHJYRmNXNl9RYklGVE5pSjkxVjB1bTlnNDQ3WDhhM2JxcXdKSmJ2YTRwYTYzekNadF9pSm5NM1IyN3VmMGZ2bDZJY1ZVbVNELUdyRFd1MmJYSmN6ZXZDUlFwSWQ2Zw?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
+      "status": "suspended",
+      "note": "Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjcV9XZjZqRVNIY1l3UFhOZ21ubTh1aTZ3cXBudWRhQWZhLWVZcG9UVGRNUGppb2lFU0lqcjlBTm1PT2ppdDhPei1wZXdnZDJPbnRKYVdzM3RfbmtNLTkzZGdxdWhaRVNaSmdQbEZlR0pjS3FrMDV2QV9aSFE?oc=5"
     }
   ]
 }

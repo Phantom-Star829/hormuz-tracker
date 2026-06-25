@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-25T14:53:31.452Z",
+  "updatedAt": "2026-06-25T17:24:13.315Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
       "note": "Maersk ships exit Strait of Hormuz under US escort - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXpQTlhzR3BDRkQ3WkpKbnhJbExqQzhsZVpXWTZRX2JRNHljdTJOVE5IOEJyM0RrMnppTUtjZjdYdzBxWmpMWTZhWDNUQXJmOEV6dlRKY2d2aTF5ZjVKLUFNV2VPLUpORVVZa0xEM012eEhkZGh0amdvcXVoSVhxZWZGb0taQ09UWDlRbVcwNjNWY1ZXTUpQbUU5T2x4ZkI3N1BLWHF3a3FLam55TXhQd3VjR1dUbjF5dFRfYzVaRlA?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWxXY2xiblZXTGxzMjA1S0dZZFE2b2tVTjVDQ3lhaVlmMWtndGV4REJIZ2NGdDlvODBOZVpha3gteUFBVzNmSXpwbm5qM0tBdTJOeFFTc3doUzE1UC1UYWZyeENXXzRnNDl2bDhJdWd2U2U1c1NhRjNQdTUzV3pPdEdqMDNfMnJ2S1lyc014LU9yVWMzRFAycWVPOFpkMXNLQ0hIT2FjNnBhU2Q3Q2I1VVJPU3JXRG5wYWJPakhoWlJBRVBW?oc=5"
     },
     {
       "name": "MSC",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
+      "note": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz - NPR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKTnRENzBwRkxWekxYZk5SWTBVVUVVaW1Vc0k1d0p2MExyXzJhdlFnWFBKSV9FT0VxWGluN0FHQk5tZm9SZ1hrVmZRd0xaZW1UdjFzdTVtOXVZNndRVVNvVkVxYUNiS3ZyMlJXYk1hVnA3amM?oc=5"
     },
     {
       "name": "Evergreen",

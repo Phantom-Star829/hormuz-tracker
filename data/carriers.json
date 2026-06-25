@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T08:32:48.703Z",
+  "updatedAt": "2026-06-25T11:50:58.637Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz - Houston Public Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dTY21nQXJJazJhNnVDVG1UWkJwb1JoU2NHRzJxMHk5akdUekw0YXpwZEU2NVhkOTdiSkNmTFJlbG9UZHJkY0pTY3VjTmZ6RlRtZVBvUGdwRFRWOEEwSXRWdHJ6dEpfV2xxcWt3SHBHdHNXSGppZDZFSVZDTlJYejVNRDRuSVRZdWVwYkJZVC15RVlaYzB6c0RILUo1MmlJV1BSX9IBrAFBVV95cUxNOUhMZkN4MWJCaThNNDUteEVHVFU0X3IyNUxidWdDSFZiOUlXTEMxY2tjWkZtMW16TExJU0FDQTQ0elBiSl9FcldLa2o2NTAtZHoza2xFMUtlNlJGTzZEMlV6OERhVkZrNDRsYjdiNUlrZldORHdnUTUxdFY2SHZfcDlHdF9VX254Y1NWWEZFamw4MVRNZmF2N0ZBZE1aWTh2OUduSkZ4SndlS0t5?oc=5"
+      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
     },
     {
       "name": "Evergreen",

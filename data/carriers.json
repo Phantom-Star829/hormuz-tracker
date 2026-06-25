@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-25T11:50:58.637Z",
+  "updatedAt": "2026-06-25T14:53:31.452Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Maersk Keeps Gulf Restrictions in Place Despite Hormuz Reopening Push - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmVwRzVlWGJjNE9hSUVCdm94RVNEUHN4bFVZaW01Rk9LYmttNEw2eHJxOExSTFpDa1AxVnp2RjJISUtuVzkwS0FJZ1RYNmJUZDk2MDFnUFZiVEg5VzQtMExfdk1RWkF1THJhdEdqV3NFOEo1b2w2Umx4Y25wemZxNkpJNV85Q0szT2Y3cldMZjV2RmY0VEE?oc=5"
+      "status": "limited",
+      "note": "Maersk ships exit Strait of Hormuz under US escort - TradeWinds News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXpQTlhzR3BDRkQ3WkpKbnhJbExqQzhsZVpXWTZRX2JRNHljdTJOVE5IOEJyM0RrMnppTUtjZjdYdzBxWmpMWTZhWDNUQXJmOEV6dlRKY2d2aTF5ZjVKLUFNV2VPLUpORVVZa0xEM012eEhkZGh0amdvcXVoSVhxZWZGb0taQ09UWDlRbVcwNjNWY1ZXTUpQbUU5T2x4ZkI3N1BLWHF3a3FLam55TXhQd3VjR1dUbjF5dFRfYzVaRlA?oc=5"
     },
     {
       "name": "MSC",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T09:51:44.301Z",
+  "updatedAt": "2026-06-26T12:26:32.564Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
+      "status": "limited",
+      "note": "Implementation of Middle East Emergency Surcharge (MES) - Hapag-Lloyd",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHM2WkVMMm1DakIzaTdUYmRya2VJVjlRem9xcW96eDdlMERhNGU4MHRKNjZUOWkyLVJqWmloN3NZUXZweW1uY3lKcy0xRFE2Wm1BWHhRQS16N0FTX05vLXNrMU5RVWFkb1NNWVlZTS0tQ0xDOFQ1YUZQSkRKMkdkUGtacGcxd3BOZVZadERFaWdGYVkzeldjWHdpOFFSX25aSDlULXpwSkpTZE15WU4yQzdIcDBGSDZfekZWZk1TYm45SmM?oc=5"
     },
     {
       "name": "ONE",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait - WSJ",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjg1OGdZT3JUNkFvb1UwSURFSDJHVXowZVItTUpmZnl6TWRFeVNab1RXcVM5ckFKREs4eWVzSDF1Q1RTWkRQZDhtVTVSaDJNUUdkVjdXQU9wVl9mYnMxRWkyNlNmRU5BbGpxM3ZJV1NpTFBTay1sWWYzVGJReTFWbnBFaERwTl85dXU2SHhlcS1HYlc2aW0zTWw2THBLWFBEazZ2SzI2QUZWWU0?oc=5"
+      "status": "suspended",
+      "note": "IMO suspends Hormuz transits after Evergreen ship attacked - Seatrade Maritime News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnY0UmxLMUIyNlVKdVFKU2xVZFktQ0tsc2ZaWmlXWlpsdWtGUmNYQ1ZwQVBKaDgwaUpuN3BZRnc5REhKMmZkVExkRklSX05XVnMyNmtKX3huWnp4aGxUS2R6dTR3cVQ1dzVlQ2dwZHgzcmM1Q3hsZkJDeFJTdDZpUEFzV1B0NHVPeEN0V0I3bXlVOEphUUNfdUM5aThnQ0ctdVpZ?oc=5"
     }
   ]
 }

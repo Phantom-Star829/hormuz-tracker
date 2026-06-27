@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-06-27T08:06:17.145Z",
+  "updatedAt": "2026-06-27T10:22:43.761Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk ships exit Strait of Hormuz under US escort - TradeWinds News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWxXY2xiblZXTGxzMjA1S0dZZFE2b2tVTjVDQ3lhaVlmMWtndGV4REJIZ2NGdDlvODBOZVpha3gteUFBVzNmSXpwbm5qM0tBdTJOeFFTc3doUzE1UC1UYWZyeENXXzRnNDl2bDhJdWd2U2U1c1NhRjNQdTUzV3pPdEdqMDNfMnJ2S1lyc014LU9yVWMzRFAycWVPOFpkMXNLQ0hIT2FjNnBhU2Q3Q2I1VVJPU3JXRG5wYWJPakhoWlJBRVBW?oc=5"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "note": "Hormuz Is Reopening. Shipping’s Old Playbook Isn’t. - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmZicUUzb3poRW00RlJsd2RiWkRfU1lEakF0REo4TTZzNTZKLWFaTDdOQnVWYjBYN1I1cTdzMVNjTllDXzZiTC1SdEh0SWpaeDMyVVF1RUtqLWdFQ2Q3TFlrbS1zSGg5LXN5a2tocUx5ajRhdXBqSg?oc=5"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "status": "limited",
+      "note": "Implementation of Middle East Emergency Surcharge (MES) - Hapag-Lloyd",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHM2WkVMMm1DakIzaTdUYmRya2VJVjlRem9xcW96eDdlMERhNGU4MHRKNjZUOWkyLVJqWmloN3NZUXZweW1uY3lKcy0xRFE2Wm1BWHhRQS16N0FTX05vLXNrMU5RVWFkb1NNWVlZTS0tQ0xDOFQ1YUZQSkRKMkdkUGtacGcxd3BOZVZadERFaWdGYVkzeldjWHdpOFFSX25aSDlULXpwSkpTZE15WU4yQzdIcDBGSDZfekZWZk1TYm45SmM?oc=5"
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "suspended",
+      "note": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit - PBS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR09aN3F4dEdxdlRmcVhxaHNKWm9iT29BZnpBWnZ1Ukl2d2p3UUxwOG92VHBzcUxScVY2aE54R1ktajgtUThub01Rcm1Ea2libWZpeHZTTS12NkU2Rzd4cTQ3NlNKd2xWNVNlaU1zdHJidkhvUnIwdnlMMlFRVnVRUWtnbXJPbFBPU1BaUVQ2MXF0MWFrOWN5LUZ5NXNscU1jcUhRZUxTMEplMUl0Mms5WE5SM3JxT3BxaHd3bDBYYlFlTlhlVGfSAcsBQVVfeXFMUDVNSmZxU2NBZnVUQmdoMVUwQ2R1SVhKc2VuSmlRalNXeTBwLXh1UzZaRDBBMEJkNVpKeGU5SFR2VEs3d0lBdmxRcXFJWkFsLWVudElqR2c4SF9MMzY2Skp0MkExeUxpNzR0RlA0ODlhQjhrNzdUUzU0Z01oME11SWlGNXJUY0ltX3RReVlTNnBTYmNIMVBUZV9kOTFsZG5DYkx2YmhBQ01hcjZKalotUHI5dF90b1cyaHhxN25LcUZ1Q2JrM2JJT2ZqUkU?oc=5"
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
+      "status": "suspended",
+      "note": "IMO suspends Hormuz transits after Evergreen ship attacked - Seatrade Maritime News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnY0UmxLMUIyNlVKdVFKU2xVZFktQ0tsc2ZaWmlXWlpsdWtGUmNYQ1ZwQVBKaDgwaUpuN3BZRnc5REhKMmZkVExkRklSX05XVnMyNmtKX3huWnp4aGxUS2R6dTR3cVQ1dzVlQ2dwZHgzcmM1Q3hsZkJDeFJTdDZpUEFzV1B0NHVPeEN0V0I3bXlVOEphUUNfdUM5aThnQ0ctdVpZ?oc=5"
     }
   ]
 }

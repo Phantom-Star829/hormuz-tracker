@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T23:22:18.138Z",
+  "updatedAt": "2026-06-27T04:15:46.069Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -23,7 +23,7 @@
       "name": "Hapag-Lloyd",
       "status": "limited",
       "note": "Implementation of Middle East Emergency Surcharge (MES) - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHM2WkVMMm1DakIzaTdUYmRya2VJVjlRem9xcW96eDdlMERhNGU4MHRKNjZUOWkyLVJqWmloN3NZUXZweW1uY3lKcy0xRFE2Wm1BWHhRQS16N0FTX05vLXNrMU5RVWFkb1NNWVlZTS0tQ0xDOFQ1YUZQSkRKMkdkUGtacGcxd3BOZVZadERFaWdGYVkzeldjWHdpOFFSX25aSDlULXpwSkpTZE15WU4yQzdIcDBGSDZfekZWZk1TYm45SmM?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdDNXcEVvRzR1UVlaVzBZd3ZtMW1uMThwM1FUVnJibDhMYVN2djBTYVJ4S1VialJkVzlSWEZsWV82WUk0MXZzNm9YYWt5YlFmeWRFem8zSG81cGdZVjQzREczN3E4blpMV3hkX25zQTE2MWdnNDRlekJud044RE04aXpWblFtYVN6eUw5dmNoYVgxeEZYTHlOQTBxS2RRWXBpSTRGbnA5dWZsYUI5Z3BQQVZCbEJXVTlRQTR5blRpdGRuSG8?oc=5"
     },
     {
       "name": "ONE",

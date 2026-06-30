@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T14:42:07.059Z",
+  "updatedAt": "2026-06-30T17:13:52.001Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "War Risk Insurance Returns For Strait Of Hormuz Shipping, But Security Risks Delay Recovery - Marine Insight",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTBnazd2YlZ6Y1lhMVROcTFkVUZ6NzdhNEhtOWVmRkd6bDl6ZXFzSWduRmFmMU9MeXZKZU16emt2T09vYkxRNXRVY1ZQTGMyS0p0ZjY0Z2FuUWJFT0hCdzV3YUZCVGd3eG92Sm9YalZDb2hZNl85OGx4VDNKYjZQMk1aemVYRmJySG9PZlFjNGx4bnJTOXJScElhNW1zcENzMHRvNE5KMWJ2RUFYWi0tTEM5SFo1bFlPT0dOdk1B?oc=5"
     },
     {
       "name": "CMA CGM",

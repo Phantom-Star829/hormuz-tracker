@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T17:13:52.001Z",
+  "updatedAt": "2026-06-30T20:16:14.402Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "War Risk Insurance Returns For Strait Of Hormuz Shipping, But Security Risks Delay Recovery - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTBnazd2YlZ6Y1lhMVROcTFkVUZ6NzdhNEhtOWVmRkd6bDl6ZXFzSWduRmFmMU9MeXZKZU16emt2T09vYkxRNXRVY1ZQTGMyS0p0ZjY0Z2FuUWJFT0hCdzV3YUZCVGd3eG92Sm9YalZDb2hZNl85OGx4VDNKYjZQMk1aemVYRmJySG9PZlFjNGx4bnJTOXJScElhNW1zcENzMHRvNE5KMWJ2RUFYWi0tTEM5SFo1bFlPT0dOdk1B?oc=5"
+      "status": "operational",
+      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Implementation of Middle East Emergency Surcharge (MES) - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHM2WkVMMm1DakIzaTdUYmRya2VJVjlRem9xcW96eDdlMERhNGU4MHRKNjZUOWkyLVJqWmloN3NZUXZweW1uY3lKcy0xRFE2Wm1BWHhRQS16N0FTX05vLXNrMU5RVWFkb1NNWVlZTS0tQ0xDOFQ1YUZQSkRKMkdkUGtacGcxd3BOZVZadERFaWdGYVkzeldjWHdpOFFSX25aSDlULXpwSkpTZE15WU4yQzdIcDBGSDZfekZWZk1TYm45SmM?oc=5"
+      "status": "operational",
+      "note": "Shipowners hope Strait of Hormuz will reopen soon - dw.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
     },
     {
       "name": "ONE",

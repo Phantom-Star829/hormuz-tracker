@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-29T23:15:18.292Z",
+  "updatedAt": "2026-06-30T04:24:06.359Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 Bay Area",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTRMdHM1VFlScHZYS2Jxc1kxblBrVXZrSkpwYjJvb19Jbzg0T29mQjZXM01ja3JWcjVFNk1wMkdjS3FlcDRBVXdCZHAtLXpOQmMyMFo2Q19RNXpZbk5SMllnOUpJVlV2VmV5SzJmUzdNcW1zbmM2NFNmUTdGaXI0dmJZd0ZiQ2tQVkJ1M05EcS1ReEdySTNJMEJn0gGfAUFVX3lxTE1EbHBZUGF5QndSOHg0U0luR0syTlFuZ0Z2cDh6eldIWWNERGFCcFR2bTRqNnJYVFNGX3Zicmw2bE1TdFNDWVdMakoxUWttOHhwVUZ1QjU2MllGbkxWOFVTWHFZTER6ZHRQVnRmNjVCc1lVRGJiUEdHYWN1TGUwMU1QeGhObV9xWHNIRFo2YkNteEV3UzlWb3psN1NyN0RkVQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Hormuz Is Reopening. Shipping’s Old Playbook Isn’t. - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmZicUUzb3poRW00RlJsd2RiWkRfU1lEakF0REo4TTZzNTZKLWFaTDdOQnVWYjBYN1I1cTdzMVNjTllDXzZiTC1SdEh0SWpaeDMyVVF1RUtqLWdFQ2Q3TFlrbS1zSGg5LXN5a2tocUx5ajRhdXBqSg?oc=5"
+      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-30T11:52:18.103Z",
+  "updatedAt": "2026-06-30T14:42:07.059Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 Bay Area",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTRMdHM1VFlScHZYS2Jxc1kxblBrVXZrSkpwYjJvb19Jbzg0T29mQjZXM01ja3JWcjVFNk1wMkdjS3FlcDRBVXdCZHAtLXpOQmMyMFo2Q19RNXpZbk5SMllnOUpJVlV2VmV5SzJmUzdNcW1zbmM2NFNmUTdGaXI0dmJZd0ZiQ2tQVkJ1M05EcS1ReEdySTNJMEJn0gGfAUFVX3lxTE1EbHBZUGF5QndSOHg0U0luR0syTlFuZ0Z2cDh6eldIWWNERGFCcFR2bTRqNnJYVFNGX3Zicmw2bE1TdFNDWVdMakoxUWttOHhwVUZ1QjU2MllGbkxWOFVTWHFZTER6ZHRQVnRmNjVCc1lVRGJiUEdHYWN1TGUwMU1QeGhObV9xWHNIRFo2YkNteEV3UzlWb3psN1NyN0RkVQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

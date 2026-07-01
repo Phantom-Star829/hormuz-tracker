@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T22:26:05.029Z",
+  "updatedAt": "2026-07-01T00:20:43.726Z",
   "historicalDailyAverage": 100,
   "strandedBaseline": 150,
   "series": [
@@ -69,6 +69,6 @@
       "strandedEstimate": 516
     }
   ],
-  "source": "AISStream.io — coverage gap (0 MMSI in 3min sample at 2026-06-30T22:26:05.029Z). Last good reading retained.",
+  "source": "AISStream.io — coverage gap (0 MMSI in 3min sample at 2026-07-01T00:20:43.726Z). Last good reading retained.",
   "demo": false
 }

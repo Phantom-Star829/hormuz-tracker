@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:42:16.528Z",
+  "updatedAt": "2026-07-01T16:39:22.755Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,14 +15,14 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipowners hope Strait of Hormuz will reopen soon - dw.com",
+      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T05:10:36.334Z",
+  "updatedAt": "2026-07-02T09:32:22.622Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "The Strait of Hormuz is reopening, but global shipping won’t return to normal for months - The Conversation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQldXdTdMUlJ3Y2J3TlhCNGx1WU9CV0hIektCeGppNE9WN2s5MEpESzA0VldZWm5VSnhFRDlOQWtRcXMxVFpicnlDRDN0c0cyRE1LXzd6aUZCZzIwRzY4RlYtYktjMGRKdkN0UF80MjlBOE5yd0NpY2tGWjNKMkdObExzVS0wd21OZ0U4aDlUWHh2ZlRzbVBISTJOMVg2bWljOFc4NUhvcUtJVFFmcFBaclNRS2sxTzRXSElXRjd3?oc=5"
+      "note": "Iran Clears Chinese Cargo Ships as Strait of Hormuz Sees Chaotic Reopening - Caixin Global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzBvVkJWQW1jaEowMDJKekxvVkxTMzZkQWQ2bktsXy16WUI2ZVBoZGR2TWhUYkxWVV84Vko4cWNlckk0d2xwd3dtVU9XcTVaUHVTTkE0TWw2U29ZSjhYaTRxLWlyRFBnX2tfNTNCYlpuN0ZNdi1WdlM2V2VNSU4wcGxrcUZMWWV0ZTZZZzNYYk5iNFVtNzZFaHotalMxUDZ0T1AzS2U5NGRPNFRqU1FPaEVwc0xDZVZlMDRhTkR1TS1TMVlOM2RuRQ?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipowners hope Strait of Hormuz will reopen soon - dw.com",
+      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T04:06:24.716Z",
+  "updatedAt": "2026-07-03T07:35:41.886Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
+      "status": "limited",
+      "note": "News Hormuz uncertainty prompts carriers to add new surcharges - The Loadstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeE1aTUF3clpkZU5LQTBlc09VYk5JWTJuWl8yU29zaHNSMXozREpUNnoyUWpIZldyYVl3ZjUwVjA3elBoYWxGYy1WbDZPcW03clJ3STFiV3JNOENLLUEybTYxOHUyd0UxZ2RjN1k4S3U4Nmg0cUl6eE1idnJ3cXlRbkNpX2hNZlQ0X2c?oc=5"
     },
     {
       "name": "ONE",

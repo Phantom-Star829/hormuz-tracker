@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-02T23:22:25.862Z",
+  "updatedAt": "2026-07-03T04:06:24.716Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 Bay Area",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTRMdHM1VFlScHZYS2Jxc1kxblBrVXZrSkpwYjJvb19Jbzg0T29mQjZXM01ja3JWcjVFNk1wMkdjS3FlcDRBVXdCZHAtLXpOQmMyMFo2Q19RNXpZbk5SMllnOUpJVlV2VmV5SzJmUzdNcW1zbmM2NFNmUTdGaXI0dmJZd0ZiQ2tQVkJ1M05EcS1ReEdySTNJMEJn0gGfAUFVX3lxTE1EbHBZUGF5QndSOHg0U0luR0syTlFuZ0Z2cDh6eldIWWNERGFCcFR2bTRqNnJYVFNGX3Zicmw2bE1TdFNDWVdMakoxUWttOHhwVUZ1QjU2MllGbkxWOFVTWHFZTER6ZHRQVnRmNjVCc1lVRGJiUEdHYWN1TGUwMU1QeGhObV9xWHNIRFo2YkNteEV3UzlWb3psN1NyN0RkVQ?oc=5"
+      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC11 News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRllyMVBqRXVISHBMVnFBTVN3aW5nN3REQmZyQmFhQ3Y4cjJzajJ6RmNkVGhlQkNpYzZxMG82Z1V2ZFg0VFBUN0pUZVZoaXRQMGVjaGVPNGNwMWFWbi1UZ0tIcmxWQzhHTDk4TzRCalpOUzJKclFLNk15YUJrYnp1bWxROWxBMHhTTzlwcjFRRXI3X0FWMnfSAZsBQVVfeXFMTWszTVp5d3NGX1NxYTRVRU9tcmNkd0s5MWNYYjB3c1puVHZBVnYteHo0WFd6V05iUTRsaGFLb1lTblFuRWNwaHZVVGNVMWsyXzdNMGdudlY5a0xqdUJpZTVDX0J1Z0RhdkRqdzVmZGNYMzVnM1paa2VQZnNaWUN4MWo3elJlbVBmeUVTY1hfZDFDcE9XQWlQOGltR2s?oc=5"
     },
     {
       "name": "MSC",
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipowners hope Strait of Hormuz will reopen soon - dw.com",
+      "note": "Shipowners hope Strait of Hormuz will reopen soon - DW.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0JrS1BYUVNTcXlhQ2xpYUdvdHcwVDhkZUVUWE5iMVFwOE1rVENuZFZjZUFwNUFRZTNoeG5LeVdCckRqUXdzbDFWZmlyT0J0YWhWcnAtaWVTNkhiUHJQbUpoanVKTE1EcGFzZ1N3QVBHQ1pLdnJ3TE1XTWZwZVZfVVFOU3ZaQXlLRmhTcGVFWQ?oc=5"
     },
     {

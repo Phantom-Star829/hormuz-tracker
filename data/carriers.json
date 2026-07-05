@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-05T11:12:44.093Z",
+  "updatedAt": "2026-07-05T14:05:32.159Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 Bay Area",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTRMdHM1VFlScHZYS2Jxc1kxblBrVXZrSkpwYjJvb19Jbzg0T29mQjZXM01ja3JWcjVFNk1wMkdjS3FlcDRBVXdCZHAtLXpOQmMyMFo2Q19RNXpZbk5SMllnOUpJVlV2VmV5SzJmUzdNcW1zbmM2NFNmUTdGaXI0dmJZd0ZiQ2tQVkJ1M05EcS1ReEdySTNJMEJn0gGfAUFVX3lxTE1EbHBZUGF5QndSOHg0U0luR0syTlFuZ0Z2cDh6eldIWWNERGFCcFR2bTRqNnJYVFNGX3Zicmw2bE1TdFNDWVdMakoxUWttOHhwVUZ1QjU2MllGbkxWOFVTWHFZTER6ZHRQVnRmNjVCc1lVRGJiUEdHYWN1TGUwMU1QeGhObV9xWHNIRFo2YkNteEV3UzlWb3psN1NyN0RkVQ?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "News Hormuz uncertainty prompts carriers to add new surcharges - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeE1aTUF3clpkZU5LQTBlc09VYk5JWTJuWl8yU29zaHNSMXozREpUNnoyUWpIZldyYVl3ZjUwVjA3elBoYWxGYy1WbDZPcW03clJ3STFiV3JNOENLLUEybTYxOHUyd0UxZ2RjN1k4S3U4Nmg0cUl6eE1idnJ3cXlRbkNpX2hNZlQ0X2c?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit - PBS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR09aN3F4dEdxdlRmcVhxaHNKWm9iT29BZnpBWnZ1Ukl2d2p3UUxwOG92VHBzcUxScVY2aE54R1ktajgtUThub01Rcm1Ea2libWZpeHZTTS12NkU2Rzd4cTQ3NlNKd2xWNVNlaU1zdHJidkhvUnIwdnlMMlFRVnVRUWtnbXJPbFBPU1BaUVQ2MXF0MWFrOWN5LUZ5NXNscU1jcUhRZUxTMEplMUl0Mms5WE5SM3JxT3BxaHd3bDBYYlFlTlhlVGfSAcsBQVVfeXFMUDVNSmZxU2NBZnVUQmdoMVUwQ2R1SVhKc2VuSmlRalNXeTBwLXh1UzZaRDBBMEJkNVpKeGU5SFR2VEs3d0lBdmxRcXFJWkFsLWVudElqR2c4SF9MMzY2Skp0MkExeUxpNzR0RlA0ODlhQjhrNzdUUzU0Z01oME11SWlGNXJUY0ltX3RReVlTNnBTYmNIMVBUZV9kOTFsZG5DYkx2YmhBQ01hcjZKalotUHI5dF90b1cyaHhxN25LcUZ1Q2JrM2JJT2ZqUkU?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
-      "status": "suspended",
-      "note": "UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal - CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2prazZzTGRfTkNURm1fakdTMm94OFZreUowTDZPQ3NDUmhiNllVX0xjLXQ0M3A5d05UZE0tc0ZOUXNvUFJYeUdFbVRKZzdxMU5UWExRNmdNNWlNbjc3NzBYU0dxY3gwWUgwNzNMTEN6Rlp6RnhaSTBtZURhMFp3QXN4cWZfNmwxcFpoaXJja08tZzNZTTduRzYyQ1lmaUk3aVFKU2RiS19KYVl2NlN0ZGNqS0dkUURoclVyMjgzbVBBeV9jbXVv0gHMAUFVX3lxTE8za2Rjd3B6cFV4Y2l6MFFkVE5rbjB4QmQ4TENncXBkV0NzdzNIQkk2Qnktb1NpMUduUGsxV2RkWEZDWklOajBkck5fZEMxdlZINGJXWk40aTVRMDRMTnhPM1ltcVdzZ19id3pQX1g5MC1tMEoxbEo0NzlkSldQWXJ1R2R3cWxoY1c3NXJ1bC1oS201RnBReTNTUFNCRGcwUkxZTVlXSVVNNmxYMmd0Qkx3Q25ENGJTTVB1WXhyUlpNVWgwSzIwOVZaOE5leA?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

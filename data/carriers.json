@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T05:09:17.609Z",
+  "updatedAt": "2026-07-05T08:16:14.357Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Iran Clears Chinese Cargo Ships as Strait of Hormuz Sees Chaotic Reopening - Caixin Global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzBvVkJWQW1jaEowMDJKekxvVkxTMzZkQWQ2bktsXy16WUI2ZVBoZGR2TWhUYkxWVV84Vko4cWNlckk0d2xwd3dtVU9XcTVaUHVTTkE0TWw2U29ZSjhYaTRxLWlyRFBnX2tfNTNCYlpuN0ZNdi1WdlM2V2VNSU4wcGxrcUZMWWV0ZTZZZzNYYk5iNFVtNzZFaHotalMxUDZ0T1AzS2U5NGRPNFRqU1FPaEVwc0xDZVZlMDRhTkR1TS1TMVlOM2RuRQ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

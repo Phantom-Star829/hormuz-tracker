@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T17:15:00.156Z",
+  "updatedAt": "2026-07-06T20:13:18.852Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "limited",
-      "note": "News Hormuz uncertainty prompts carriers to add new surcharges - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeE1aTUF3clpkZU5LQTBlc09VYk5JWTJuWl8yU29zaHNSMXozREpUNnoyUWpIZldyYVl3ZjUwVjA3elBoYWxGYy1WbDZPcW03clJ3STFiV3JNOENLLUEybTYxOHUyd0UxZ2RjN1k4S3U4Nmg0cUl6eE1idnJ3cXlRbkNpX2hNZlQ0X2c?oc=5"
+      "note": "Implementation of Middle East Emergency Surcharge (MES) - Hapag-Lloyd",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHM2WkVMMm1DakIzaTdUYmRya2VJVjlRem9xcW96eDdlMERhNGU4MHRKNjZUOWkyLVJqWmloN3NZUXZweW1uY3lKcy0xRFE2Wm1BWHhRQS16N0FTX05vLXNrMU5RVWFkb1NNWVlZTS0tQ0xDOFQ1YUZQSkRKMkdkUGtacGcxd3BOZVZadERFaWdGYVkzeldjWHdpOFFSX25aSDlULXpwSkpTZE15WU4yQzdIcDBGSDZfekZWZk1TYm45SmM?oc=5"
     },
     {
       "name": "ONE",

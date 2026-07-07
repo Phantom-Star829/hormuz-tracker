@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-07T18:15:17.829Z",
+  "updatedAt": "2026-07-07T20:58:43.315Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "suspended",
+      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 New York",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1I4dG1fSmJwdGN1Y0RfMzk0UDc5QUxDQVhJaHpRZHJ3YUVwa0RCQnZsRDFUWXIyTUN6T0kwZlE3bzZJSEZvVF9KcXlscFgtcVlrSDlTN2F3aWNxOWVTdGR0akhfVnZ4NXJmVHhoWHNNRE01enJBaTRKMHZrdkdQWDZfdVcwRXJ1aWJSRVFoUXozRk84NTgw0gGcAUFVX3lxTE1jTWpqbUZNTFUyMGFtVGhacWF2U05HNGNwNERRSk0xMHFMSG9wR0F2S3RIcnk2S09KS2R3a3pFb3U4UmhSSmNzdVFYcDRaTHdqc2VPYlEyaDNJYzg4M3RFd0xScms3bkNua25IVzQ0bEttNWQ1ZjNWVnRvNzN2LUNQcU5EaGtpMTVNb2JPcnVqdHA4MHB6S3BnYU9NQQ?oc=5"
     },
     {
       "name": "MSC",
@@ -21,15 +21,15 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "News Hormuz uncertainty prompts carriers to add new surcharges - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeE1aTUF3clpkZU5LQTBlc09VYk5JWTJuWl8yU29zaHNSMXozREpUNnoyUWpIZldyYVl3ZjUwVjA3elBoYWxGYy1WbDZPcW03clJ3STFiV3JNOENLLUEybTYxOHUyd0UxZ2RjN1k4S3U4Nmg0cUl6eE1idnJ3cXlRbkNpX2hNZlQ0X2c?oc=5"
+      "status": "operational",
+      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0FQLTBSWjUyTTg3UU00Q2lPSVo1SUZLcGstbU9ERlpFSDlFNlpfWndMSVJ6TXBJUExxZjdmUHVFVUlnakxhUFBmM1V0SndDRm0yNXJHYUcyZlNfc2NDWm9uT1F4Yk5oaHY2ckxxNHFEVDVZU3h0dU93RU5va21jZWhodDhqZEFOd0lB?oc=5"
     },
     {
       "name": "ONE",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit - PBS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR09aN3F4dEdxdlRmcVhxaHNKWm9iT29BZnpBWnZ1Ukl2d2p3UUxwOG92VHBzcUxScVY2aE54R1ktajgtUThub01Rcm1Ea2libWZpeHZTTS12NkU2Rzd4cTQ3NlNKd2xWNVNlaU1zdHJidkhvUnIwdnlMMlFRVnVRUWtnbXJPbFBPU1BaUVQ2MXF0MWFrOWN5LUZ5NXNscU1jcUhRZUxTMEplMUl0Mms5WE5SM3JxT3BxaHd3bDBYYlFlTlhlVGfSAcsBQVVfeXFMUDVNSmZxU2NBZnVUQmdoMVUwQ2R1SVhKc2VuSmlRalNXeTBwLXh1UzZaRDBBMEJkNVpKeGU5SFR2VEs3d0lBdmxRcXFJWkFsLWVudElqR2c4SF9MMzY2Skp0MkExeUxpNzR0RlA0ODlhQjhrNzdUUzU0Z01oME11SWlGNXJUY0ltX3RReVlTNnBTYmNIMVBUZV9kOTFsZG5DYkx2YmhBQ01hcjZKalotUHI5dF90b1cyaHhxN25LcUZ1Q2JrM2JJT2ZqUkU?oc=5"
+      "status": "limited",
+      "note": "How ships are risking ‘safe’ passage through the Strait of Hormuz - France 24",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGN1bG1qN01pamowS1FaR3NhU2RGRWpYUWdILVNhNjV6UWNxWEpSQkhVY0pQdDNQY29lRkNSdWNmVENvVmtlSkNDVE1rT0pvT0V1SEZ4RkVHUGx2T1VVTHJkcnVqS3NpendhQXlhQ2NzMnVJUi1MUHFTSHd4ejBZVkdadTJRdE93YWFSU3JvUF9SSmxzQlh0OUNoSFlydFpnV21GNTFZbExta2NmVlRDZk13?oc=5"
     },
     {
       "name": "Evergreen",

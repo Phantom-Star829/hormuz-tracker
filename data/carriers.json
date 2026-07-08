@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T17:51:51.749Z",
+  "updatedAt": "2026-07-08T19:52:42.839Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,15 +15,15 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "U.N. agency pauses Strait of Hormuz evacuation effort as ship is struck off Oman - NBC News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnZpQlRnOVVWQzhWZExfZnlQNGozenNTZXZCRGdST2dqRjdGY1FQRVlYVmQ4TWo5VmFPQTBsNjloelpJWUZncVRHcGFveHJxUnV6aE13V3dIM01hdE56clBiZVB6VUJHQ1lHMS1EUFZaRlpfOEZLck9vMUZRZHVLTHpfSFoyUkFnVi1yUEZFNzRZZ0t6ay05dDBMUExISnJyN0VVZ25GalV2czhRMDJlby1hbzVSZw?oc=5"
+      "status": "operational",
+      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
     },
     {
       "name": "ONE",

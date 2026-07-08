@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T10:32:07.431Z",
+  "updatedAt": "2026-07-08T12:51:44.135Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0FQLTBSWjUyTTg3UU00Q2lPSVo1SUZLcGstbU9ERlpFSDlFNlpfWndMSVJ6TXBJUExxZjdmUHVFVUlnakxhUFBmM1V0SndDRm0yNXJHYUcyZlNfc2NDWm9uT1F4Yk5oaHY2ckxxNHFEVDVZU3h0dU93RU5va21jZWhodDhqZEFOd0lB?oc=5"
+      "status": "suspended",
+      "note": "U.N. agency pauses Strait of Hormuz evacuation effort as ship is struck off Oman - NBC News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnZpQlRnOVVWQzhWZExfZnlQNGozenNTZXZCRGdST2dqRjdGY1FQRVlYVmQ4TWo5VmFPQTBsNjloelpJWUZncVRHcGFveHJxUnV6aE13V3dIM01hdE56clBiZVB6VUJHQ1lHMS1EUFZaRlpfOEZLck9vMUZRZHVLTHpfSFoyUkFnVi1yUEZFNzRZZ0t6ay05dDBMUExISnJyN0VVZ25GalV2czhRMDJlby1hbzVSZw?oc=5"
     },
     {
       "name": "ONE",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:23:22.995Z",
+  "updatedAt": "2026-07-08T23:23:27.091Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

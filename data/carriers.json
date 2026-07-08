@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T12:51:44.135Z",
+  "updatedAt": "2026-07-08T15:33:21.311Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "How ships are risking ‘safe’ passage through the Strait of Hormuz - France 24",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGN1bG1qN01pamowS1FaR3NhU2RGRWpYUWdILVNhNjV6UWNxWEpSQkhVY0pQdDNQY29lRkNSdWNmVENvVmtlSkNDVE1rT0pvT0V1SEZ4RkVHUGx2T1VVTHJkcnVqS3NpendhQXlhQ2NzMnVJUi1MUHFTSHd4ejBZVkdadTJRdE93YWFSU3JvUF9SSmxzQlh0OUNoSFlydFpnV21GNTFZbExta2NmVlRDZk13?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:23:27.091Z",
+  "updatedAt": "2026-07-09T04:11:20.403Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "suspended",
+      "note": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit - PBS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR09aN3F4dEdxdlRmcVhxaHNKWm9iT29BZnpBWnZ1Ukl2d2p3UUxwOG92VHBzcUxScVY2aE54R1ktajgtUThub01Rcm1Ea2libWZpeHZTTS12NkU2Rzd4cTQ3NlNKd2xWNVNlaU1zdHJidkhvUnIwdnlMMlFRVnVRUWtnbXJPbFBPU1BaUVQ2MXF0MWFrOWN5LUZ5NXNscU1jcUhRZUxTMEplMUl0Mms5WE5SM3JxT3BxaHd3bDBYYlFlTlhlVGfSAcsBQVVfeXFMUDVNSmZxU2NBZnVUQmdoMVUwQ2R1SVhKc2VuSmlRalNXeTBwLXh1UzZaRDBBMEJkNVpKeGU5SFR2VEs3d0lBdmxRcXFJWkFsLWVudElqR2c4SF9MMzY2Skp0MkExeUxpNzR0RlA0ODlhQjhrNzdUUzU0Z01oME11SWlGNXJUY0ltX3RReVlTNnBTYmNIMVBUZV9kOTFsZG5DYkx2YmhBQ01hcjZKalotUHI5dF90b1cyaHhxN25LcUZ1Q2JrM2JJT2ZqUkU?oc=5"
     },
     {
       "name": "Evergreen",

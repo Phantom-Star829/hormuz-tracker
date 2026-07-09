@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-09T04:11:20.403Z",
+  "updatedAt": "2026-07-09T08:40:29.862Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - ABC7 New York",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1I4dG1fSmJwdGN1Y0RfMzk0UDc5QUxDQVhJaHpRZHJ3YUVwa0RCQnZsRDFUWXIyTUN6T0kwZlE3bzZJSEZvVF9KcXlscFgtcVlrSDlTN2F3aWNxOWVTdGR0akhfVnZ4NXJmVHhoWHNNRE01enJBaTRKMHZrdkdQWDZfdVcwRXJ1aWJSRVFoUXozRk84NTgw0gGcAUFVX3lxTE1jTWpqbUZNTFUyMGFtVGhacWF2U05HNGNwNERRSk0xMHFMSG9wR0F2S3RIcnk2S09KS2R3a3pFb3U4UmhSSmNzdVFYcDRaTHdqc2VPYlEyaDNJYzg4M3RFd0xScms3bkNua25IVzQ0bEttNWQ1ZjNWVnRvNzN2LUNQcU5EaGtpMTVNb2JPcnVqdHA4MHB6S3BnYU9NQQ?oc=5"
+      "status": "operational",
+      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
     },
     {
       "name": "MSC",
@@ -27,15 +27,15 @@
     },
     {
       "name": "ONE",
-      "status": "suspended",
-      "note": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit - PBS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR09aN3F4dEdxdlRmcVhxaHNKWm9iT29BZnpBWnZ1Ukl2d2p3UUxwOG92VHBzcUxScVY2aE54R1ktajgtUThub01Rcm1Ea2libWZpeHZTTS12NkU2Rzd4cTQ3NlNKd2xWNVNlaU1zdHJidkhvUnIwdnlMMlFRVnVRUWtnbXJPbFBPU1BaUVQ2MXF0MWFrOWN5LUZ5NXNscU1jcUhRZUxTMEplMUl0Mms5WE5SM3JxT3BxaHd3bDBYYlFlTlhlVGfSAcsBQVVfeXFMUDVNSmZxU2NBZnVUQmdoMVUwQ2R1SVhKc2VuSmlRalNXeTBwLXh1UzZaRDBBMEJkNVpKeGU5SFR2VEs3d0lBdmxRcXFJWkFsLWVudElqR2c4SF9MMzY2Skp0MkExeUxpNzR0RlA0ODlhQjhrNzdUUzU0Z01oME11SWlGNXJUY0ltX3RReVlTNnBTYmNIMVBUZV9kOTFsZG5DYkx2YmhBQ01hcjZKalotUHI5dF90b1cyaHhxN25LcUZ1Q2JrM2JJT2ZqUkU?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "IMO suspends Hormuz transits after Evergreen ship attacked - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnY0UmxLMUIyNlVKdVFKU2xVZFktQ0tsc2ZaWmlXWlpsdWtGUmNYQ1ZwQVBKaDgwaUpuN3BZRnc5REhKMmZkVExkRklSX05XVnMyNmtKX3huWnp4aGxUS2R6dTR3cVQ1dzVlQ2dwZHgzcmM1Q3hsZkJDeFJTdDZpUEFzV1B0NHVPeEN0V0I3bXlVOEphUUNfdUM5aThnQ0ctdVpZ?oc=5"
+      "note": "UN halts escort of ships through Hormuz after vessel comes under attack - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5"
     }
   ]
 }

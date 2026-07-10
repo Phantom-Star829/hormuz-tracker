@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-10T12:10:17.310Z",
+  "updatedAt": "2026-07-10T14:52:20.046Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Second Maersk service to transit Red Sea as Middle East war resumes - Journal of Commerce",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1NUWm5RaHlYcmRkUXdZN0J5YUtWNEhoUV9BQURFejRuSTdrd3l2dTY0VlNYMGg0MU5nSlpYNzc1d1JfSnhROVFBX2kxR1hsNVBlOXpwek9KSjR4N2c5X2FOSnU2cUI1WDBPNHF0R1NVYk0zNHBEVWFmZjI1X2hLLUVsUm84Qk1CUjloTDhaZV9iNlkyVG1JWVF5ZUpzRndBOE9FMUlB?oc=5"
+      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
     },
     {
       "name": "MSC",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

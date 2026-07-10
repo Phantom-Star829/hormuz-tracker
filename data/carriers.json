@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T20:42:25.381Z",
+  "updatedAt": "2026-07-10T22:15:56.938Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
+      "note": "Maersk, Hapag-Lloyd cautiously resume Suez Canal route - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeG1VeGFfUkNULUc0Ym0yNy1TR05KcUJoUTVzcjlJMjU0eXVXVWpKUmd5N0NsSkpyNGJ6djA4MXdVV3FXY19KSGhKSUZmM1hneXUzTmo5czE0cG96SDY3aG9mOVZ0dGg4Y185OGRBNXZmd1ZqWlpTbXRDZnV2OC1LU0czUjJqOTdmcmZRZFc3eHVnZXdXMWZld1BiMllvUklPVzVYZW1BQzk1Nm1nN19EcU9KTVhwY2xoRDNIZjV6blpJY2xGNnBGc1J1Zy1GNDJfMkhfZU5FQlJreDdKcEl2U0Zwc1VJUF9lTDBZ?oc=5"
     },
     {
       "name": "ONE",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "UN to resume evacuation in Strait of Hormuz after attack on cargo ship - Firstpost",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1o0eVlzZXl1cTN2YzZmbmhMcHRLSTVKYnBabmVLOVJEN0ZHTk5NeHE5eXVhQW5VeDgtS2hlLU4wMHVOTWY2MnRveXRsVGZ1M0ttQlRqYTViN2lFRkNLUVZPaXNTUVkxd0h0ck9ZaWloODl5N1dVU3V4Tm5MQmVKNHFzeU1ub2FZOXV4Vl93aVhNRGpRVkJ4NkFKQWZTODVpNE80UlBsOGVveW14OGNSUjgxQk5odEHSAbwBQVVfeXFMUHJ3VnZuOVlwVEhxdkZBSjVoUVBTajZiVnluckY0U25DUThuNm1PTEpoVzgzMi1pMXJ4Y1lSRFNLaVg2eW4waldRRzN5bnh6ZHNVRElBcE5NeE9SZDhkOUlaOU5zTVFfUE9JYjl0ajlZbTFWMmlmQmJJT2NZMkxvc04wbUx1cjhUVzVzMVVRX29fbndzX25jamlpZGplLWp4V3pCUlJKeGhVczFTMXJHWUNySWRtaDNNM29lSE4?oc=5"
+      "status": "limited",
+      "note": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - Sahm",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJoVkNBQzZlNTE5Wm9RejZHLUxNRmhwOGlzN2lCSHk1d3U3YWd4TU9WcVFQUGl6R1paamVFSlRqNlI4NS1hYzU4YjJBc1dfb0ZWR1BwLTNEOVFVUVNpdXhreEd2SmZFOVRCWXA4WmlBbW93Wm5Hcm1JdGxzcXR3clhaOUpGMTdmYkRzNEFOcHVzNkx4TW5IRVpIMFhKeWowdWMtcnc3S2J3NllnOS13OVlla1ozX0ZQTWV1VmRyYzh1Zw?oc=5"
     }
   ]
 }

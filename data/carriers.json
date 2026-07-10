@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T08:36:25.556Z",
+  "updatedAt": "2026-07-10T12:10:17.310Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "suspended",
-      "note": "Attack On Container Ship Halts UN-Led Strait Of Hormuz Ship Evacuation Mission - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNktNTFJQWVBxb2JhalFRRGJEZExQU09VUE4xcEtlQVlRek1lUlRhTm8yS1FUTU9pZWZUTkZMbjV3QzdOVXJ5bmVVWFN2UmJad1VPMHdycUVVZkkyZnVDeUNsSzlTaXMyV1pYTGVySXlBdGRNT2JxeHplQ2NRRzVBTFk0aEs3M1YxbWJyQzdOZVZ6MVBhUXcwQXRxMnZETlFrZmlsNUdZcHB6X3RpN0E?oc=5"
+      "status": "limited",
+      "note": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - Sahm",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJoVkNBQzZlNTE5Wm9RejZHLUxNRmhwOGlzN2lCSHk1d3U3YWd4TU9WcVFQUGl6R1paamVFSlRqNlI4NS1hYzU4YjJBc1dfb0ZWR1BwLTNEOVFVUVNpdXhreEd2SmZFOVRCWXA4WmlBbW93Wm5Hcm1JdGxzcXR3clhaOUpGMTdmYkRzNEFOcHVzNkx4TW5IRVpIMFhKeWowdWMtcnc3S2J3NllnOS13OVlla1ozX0ZQTWV1VmRyYzh1Zw?oc=5"
     }
   ]
 }

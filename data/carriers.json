@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-13T11:28:45.376Z",
+  "updatedAt": "2026-07-13T14:57:56.014Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Second Maersk service to transit Red Sea as Middle East war resumes - Journal of Commerce",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1NUWm5RaHlYcmRkUXdZN0J5YUtWNEhoUV9BQURFejRuSTdrd3l2dTY0VlNYMGg0MU5nSlpYNzc1d1JfSnhROVFBX2kxR1hsNVBlOXpwek9KSjR4N2c5X2FOSnU2cUI1WDBPNHF0R1NVYk0zNHBEVWFmZjI1X2hLLUVsUm84Qk1CUjloTDhaZV9iNlkyVG1JWVF5ZUpzRndBOE9FMUlB?oc=5"
+      "note": "Shipping group Maersk resumes another service through Red Sea - Yahoo Finance UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSURCS1g0aGd5YVBhazFBaU01VDcyWVdieGJNanlSZXQ5WkZ0Q0h3N2Y2Njk0SVljWGZLeW9VeXBjbGFXOFNIMXdXYnRGdkVJanpmR0F5N1VnZHN1MjV5dHppdnRva0lwbTg5MlhfamdMT1dCZU45VzhTT1BCcW80a29uSmRnSmd2Y0N0OXdhNA?oc=5"
     },
     {
       "name": "MSC",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-13T03:59:50.427Z",
+  "updatedAt": "2026-07-13T07:35:25.389Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Maersk Cleared Red Sea: Hormuz AIS Dark, Insurance Blocks Shipping Restart - Tech Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1V5MDVyX2VoaFNKd3lOTUpiY2VUNHZNaU1Td0hOYnM2R3E0NnF2MFZSbDlIeWc1WTlaUkd6YUpyd1FiUi1MYUdFZlJQcWF6Z1FJZ0liZGpQZk5ZRWsyYngwaEktQVBCNldTenZzS2MteDhiMkliMzdRWlFnUHQ5T0pHaUEyZ29zd0U5MFFaM3FDTTQyYndiSVNxYzVvYTNOb0J4UEQ4Yng5djNfVVViZFd5bTk3c3hQa2hmNkpOZWlpZ0lnY1E?oc=5"
+      "note": "Second Maersk service to transit Red Sea as Middle East war resumes - Journal of Commerce",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1NUWm5RaHlYcmRkUXdZN0J5YUtWNEhoUV9BQURFejRuSTdrd3l2dTY0VlNYMGg0MU5nSlpYNzc1d1JfSnhROVFBX2kxR1hsNVBlOXpwek9KSjR4N2c5X2FOSnU2cUI1WDBPNHF0R1NVYk0zNHBEVWFmZjI1X2hLLUVsUm84Qk1CUjloTDhaZV9iNlkyVG1JWVF5ZUpzRndBOE9FMUlB?oc=5"
     },
     {
       "name": "MSC",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
+      "note": "Hormuz risk, FedEx deal, and freight margins: July 2026 - MarketScale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ2g2VWcxbnNtXy1OYnAwSjVYN0F5ejNRWnAyWmdWOWdGWFNqcUxHbU9hX2poVm84eURLZkt3eHphVndURlpoc3RodjVOTWpIS0VneC1ZY0p6a005RUJXTWt6alhFNU5fQ3ZLN05lei1NNE5adnBCMUl5QVVLY0NJbDZUM09VN2xvT0VIcjZiNGlPbUVReDF4MXU4WllBX0paY1lDQnhsZXpvYU8zMFJ6WXpDSF93dUNFQ2dfUkZtNXcxdHpEajduMzhMV0R4TnZ3Y0FZUDYyck5KbUl5aFAxNFhYNXNOajNCa0YzWldoR2M2Z1N2bkQ4ZmRWei1HSzFQbHRrVg?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

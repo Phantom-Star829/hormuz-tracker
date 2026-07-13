@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-13T00:10:02.413Z",
+  "updatedAt": "2026-07-13T03:59:50.427Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "note": "Maersk Cleared Red Sea: Hormuz AIS Dark, Insurance Blocks Shipping Restart - Tech Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1V5MDVyX2VoaFNKd3lOTUpiY2VUNHZNaU1Td0hOYnM2R3E0NnF2MFZSbDlIeWc1WTlaUkd6YUpyd1FiUi1MYUdFZlJQcWF6Z1FJZ0liZGpQZk5ZRWsyYngwaEktQVBCNldTenZzS2MteDhiMkliMzdRWlFnUHQ5T0pHaUEyZ29zd0U5MFFaM3FDTTQyYndiSVNxYzVvYTNOb0J4UEQ4Yng5djNfVVViZFd5bTk3c3hQa2hmNkpOZWlpZ0lnY1E?oc=5"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "suspended",
+      "note": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5"
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
+      "status": "limited",
+      "note": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - Sahm",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJoVkNBQzZlNTE5Wm9RejZHLUxNRmhwOGlzN2lCSHk1d3U3YWd4TU9WcVFQUGl6R1paamVFSlRqNlI4NS1hYzU4YjJBc1dfb0ZWR1BwLTNEOVFVUVNpdXhreEd2SmZFOVRCWXA4WmlBbW93Wm5Hcm1JdGxzcXR3clhaOUpGMTdmYkRzNEFOcHVzNkx4TW5IRVpIMFhKeWowdWMtcnc3S2J3NllnOS13OVlla1ozX0ZQTWV1VmRyYzh1Zw?oc=5"
     }
   ]
 }

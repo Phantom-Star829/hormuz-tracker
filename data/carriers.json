@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T14:57:56.014Z",
+  "updatedAt": "2026-07-13T17:23:42.713Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Hormuz risk, FedEx deal, and freight margins: July 2026 - MarketScale",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ2g2VWcxbnNtXy1OYnAwSjVYN0F5ejNRWnAyWmdWOWdGWFNqcUxHbU9hX2poVm84eURLZkt3eHphVndURlpoc3RodjVOTWpIS0VneC1ZY0p6a005RUJXTWt6alhFNU5fQ3ZLN05lei1NNE5adnBCMUl5QVVLY0NJbDZUM09VN2xvT0VIcjZiNGlPbUVReDF4MXU4WllBX0paY1lDQnhsZXpvYU8zMFJ6WXpDSF93dUNFQ2dfUkZtNXcxdHpEajduMzhMV0R4TnZ3Y0FZUDYyck5KbUl5aFAxNFhYNXNOajNCa0YzWldoR2M2Z1N2bkQ4ZmRWei1HSzFQbHRrVg?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

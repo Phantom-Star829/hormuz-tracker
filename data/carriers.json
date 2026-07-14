@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T14:10:47.510Z",
+  "updatedAt": "2026-07-14T16:26:55.578Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "Grounding puts Strait of Hormuz container ship exodus at risk - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUxOZXdiOEFUYnNZTzdicnpTSHkxVVlLcURRUi1zSFFxRjRHN1c2Sko3NFZGODNRSnF3bS14LW83WWtGaWVjbGNxNjlTUnI5a2p5X1luV2wwYnctV3FicHJaUnFCLThfYkY4aGF5dXFkenU1cmVzQ1BmSnhETFBfQWdEWVRPd3ZGd05GYjdiZ0N1VWdzS29SQlQ5MGY5ckEtamFXS056Zl8xRWY4TE5oSUpLTDRNQQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

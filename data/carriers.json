@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:11:32.119Z",
+  "updatedAt": "2026-07-15T00:04:24.871Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Maersk, Hapag-Lloyd to resume sailings through Suez Canal for one of their services - Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjB6VmlfXzNpTGY1dDA4Z0hPZWtTS0xFNm54T1JsbHBQOUpsNkdjc0ExejQwNGRQUWtNV1U3cjQzaDMwdk44bUNrUW5fZzNaWkVPSmFYS2IxaDVPSEt6cEI4TXVmZ2x6QWRoLWJmTmc4V1FZNXE3M0prWFdGSUFHbHVMeUNxblBvN0pJ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

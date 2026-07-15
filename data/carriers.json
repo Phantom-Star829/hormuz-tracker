@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T15:47:45.647Z",
+  "updatedAt": "2026-07-15T17:37:15.337Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "CMA CGM Surcharge Hits $1,500 Per Container July 22: South Asian Shippers Have Six Days - Tech Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHNaeDRpMFBMZ0VMd2FmUDl4RzFVOVZkLS12UFVRdWdraF9OVnd5aGtKdU9mdXNMZDNHTkZlc0dsc3U1d3BzcXk1alpoekNPcG9FOGItczM1RWxMaXlMbGZjeWNaZTBqRnNSMk91clFpdWJzanNoNkhFRUJlMG0wZ1ZkTkg5VWdXYlNBamFneXF1d1Bwdzg4ZW9PU0RUXzNwYUMzczZUUXctemJVQVBqVlU1djRaUENwXzB1eUphVUR1VUhkaGpQdThTNVNKdXF1d2ZzWjlB?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

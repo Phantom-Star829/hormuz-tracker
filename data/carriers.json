@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:25:41.754Z",
+  "updatedAt": "2026-07-17T18:17:16.523Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "limited",
+      "note": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV19JQjNsbG9UTjhwaFJDdU9waGppMDRfenJsUmJWNFczUERHV0lIMFR1Z28zalN3UzVlaUx6dHVCc0lBU1g4Y1hic19NLWc0UkFLSUxFdksxV09GM0R5QlhON252RHFwb3B5MVNlaUJoX0pPNFFtbUpPVUg2d20tYjV4MGlvSnNwc0Nib01jMGg?oc=5"
     },
     {
       "name": "Evergreen",

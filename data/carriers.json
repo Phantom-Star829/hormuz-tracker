@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-17T22:05:36.037Z",
+  "updatedAt": "2026-07-17T23:04:34.999Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Toxic Hydrogen Fluoride Leak Aboard Cargo Ship Halts Port Operations & Disrupts Shipping Traffic At Antwerp - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOHIxdU9xY2lQN1Fya1F2WTI5Y3AtNUlfR3Vha3BOUlA5ZmpoczFaTVRMSkMyWjE3OGxlOGZwZGlEQ05MQ2ozYnNsdjBic3pBOHNLckFzbUwtSmlJc3FfWmZiSllVV3JzaHg5aWZycXlaVzlTSkxoc3lSLUpXbWc2RDNKRGh0NnRmX0JvYklqSGQ4OWlYMU9PRDhEeURTZlNwSHpIVzhLcDd6eklyQWEwUDBXTjliMlpiN3hvRmp1Rmh1QmNqR1I3Zmg3WWdwM2dvZUE?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV19JQjNsbG9UTjhwaFJDdU9waGppMDRfenJsUmJWNFczUERHV0lIMFR1Z28zalN3UzVlaUx6dHVCc0lBU1g4Y1hic19NLWc0UkFLSUxFdksxV09GM0R5QlhON252RHFwb3B5MVNlaUJoX0pPNFFtbUpPVUg2d20tYjV4MGlvSnNwc0Nib01jMGg?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
-      "status": "limited",
-      "note": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRzdoRHJFcTVVb2JKc0x1cVZZdEpQa0FyWHJMdERXOEJDRGttTTJaZ2cwODBmWGg3ckJ3SHNRSFJHMUJYaS0yRkx1NG5ZX1htbWE3LVJaS21ZRHVnQVh5bkFYVENSa3l2dWcxT05PR2d3ejRCSkJtZVBhRG93LVN0WXR3OG5FN3g1dGFNR2lmcVp5bGpEWTVNMG1idXRmbWdBSVowRXNMZFlaS0tzeWFpTmhBUGVBRFloRDNWck82S0lGS1VHalRWMWw2Q3czRktYd2dFUkQtUUplVVhkVzJ5cGlQNWNTU2ppcTV2YnpqX2RTNG9QallNVtIB_gFBVV95cUxOV2N0d05SWkZZUHF4V2xyekdjVjNhcEltamE5bm1HX2JnLU43VVFNU2YyazdVdjNqWjRSX1RfVWdnMlVPTEI2MXFkYzVDLWQ0VmVleDZ4dGs4a0RpNk9oNlBvclhDd2E3WHY5ODdFTmlhSDZDdEY3dFZuYUV1c1Q0MS01dklNUnNWdC1pOEFqX3JqUklfZGYwS2h0ZjhEaDJHWnRjTk9GZzhNWWZaZjI4WTlheVVvNUw4OXBxcU5mRlV0ZWk1MElwb01OTXIzclRWUkYyazdYMEdXWXdfTUJzdE1kdm92NDRtNlJQLWp5ZHB2N3dCekNwSTd2R3JQQQ?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T03:27:02.549Z",
+  "updatedAt": "2026-07-18T06:17:44.378Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "limited",
-      "note": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - Sahm",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJoVkNBQzZlNTE5Wm9RejZHLUxNRmhwOGlzN2lCSHk1d3U3YWd4TU9WcVFQUGl6R1paamVFSlRqNlI4NS1hYzU4YjJBc1dfb0ZWR1BwLTNEOVFVUVNpdXhreEd2SmZFOVRCWXA4WmlBbW93Wm5Hcm1JdGxzcXR3clhaOUpGMTdmYkRzNEFOcHVzNkx4TW5IRVpIMFhKeWowdWMtcnc3S2J3NllnOS13OVlla1ozX0ZQTWV1VmRyYzh1Zw?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

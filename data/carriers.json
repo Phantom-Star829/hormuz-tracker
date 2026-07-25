@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T19:26:08.082Z",
+  "updatedAt": "2026-07-25T21:08:21.654Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Toxic Hydrogen Fluoride Leak Aboard Cargo Ship Halts Port Operations & Disrupts Shipping Traffic At Antwerp - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOHIxdU9xY2lQN1Fya1F2WTI5Y3AtNUlfR3Vha3BOUlA5ZmpoczFaTVRMSkMyWjE3OGxlOGZwZGlEQ05MQ2ozYnNsdjBic3pBOHNLckFzbUwtSmlJc3FfWmZiSllVV3JzaHg5aWZycXlaVzlTSkxoc3lSLUpXbWc2RDNKRGh0NnRmX0JvYklqSGQ4OWlYMU9PRDhEeURTZlNwSHpIVzhLcDd6eklyQWEwUDBXTjliMlpiN3hvRmp1Rmh1QmNqR1I3Zmg3WWdwM2dvZUE?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T23:15:29.044Z",
+  "updatedAt": "2026-07-25T03:35:36.170Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Toxic Hydrogen Fluoride Leak Aboard Cargo Ship Halts Port Operations & Disrupts Shipping Traffic At Antwerp - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOHIxdU9xY2lQN1Fya1F2WTI5Y3AtNUlfR3Vha3BOUlA5ZmpoczFaTVRMSkMyWjE3OGxlOGZwZGlEQ05MQ2ozYnNsdjBic3pBOHNLckFzbUwtSmlJc3FfWmZiSllVV3JzaHg5aWZycXlaVzlTSkxoc3lSLUpXbWc2RDNKRGh0NnRmX0JvYklqSGQ4OWlYMU9PRDhEeURTZlNwSHpIVzhLcDd6eklyQWEwUDBXTjliMlpiN3hvRmp1Rmh1QmNqR1I3Zmg3WWdwM2dvZUE?oc=5"
+      "status": "operational",
+      "note": "Major container lines begin MEG withdrawals, but reopening Hormuz won’t stop a broader downturn - Lloyd's List",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEhYNThwemsyd2VHaGtaVW5wTkpyenplQXd1VkpUaDBERUY4REo3eW8yMWVlWi1IQktTS1VBWW1CRVVjUkNaakRVVUFycDNpbzhqUFBLRHg0UHhxUGJVcHJIUTdFZU5HWlJrMnUtMHFYQWo5Ynl0d0p2bmZCMVg3VjlUdDBDRUJhWnY3Sl9CWEwzSVZxc2Z4MkN0OWxiRzhkZzZ4TWtGQ1RNeTM3N1NRdHl0SHlud2NTREozcEJuNDZ3OVIwNDRZSlJ3?oc=5"
     },
     {
       "name": "CMA CGM",

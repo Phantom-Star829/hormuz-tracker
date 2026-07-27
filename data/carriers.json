@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-27T04:00:15.828Z",
+  "updatedAt": "2026-07-27T07:48:22.635Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Shipping group Maersk resumes another service through Red Sea - Yahoo Finance UK",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSURCS1g0aGd5YVBhazFBaU01VDcyWVdieGJNanlSZXQ5WkZ0Q0h3N2Y2Njk0SVljWGZLeW9VeXBjbGFXOFNIMXdXYnRGdkVJanpmR0F5N1VnZHN1MjV5dHppdnRva0lwbTg5MlhfamdMT1dCZU45VzhTT1BCcW80a29uSmRnSmd2Y0N0OXdhNA?oc=5"
+      "status": "limited",
+      "note": "Trump’s Flip-Flop on Strait of Hormuz Fees Raises New Risks - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZXpkQjNvNzJYZlVFdTFjSjU3N1hhUkRWd0VULXRMbHNqdk8wZzI1Wi1yS1R5ZlNSRXhGMW54NVR1Nm15MkgweGJ3R215QXhzeldRUlVDVjYxUno2V1FGQldYQmUtOEowNlBDTHZUX3Y0NmlnQ1ZhTTdFTQ?oc=5"
     },
     {
       "name": "MSC",

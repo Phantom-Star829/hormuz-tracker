@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T06:39:32.828Z",
+  "updatedAt": "2026-07-28T09:45:42.148Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Trump’s Flip-Flop on Strait of Hormuz Fees Raises New Risks - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZXpkQjNvNzJYZlVFdTFjSjU3N1hhUkRWd0VULXRMbHNqdk8wZzI1Wi1yS1R5ZlNSRXhGMW54NVR1Nm15MkgweGJ3R215QXhzeldRUlVDVjYxUno2V1FGQldYQmUtOEowNlBDTHZUX3Y0NmlnQ1ZhTTdFTQ?oc=5"
+      "status": "suspended",
+      "note": "Russian attacks force Maersk to halt feeder operations at Ukrainian port - TradeWinds News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzBVNFkzWmlYVU1VckYxYnBZLU14R25yaFlyRV9DZncxVklCVnp4bnNEZnk5VHNoTF9ISHVZNkx0RVZheFU2Y2ZBUjlKMnlvOFdBbTFPNzNkaHdIal9CLW9CcldrNEM3dTFLcHNWZVBaSThQc3REaUVfcldtQS0tUEhhcjNMSnNyQlRVbEhVMnRhZy0zZ3JYOWJZOTBiZFpETHF4Ri1yMEg5YThFTmJBY1VIa3NuOWdmWGlfQzVnWU9xUjRn?oc=5"
     },
     {
       "name": "MSC",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV19JQjNsbG9UTjhwaFJDdU9waGppMDRfenJsUmJWNFczUERHV0lIMFR1Z28zalN3UzVlaUx6dHVCc0lBU1g4Y1hic19NLWc0UkFLSUxFdksxV09GM0R5QlhON252RHFwb3B5MVNlaUJoX0pPNFFtbUpPVUg2d20tYjV4MGlvSnNwc0Nib01jMGg?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

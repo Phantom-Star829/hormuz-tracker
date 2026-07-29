@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-29T06:44:25.820Z",
+  "updatedAt": "2026-07-29T09:48:39.310Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens - The New York Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDlQazkyU2hkS0w1ZjFCTHpKS2ZUajBLUEtLME54eGdnNExXM2JIWncxSHVkNUVQbmEtZ2EtM0RrVjlqYmVmTXN3NW40LUw3eGJoWTEwaThqNzlzMG1UWmViemxpcVJ3SXpBVWppaHNkcF9xQkVHWnl1Y29jdlcwRjhqbEtjVnJRWXNJenBsQnlZWFU?oc=5"
+      "status": "suspended",
+      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
     },
     {
       "name": "MSC",

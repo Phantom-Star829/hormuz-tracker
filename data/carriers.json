@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-29T03:37:32.272Z",
+  "updatedAt": "2026-07-29T06:44:25.820Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Russian attacks force Maersk to halt feeder operations at Ukrainian port - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzBVNFkzWmlYVU1VckYxYnBZLU14R25yaFlyRV9DZncxVklCVnp4bnNEZnk5VHNoTF9ISHVZNkx0RVZheFU2Y2ZBUjlKMnlvOFdBbTFPNzNkaHdIal9CLW9CcldrNEM3dTFLcHNWZVBaSThQc3REaUVfcldtQS0tUEhhcjNMSnNyQlRVbEhVMnRhZy0zZ3JYOWJZOTBiZFpETHF4Ri1yMEg5YThFTmJBY1VIa3NuOWdmWGlfQzVnWU9xUjRn?oc=5"
+      "status": "limited",
+      "note": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens - The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDlQazkyU2hkS0w1ZjFCTHpKS2ZUajBLUEtLME54eGdnNExXM2JIWncxSHVkNUVQbmEtZ2EtM0RrVjlqYmVmTXN3NW40LUw3eGJoWTEwaThqNzlzMG1UWmViemxpcVJ3SXpBVWppaHNkcF9xQkVHWnl1Y29jdlcwRjhqbEtjVnJRWXNJenBsQnlZWFU?oc=5"
     },
     {
       "name": "MSC",

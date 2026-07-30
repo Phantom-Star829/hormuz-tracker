@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-30T09:39:16.869Z",
+  "updatedAt": "2026-07-30T12:03:32.439Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
+      "status": "limited",
+      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5"
     },
     {
       "name": "MSC",

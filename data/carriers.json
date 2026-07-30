@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T12:03:32.439Z",
+  "updatedAt": "2026-07-30T14:30:10.686Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -34,7 +34,7 @@
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "IRGC claims it stopped four ships transiting Strait of Hormuz - New Age BD",
+      "note": "IRGC claims it stopped four ships transiting Strait of Hormuz - Daily New Age",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZncxU2NWY0tVSFFiaGx1blltclFpYjB0cTFuNGxhd1ZGTnNCNnpxRVBIRWZ6VngtTWFzczJQZEIwMkQtV3EycjFleVlMUnRzTEVvaUsxbENibVR2SFRhUVJUaWlCNTduSDlfWDRXV2JWQTFYS2ROdW5yUTM1X1FxZ0l2dXRPTjEwVl9jSldnOWlCa2FkZndRQWRCbkdsNGJIR2R2WWRqUFoweWVNOS1V?oc=5"
     }
   ]

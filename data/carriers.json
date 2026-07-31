@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:49:54.638Z",
+  "updatedAt": "2026-07-31T21:19:51.099Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,13 +22,13 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd reopens bookings to Upper Gulf via alternative routes - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzN3azgwTFpRa2tGVkhOSzVTdTd2enNFSkVZYk9Icm5aamFMOGhGcWdrbDNLRlFFSjBlZmM0N1NuWktSdm9QZ1VRQ2xkdHhhWWYyMjNZSmd2akV0WXFfY1JwRWJSa1lxaU44RlBNQWlJWE5DVnRmVzN6VnBWaDlibGh0VG9iMUdDWGdBbEQ0T2pEM2tBSWRGXw?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue - aa.com.tr",
+      "note": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue - Anadolu Ajansı",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVVjb3dxZUk2VlJVU21kbjRrOExPNVhKd1dFbUM3OXRZM0tpcXFjTk9EbUpsZC1RU05jM3RISWhTUGxPSzdYQ0I1V2dQUVJYMUtNMElPTGMwckdzZmkwZFVHcUhSTGZCRUkwVE51bi1KUldENWZXbDdOUXBua3U1dWRURmhRWW82R2F3NjAzZGRSYTM3alV1bjNXcGtHTVhZbFc1RkhTNG1PbmY1eVBXTG1uMk1HVTVF?oc=5"
     },
     {

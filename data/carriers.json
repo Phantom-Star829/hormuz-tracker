@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-31T13:07:07.443Z",
+  "updatedAt": "2026-07-31T15:30:26.563Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTk2YVhqYkhDQzZvWGJORmJoWHNIQVpyRk1IU1hoaE9JeElhbUZHSV9vRzdvajhnUmNpenJEbHFmTkdwM0QzLWNJTVczNEZrZFBnM1VuUVN1OXB0dGFjZ2Ryd0VkalRCRW5sQWYzUllrX3M3NWEteGZRSGtqTzNVMkY1WkFUMjJUU3hUcFFDbmhfbTVxQ185LVM0UGVpOFpYWWY1UUtMb3BkckxMYlpWZFY0MktPR2Zra0pv?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue - Anadolu Ajansı",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVVjb3dxZUk2VlJVU21kbjRrOExPNVhKd1dFbUM3OXRZM0tpcXFjTk9EbUpsZC1RU05jM3RISWhTUGxPSzdYQ0I1V2dQUVJYMUtNMElPTGMwckdzZmkwZFVHcUhSTGZCRUkwVE51bi1KUldENWZXbDdOUXBua3U1dWRURmhRWW82R2F3NjAzZGRSYTM3alV1bjNXcGtHTVhZbFc1RkhTNG1PbmY1eVBXTG1uMk1HVTVF?oc=5"
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
-      "status": "suspended",
-      "note": "IRGC claims it stopped four ships transiting Strait of Hormuz - New Age BD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZncxU2NWY0tVSFFiaGx1blltclFpYjB0cTFuNGxhd1ZGTnNCNnpxRVBIRWZ6VngtTWFzczJQZEIwMkQtV3EycjFleVlMUnRzTEVvaUsxbENibVR2SFRhUVJUaWlCNTduSDlfWDRXV2JWQTFYS2ROdW5yUTM1X1FxZ0l2dXRPTjEwVl9jSldnOWlCa2FkZndRQWRCbkdsNGJIR2R2WWRqUFoweWVNOS1V?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]
 }

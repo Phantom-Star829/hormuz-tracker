@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T23:15:50.890Z",
+  "updatedAt": "2026-08-01T03:47:56.379Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd reopens bookings to Upper Gulf via alternative routes - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzN3azgwTFpRa2tGVkhOSzVTdTd2enNFSkVZYk9Icm5aamFMOGhGcWdrbDNLRlFFSjBlZmM0N1NuWktSdm9QZ1VRQ2xkdHhhWWYyMjNZSmd2akV0WXFfY1JwRWJSa1lxaU44RlBNQWlJWE5DVnRmVzN6VnBWaDlibGh0VG9iMUdDWGdBbEQ0T2pEM2tBSWRGXw?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

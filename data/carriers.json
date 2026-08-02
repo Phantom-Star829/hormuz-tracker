@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-02T09:20:32.873Z",
+  "updatedAt": "2026-08-02T11:27:53.100Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - theloadstar.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5"
     },
     {
       "name": "MSC",
       "status": "limited",
-      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - theloadstar.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5"
     },
     {

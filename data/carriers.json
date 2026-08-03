@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-03T08:42:03.053Z",
+  "updatedAt": "2026-08-03T12:37:02.446Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTk2YVhqYkhDQzZvWGJORmJoWHNIQVpyRk1IU1hoaE9JeElhbUZHSV9vRzdvajhnUmNpenJEbHFmTkdwM0QzLWNJTVczNEZrZFBnM1VuUVN1OXB0dGFjZ2Ryd0VkalRCRW5sQWYzUllrX3M3NWEteGZRSGtqTzNVMkY1WkFUMjJUU3hUcFFDbmhfbTVxQ185LVM0UGVpOFpYWWY1UUtMb3BkckxMYlpWZFY0MktPR2Zra0pv?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd reopens bookings to Upper Gulf via alternative routes - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzN3azgwTFpRa2tGVkhOSzVTdTd2enNFSkVZYk9Icm5aamFMOGhGcWdrbDNLRlFFSjBlZmM0N1NuWktSdm9QZ1VRQ2xkdHhhWWYyMjNZSmd2akV0WXFfY1JwRWJSa1lxaU44RlBNQWlJWE5DVnRmVzN6VnBWaDlibGh0VG9iMUdDWGdBbEQ0T2pEM2tBSWRGXw?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue - Anadolu Ajansı",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVVjb3dxZUk2VlJVU21kbjRrOExPNVhKd1dFbUM3OXRZM0tpcXFjTk9EbUpsZC1RU05jM3RISWhTUGxPSzdYQ0I1V2dQUVJYMUtNMElPTGMwckdzZmkwZFVHcUhSTGZCRUkwVE51bi1KUldENWZXbDdOUXBua3U1dWRURmhRWW82R2F3NjAzZGRSYTM3alV1bjNXcGtHTVhZbFc1RkhTNG1PbmY1eVBXTG1uMk1HVTVF?oc=5"
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
+      "status": "suspended",
+      "note": "IRGC claims it stopped four ships transiting Strait of Hormuz - New Age BD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZncxU2NWY0tVSFFiaGx1blltclFpYjB0cTFuNGxhd1ZGTnNCNnpxRVBIRWZ6VngtTWFzczJQZEIwMkQtV3EycjFleVlMUnRzTEVvaUsxbENibVR2SFRhUVJUaWlCNTduSDlfWDRXV2JWQTFYS2ROdW5yUTM1X1FxZ0l2dXRPTjEwVl9jSldnOWlCa2FkZndRQWRCbkdsNGJIR2R2WWRqUFoweWVNOS1V?oc=5"
     }
   ]
 }

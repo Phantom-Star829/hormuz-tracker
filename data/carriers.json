@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T21:19:05.381Z",
+  "updatedAt": "2026-08-03T23:18:07.736Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,7 +16,7 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - Reuters",
+      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - reuters.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTk2YVhqYkhDQzZvWGJORmJoWHNIQVpyRk1IU1hoaE9JeElhbUZHSV9vRzdvajhnUmNpenJEbHFmTkdwM0QzLWNJTVczNEZrZFBnM1VuUVN1OXB0dGFjZ2Ryd0VkalRCRW5sQWYzUllrX3M3NWEteGZRSGtqTzNVMkY1WkFUMjJUU3hUcFFDbmhfbTVxQ185LVM0UGVpOFpYWWY1UUtMb3BkckxMYlpWZFY0MktPR2Zra0pv?oc=5"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T21:25:52.564Z",
+  "updatedAt": "2026-08-04T23:17:38.729Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Hapag-Lloyd reopens bookings to Upper Gulf via alternative routes - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzN3azgwTFpRa2tGVkhOSzVTdTd2enNFSkVZYk9Icm5aamFMOGhGcWdrbDNLRlFFSjBlZmM0N1NuWktSdm9QZ1VRQ2xkdHhhWWYyMjNZSmd2akV0WXFfY1JwRWJSa1lxaU44RlBNQWlJWE5DVnRmVzN6VnBWaDlibGh0VG9iMUdDWGdBbEQ0T2pEM2tBSWRGXw?oc=5"
+      "status": "limited",
+      "note": "Hapag Lloyd Stock And 2 Global Shipping Names Tied To Trade Route Risk - simplywall.st",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMU9BcGpna2tJeFg1VS1oVWpJRjFpMGgyVjdzZkx4MWhiLVZkc2E4ZVpNMHpvblNoc3NBZWpOY1JPMk5uRDgyczdxR0l3NHJhSWhIbm8xYTMzX0pGZkNQdzg0bkxKRGg5b2RUU3dwbjJiaTNxeWVNTlRVYkZqNXNLTlEtLWF2YkJXeWI3MWs3aTdQd1JNdnNpR3B4V3ozaWhaV29lbF9GdmlrX29KRWRzc01nLTFlbm11SWNVaEpmWnZMdWN5bWVmajQ5eXlSUGN5X21iWWI4SDZ2UTFWYUY5UnNvMUx5UdIB6wFBVV95cUxNbUtGYXlkckZKdllQQmkxUmJhX1RaYXB3MHF1a25sUG5Ra25zN1dPdlItTFA4WnhOQks5NXNTQmtFVWJCS2gxa21BUlR2RVljb2Uzby1objZ4TTNOOU1MVTZndjlDSlhwbS1pWkhvekpxY25DeG5NQzB0c2FQV3JJUFREcVZqMXhpRUF5WDdtN2FYVjF2Tmg4S3UxNnNWZUUwNHRtb1A1RWYwWXZHcDcwdmhzeFMyaHhlT2U4c3p4Q0s5TlFseE9weEs4a0lSZWVxbzYydklQN3M1RXdJTE5rMHRJNWtReVB1bWJB?oc=5"
     },
     {
       "name": "ONE",

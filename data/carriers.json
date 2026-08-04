@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T18:03:24.994Z",
+  "updatedAt": "2026-08-04T19:53:59.132Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Hormuz conflict forces France’s CMA CGM to impose surcharge - Arabian Gulf Business Insight | AGBI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGNHR0E5MlM1UHpyVTNoclNhVXVSWWs1bV80azduUUc5anR6QnVoQWdjTlZhYnVYdlpjTk4yUTBjWkdMUWdlSm82b2pOQ1VOZUdfaW5tdjF4WF9hTGlKWWo1T3FNdTF1NnNyc3VkbWZUT2FXRUd3MlFueG9ZM2l3bGdGN0w4QjlMRTRQdWw0SUsxUU16bENxYndvT04tcWM?oc=5"
+      "note": "Shipper CMA CGM to slap on fuel surcharge over Hormuz crunch - The Times of Israel",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWVFRnpRZzNfdUdqOGFrb09rNHhaRmpMWlJ0akJXY3V2b2xJU2I2bUlLMVVJVkhrQ2dIM0tXZWxRYlJSRVp3UTd1amVvQUpoYjFBQUd4ZjVLUXRwM0ZqOVBlZEZTOUhLSjBTeXRkbUhWVEs1Z1kxOElrclVUUXpySk04YjZRSHEyTDRlaV8xTGlSeXRMUmN3WHRtbTRWRHBJVFBhMG5kVkFrQQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -34,8 +34,8 @@
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "IRGC claims it stopped four ships transiting Strait of Hormuz - New Age BD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZncxU2NWY0tVSFFiaGx1blltclFpYjB0cTFuNGxhd1ZGTnNCNnpxRVBIRWZ6VngtTWFzczJQZEIwMkQtV3EycjFleVlMUnRzTEVvaUsxbENibVR2SFRhUVJUaWlCNTduSDlfWDRXV2JWQTFYS2ROdW5yUTM1X1FxZ0l2dXRPTjEwVl9jSldnOWlCa2FkZndRQWRCbkdsNGJIR2R2WWRqUFoweWVNOS1V?oc=5"
+      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
     }
   ]
 }

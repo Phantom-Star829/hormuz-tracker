@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:18:07.736Z",
+  "updatedAt": "2026-08-04T03:34:13.810Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,7 +16,7 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - reuters.com",
+      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - Reuters",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTk2YVhqYkhDQzZvWGJORmJoWHNIQVpyRk1IU1hoaE9JeElhbUZHSV9vRzdvajhnUmNpenJEbHFmTkdwM0QzLWNJTVczNEZrZFBnM1VuUVN1OXB0dGFjZ2Ryd0VkalRCRW5sQWYzUllrX3M3NWEteGZRSGtqTzNVMkY1WkFUMjJUU3hUcFFDbmhfbTVxQ185LVM0UGVpOFpYWWY1UUtMb3BkckxMYlpWZFY0MktPR2Zra0pv?oc=5"
     },
     {
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue - Anadolu Ajansı",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVVjb3dxZUk2VlJVU21kbjRrOExPNVhKd1dFbUM3OXRZM0tpcXFjTk9EbUpsZC1RU05jM3RISWhTUGxPSzdYQ0I1V2dQUVJYMUtNMElPTGMwckdzZmkwZFVHcUhSTGZCRUkwVE51bi1KUldENWZXbDdOUXBua3U1dWRURmhRWW82R2F3NjAzZGRSYTM3alV1bjNXcGtHTVhZbFc1RkhTNG1PbmY1eVBXTG1uMk1HVTVF?oc=5"
+      "status": "limited",
+      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - dw.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkNjeEptb3ZjbW5rRndVbFp2T1BSWmx6U1VzRVJRVldyc2ZJX3VsRmJXSy1VRVd1YWJxaVl3TGNIcjBkUkhfeVg2ekNjZDZFYzgyUDhUU2FEZGFWeElTeTg1MVpZUjRzVlRzdmtLSEtQQzdXamF3c0o4MnFmbUpwTnFFU1hmYWJwQmE0eTQtZ0FkYmJIT2NHQW5WNEt2aUJXcVJOQ1lRazVTMWMzemJiYVNRbTPSAbQBQVVfeXFMTmxpeGZtc0ctVWNLZDNCSHo2UW0wdjFzZEx2UGR5MDhhLWJ6R2dZdjljN3J2cVdhTnl4eW5aQUtjYlZpY21saG1LSkE3dnVycWx1aEhNTktDVVhDbldNYVhKN0U1djZ6eHQwa1V1TkNNaWE4VjVOX3RCd2RCSTA5dHBPeVpjVEU4ZEIzR2kyOVFpQ2JOU1BSRV9XYXo1TUhKVEZzOHV2NnVpTTRHNE1KdElQUzE4?oc=5"
     },
     {
       "name": "Evergreen",

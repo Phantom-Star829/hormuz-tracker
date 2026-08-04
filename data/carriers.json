@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:40:05.609Z",
+  "updatedAt": "2026-08-04T09:48:25.197Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "CMA CGM will impose emergency surcharge due to renewed Hormuz tensions - Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTk2YVhqYkhDQzZvWGJORmJoWHNIQVpyRk1IU1hoaE9JeElhbUZHSV9vRzdvajhnUmNpenJEbHFmTkdwM0QzLWNJTVczNEZrZFBnM1VuUVN1OXB0dGFjZ2Ryd0VkalRCRW5sQWYzUllrX3M3NWEteGZRSGtqTzNVMkY1WkFUMjJUU3hUcFFDbmhfbTVxQ185LVM0UGVpOFpYWWY1UUtMb3BkckxMYlpWZFY0MktPR2Zra0pv?oc=5"
+      "note": "Shipper CMA CGM to slap on fuel surcharge over Hormuz crunch - The Times of Israel",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWVFRnpRZzNfdUdqOGFrb09rNHhaRmpMWlJ0akJXY3V2b2xJU2I2bUlLMVVJVkhrQ2dIM0tXZWxRYlJSRVp3UTd1amVvQUpoYjFBQUd4ZjVLUXRwM0ZqOVBlZEZTOUhLSjBTeXRkbUhWVEs1Z1kxOElrclVUUXpySk04YjZRSHEyTDRlaV8xTGlSeXRMUmN3WHRtbTRWRHBJVFBhMG5kVkFrQQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

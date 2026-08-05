@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T09:46:32.613Z",
+  "updatedAt": "2026-08-05T12:11:40.518Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,13 +22,13 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd reopens bookings to Upper Gulf via alternative routes - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzN3azgwTFpRa2tGVkhOSzVTdTd2enNFSkVZYk9Icm5aamFMOGhGcWdrbDNLRlFFSjBlZmM0N1NuWktSdm9QZ1VRQ2xkdHhhWWYyMjNZSmd2akV0WXFfY1JwRWJSa1lxaU44RlBNQWlJWE5DVnRmVzN6VnBWaDlibGh0VG9iMUdDWGdBbEQ0T2pEM2tBSWRGXw?oc=5"
     },
     {
       "name": "ONE",
       "status": "limited",
-      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - dw.com",
+      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - DW.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkNjeEptb3ZjbW5rRndVbFp2T1BSWmx6U1VzRVJRVldyc2ZJX3VsRmJXSy1VRVd1YWJxaVl3TGNIcjBkUkhfeVg2ekNjZDZFYzgyUDhUU2FEZGFWeElTeTg1MVpZUjRzVlRzdmtLSEtQQzdXamF3c0o4MnFmbUpwTnFFU1hmYWJwQmE0eTQtZ0FkYmJIT2NHQW5WNEt2aUJXcVJOQ1lRazVTMWMzemJiYVNRbTPSAbQBQVVfeXFMTmxpeGZtc0ctVWNLZDNCSHo2UW0wdjFzZEx2UGR5MDhhLWJ6R2dZdjljN3J2cVdhTnl4eW5aQUtjYlZpY21saG1LSkE3dnVycWx1aEhNTktDVVhDbldNYVhKN0U1djZ6eHQwa1V1TkNNaWE4VjVOX3RCd2RCSTA5dHBPeVpjVEU4ZEIzR2kyOVFpQ2JOU1BSRV9XYXo1TUhKVEZzOHV2NnVpTTRHNE1KdElQUzE4?oc=5"
     },
     {

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-06T12:15:01.439Z",
+  "updatedAt": "2026-08-06T15:29:41.329Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Russian attacks force Maersk to halt feeder operations at Ukrainian port - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzBVNFkzWmlYVU1VckYxYnBZLU14R25yaFlyRV9DZncxVklCVnp4bnNEZnk5VHNoTF9ISHVZNkx0RVZheFU2Y2ZBUjlKMnlvOFdBbTFPNzNkaHdIal9CLW9CcldrNEM3dTFLcHNWZVBaSThQc3REaUVfcldtQS0tUEhhcjNMSnNyQlRVbEhVMnRhZy0zZ3JYOWJZOTBiZFpETHF4Ri1yMEg5YThFTmJBY1VIa3NuOWdmWGlfQzVnWU9xUjRn?oc=5"
+      "status": "operational",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "MSC",
       "status": "limited",
-      "note": "The surcharge that was never going to be reviewed - Container Management",
+      "note": "The surcharge that was never going to be reviewed - container-mag.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhuUExYUEoyMW1LeGw3R2RzcDhGU0FsLUJNUG1KQmtkY19NeHpTNk85WnhwLVJaS201R3N5VXVvS3JSbzBpWk1LQnJwWEVmcXAta2stN1lKSHNMSWYtYkctZ0szX1RiZEVkSVFXZUFzWTl3YlVvQmFiZGlEVHhEMFl4V1l6MkRlVzZMYmRwVUxGN1RKQm00?oc=5"
     },
     {
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "ONE",

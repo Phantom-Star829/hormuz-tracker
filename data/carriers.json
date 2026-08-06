@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T09:49:59.022Z",
+  "updatedAt": "2026-08-06T12:15:01.439Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,14 +21,14 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
       "status": "limited",
-      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - dw.com",
+      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - DW.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkNjeEptb3ZjbW5rRndVbFp2T1BSWmx6U1VzRVJRVldyc2ZJX3VsRmJXSy1VRVd1YWJxaVl3TGNIcjBkUkhfeVg2ekNjZDZFYzgyUDhUU2FEZGFWeElTeTg1MVpZUjRzVlRzdmtLSEtQQzdXamF3c0o4MnFmbUpwTnFFU1hmYWJwQmE0eTQtZ0FkYmJIT2NHQW5WNEt2aUJXcVJOQ1lRazVTMWMzemJiYVNRbTPSAbQBQVVfeXFMTmxpeGZtc0ctVWNLZDNCSHo2UW0wdjFzZEx2UGR5MDhhLWJ6R2dZdjljN3J2cVdhTnl4eW5aQUtjYlZpY21saG1LSkE3dnVycWx1aEhNTktDVVhDbldNYVhKN0U1djZ6eHQwa1V1TkNNaWE4VjVOX3RCd2RCSTA5dHBPeVpjVEU4ZEIzR2kyOVFpQ2JOU1BSRV9XYXo1TUhKVEZzOHV2NnVpTTRHNE1KdElQUzE4?oc=5"
     },
     {

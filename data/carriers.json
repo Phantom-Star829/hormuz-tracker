@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T00:14:11.152Z",
+  "updatedAt": "2026-08-07T04:04:12.886Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
@@ -33,9 +33,9 @@
     },
     {
       "name": "Evergreen",
-      "status": "limited",
-      "note": "US-escorted tankers struck in Hormuz: Iran - newagebd.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVByOURhc2VMc2s1amRwRHAtNVF1bm1rMGFJMVlDeFROSzdsdjdVMzY2VGUyMk1DdmRPbm9Kb1owcUlvWWNOdTVpODJ4ZnBndldVLXlKVWV0THdHUkpjeUtGQi1QeUlZOFg3N0NvZXZxTkpaR0R4OVJJbVM2ZUdtOThsRWNmR3ViNnRZbUJFeU5NT3hs?oc=5"
+      "status": "suspended",
+      "note": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5"
     }
   ]
 }

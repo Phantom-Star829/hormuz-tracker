@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-06T15:29:41.329Z",
+  "updatedAt": "2026-08-07T00:14:11.152Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - euronews.com",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "MSC",
       "status": "limited",
-      "note": "The surcharge that was never going to be reviewed - container-mag.com",
+      "note": "The surcharge that was never going to be reviewed - Container Management",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhuUExYUEoyMW1LeGw3R2RzcDhGU0FsLUJNUG1KQmtkY19NeHpTNk85WnhwLVJaS201R3N5VXVvS3JSbzBpWk1LQnJwWEVmcXAta2stN1lKSHNMSWYtYkctZ0szX1RiZEVkSVFXZUFzWTl3YlVvQmFiZGlEVHhEMFl4V1l6MkRlVzZMYmRwVUxGN1RKQm00?oc=5"
     },
     {
@@ -22,19 +22,19 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - euronews.com",
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "ONE",
       "status": "limited",
-      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - DW.com",
+      "note": "As US-Iran war rages, who's risking the Strait of Hormuz? - dw.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkNjeEptb3ZjbW5rRndVbFp2T1BSWmx6U1VzRVJRVldyc2ZJX3VsRmJXSy1VRVd1YWJxaVl3TGNIcjBkUkhfeVg2ekNjZDZFYzgyUDhUU2FEZGFWeElTeTg1MVpZUjRzVlRzdmtLSEtQQzdXamF3c0o4MnFmbUpwTnFFU1hmYWJwQmE0eTQtZ0FkYmJIT2NHQW5WNEt2aUJXcVJOQ1lRazVTMWMzemJiYVNRbTPSAbQBQVVfeXFMTmxpeGZtc0ctVWNLZDNCSHo2UW0wdjFzZEx2UGR5MDhhLWJ6R2dZdjljN3J2cVdhTnl4eW5aQUtjYlZpY21saG1LSkE3dnVycWx1aEhNTktDVVhDbldNYVhKN0U1djZ6eHQwa1V1TkNNaWE4VjVOX3RCd2RCSTA5dHBPeVpjVEU4ZEIzR2kyOVFpQ2JOU1BSRV9XYXo1TUhKVEZzOHV2NnVpTTRHNE1KdElQUzE4?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "limited",
-      "note": "US-escorted tankers struck in Hormuz: Iran - New Age BD",
+      "note": "US-escorted tankers struck in Hormuz: Iran - newagebd.net",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVByOURhc2VMc2s1amRwRHAtNVF1bm1rMGFJMVlDeFROSzdsdjdVMzY2VGUyMk1DdmRPbm9Kb1owcUlvWWNOdTVpODJ4ZnBndldVLXlKVWV0THdHUkpjeUtGQi1QeUlZOFg3N0NvZXZxTkpaR0R4OVJJbVM2ZUdtOThsRWNmR3ViNnRZbUJFeU5NT3hs?oc=5"
     }
   ]

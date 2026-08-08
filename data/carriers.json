@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:46:33.471Z",
+  "updatedAt": "2026-08-08T21:44:05.100Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,7 +10,7 @@
     {
       "name": "MSC",
       "status": "limited",
-      "note": "The surcharge that was never going to be reviewed - Container Management",
+      "note": "The surcharge that was never going to be reviewed - container-mag.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhuUExYUEoyMW1LeGw3R2RzcDhGU0FsLUJNUG1KQmtkY19NeHpTNk85WnhwLVJaS201R3N5VXVvS3JSbzBpWk1LQnJwWEVmcXAta2stN1lKSHNMSWYtYkctZ0szX1RiZEVkSVFXZUFzWTl3YlVvQmFiZGlEVHhEMFl4V1l6MkRlVzZMYmRwVUxGN1RKQm00?oc=5"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:00:39.510Z",
+  "updatedAt": "2026-08-12T22:00:08.812Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "Strait of Hormuz on edge: ships divert, tankers attacked, shipping giants halt transit - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzQ5VFlQUXVjczJjeFliMkxXU3QzWFpMX1lzc21QWXVHMnhMN09RTnA4MmJDZjRYY2xJU0tTYnJxSFA2OXdxQ1hYQlVCUmRaSGx6WGdpRVFzVVRydUZvN3Q1VjhpNFQ0M0l5SkVIeEJOajVrMkdHOU1rYVJCOHRmS3NMWTExRVpiTGhDUjVGWTk3a1FoeVRQS252Y2FBamQyVzhmM3JpQTRrMDNOdnhNUFRITU5xS21QQ3BhUw?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:41:26.989Z",
+  "updatedAt": "2026-08-12T04:59:26.947Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "ONE",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:42:22.893Z",
+  "updatedAt": "2026-08-14T21:38:18.360Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach - The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUNTWVFLLXhncGRwVGVoMGZSWXhtMlNFZmFFVG5jcUV4MmhSVDA2UEJoS1NWSkotQUJwSEZEZVBjbGRWVEItY1VJR0RReVA0aXpXNlNNc1c4RkZTN1pDazh4eVc5cXlFSUR6em41VzFKdGd6SURhLUY2RFhlSlBfNTZsUjM3QkdEaXJTUEg0RXp4c2w0cVdGLTRnQzRaa0Q2c3RFdHczRDIyMnltYUVybUpjLTRRcW9wTUxwano0NllJRW1VcVE?oc=5"
     },
     {
       "name": "Evergreen",

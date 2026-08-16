@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-08-16T04:49:29.873Z",
+  "updatedAt": "2026-08-16T05:41:23.103Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "Strait of Hormuz on edge: ships divert, tankers attacked, shipping giants halt transit - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzQ5VFlQUXVjczJjeFliMkxXU3QzWFpMX1lzc21QWXVHMnhMN09RTnA4MmJDZjRYY2xJU0tTYnJxSFA2OXdxQ1hYQlVCUmRaSGx6WGdpRVFzVVRydUZvN3Q1VjhpNFQ0M0l5SkVIeEJOajVrMkdHOU1rYVJCOHRmS3NMWTExRVpiTGhDUjVGWTk3a1FoeVRQS252Y2FBamQyVzhmM3JpQTRrMDNOdnhNUFRITU5xS21QQ3BhUw?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "suspended",
+      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions | Container news - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach - The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUNTWVFLLXhncGRwVGVoMGZSWXhtMlNFZmFFVG5jcUV4MmhSVDA2UEJoS1NWSkotQUJwSEZEZVBjbGRWVEItY1VJR0RReVA0aXpXNlNNc1c4RkZTN1pDazh4eVc5cXlFSUR6em41VzFKdGd6SURhLUY2RFhlSlBfNTZsUjM3QkdEaXJTUEg0RXp4c2w0cVdGLTRnQzRaa0Q2c3RFdHczRDIyMnltYUVybUpjLTRRcW9wTUxwano0NllJRW1VcVE?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

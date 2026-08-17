@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:37:44.172Z",
+  "updatedAt": "2026-08-17T16:42:23.509Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,8 +10,8 @@
     {
       "name": "MSC",
       "status": "limited",
-      "note": "The surcharge that was never going to be reviewed - Container Management",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhuUExYUEoyMW1LeGw3R2RzcDhGU0FsLUJNUG1KQmtkY19NeHpTNk85WnhwLVJaS201R3N5VXVvS3JSbzBpWk1LQnJwWEVmcXAta2stN1lKSHNMSWYtYkctZ0szX1RiZEVkSVFXZUFzWTl3YlVvQmFiZGlEVHhEMFl4V1l6MkRlVzZMYmRwVUxGN1RKQm00?oc=5"
+      "note": "Hormuz deal nears as Red Sea shipping risks persist - Trans.INFO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZHI0SzVEX0pFck9ldlpDc2E1NUFqWHBPNkxuS2pzdFE1QUNsaVdIRTlwUFp3TGF6QWZnc2ZNd1ZobnhyRDg4OXZQVER3M3NmcGZLX3NnbmlWWDA?oc=5"
     },
     {
       "name": "CMA CGM",

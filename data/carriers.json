@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:41:21.627Z",
+  "updatedAt": "2026-08-17T15:37:44.172Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Strait of Hormuz on edge: ships divert, tankers attacked, shipping giants halt transit - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzQ5VFlQUXVjczJjeFliMkxXU3QzWFpMX1lzc21QWXVHMnhMN09RTnA4MmJDZjRYY2xJU0tTYnJxSFA2OXdxQ1hYQlVCUmRaSGx6WGdpRVFzVVRydUZvN3Q1VjhpNFQ0M0l5SkVIeEJOajVrMkdHOU1rYVJCOHRmS3NMWTExRVpiTGhDUjVGWTk3a1FoeVRQS252Y2FBamQyVzhmM3JpQTRrMDNOdnhNUFRITU5xS21QQ3BhUw?oc=5"
+      "status": "limited",
+      "note": "The surcharge that was never going to be reviewed - Container Management",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhuUExYUEoyMW1LeGw3R2RzcDhGU0FsLUJNUG1KQmtkY19NeHpTNk85WnhwLVJaS201R3N5VXVvS3JSbzBpWk1LQnJwWEVmcXAta2stN1lKSHNMSWYtYkctZ0szX1RiZEVkSVFXZUFzWTl3YlVvQmFiZGlEVHhEMFl4V1l6MkRlVzZMYmRwVUxGN1RKQm00?oc=5"
     },
     {
       "name": "CMA CGM",

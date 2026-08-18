@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:47:04.260Z",
+  "updatedAt": "2026-08-18T10:43:25.528Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "Hormuz deal nears as Red Sea shipping risks persist - Trans.INFO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZHI0SzVEX0pFck9ldlpDc2E1NUFqWHBPNkxuS2pzdFE1QUNsaVdIRTlwUFp3TGF6QWZnc2ZNd1ZobnhyRDg4OXZQVER3M3NmcGZLX3NnbmlWWDA?oc=5"
+      "status": "operational",
+      "note": "News Seven MSC box ships 'go dark' as they resume Suez canal transits - The Loadstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGFGYzdmLWd2b0FkX1FoV3dzQzVoWUpkaGw1cUY2OXRMR3lPTjB6WURvSG53Nmo2blRjak95c0QtODVsb2VDOEx6ZEhGNGdTLXBNWGpxbURXVmJBcmM3aXNQcU1ZMDRDS0N0S0Uwc1ZtSjBBeGZPTHhSRWdoUGVjek04MlQyQVJ0YnhkdWZpOEE?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:37:47.704Z",
+  "updatedAt": "2026-08-18T13:06:30.049Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,13 +10,13 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "News Seven MSC box ships 'go dark' as they resume Suez canal transits - The Loadstar",
+      "note": "News Seven MSC box ships 'go dark' as they resume Suez canal transits - theloadstar.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGFGYzdmLWd2b0FkX1FoV3dzQzVoWUpkaGw1cUY2OXRMR3lPTjB6WURvSG53Nmo2blRjak95c0QtODVsb2VDOEx6ZEhGNGdTLXBNWGpxbURXVmJBcmM3aXNQcU1ZMDRDS0N0S0Uwc1ZtSjBBeGZPTHhSRWdoUGVjek04MlQyQVJ0YnhkdWZpOEE?oc=5"
     },
     {
       "name": "CMA CGM",
       "status": "suspended",
-      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions | Container news - shippingtelegraph.com",
+      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions | Container news - Shipping Telegraph",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
     },
     {

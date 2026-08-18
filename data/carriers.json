@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-18T05:42:05.906Z",
+  "updatedAt": "2026-08-18T07:02:20.965Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "limited",
-      "note": "Hormuz deal nears as Red Sea shipping risks persist - trans.info",
+      "note": "Hormuz deal nears as Red Sea shipping risks persist - Trans.INFO",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZHI0SzVEX0pFck9ldlpDc2E1NUFqWHBPNkxuS2pzdFE1QUNsaVdIRTlwUFp3TGF6QWZnc2ZNd1ZobnhyRDg4OXZQVER3M3NmcGZLX3NnbmlWWDA?oc=5"
     },
     {
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Shipping companies 'see opportunities' but seek clarity on Strait of Hormuz reopening - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlZiZ1lheVR5bkgtcTI3eHZ4VEpWT1Q4TFNXQXRjRnUyWk51VmJBWndVWnZPT1VUQ2t6dG5TWmNpbDdBYndjSXctWXVFcm5kYmhPTmxzSnpBODJEQ1dIUmFFVkhHWXRmQTV2SHd6aTRRdHdiUldBSWRqckpEaGVpbjVDWFhveE5jVHlydlZpSHVwalAtdE1qeDNLcUpvc2thVEdWUEI5RDl1cXFfQXB5cmRTZmpCVk83Rk9LcVBWWGROcU9PNG13?oc=5"
+      "status": "limited",
+      "note": "Hapag-Lloyd's €148 million loss exposes the real cost of risk - Insurance Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3lmX1RySWJfVEs3S1F3dDhpMG5zOUE4TER6dENoOGdzaER0TzM1TG5kMFA0NkRoaDdBaXpUZFVlVmxjeHU5RWhwR0x1TzY0VmFIM1B6VzQyOENDcW5XWEUzVmtIa1NtVWdBdm4tOWM2aE9Fcy1CTEVGbmM4cVplc0h6bVBMQk43b1B5eGFjblpoTzEwSnhhTkVoUDZxSDdxTk5UUXlnNWx5NjJJREZLMXVGVnc2MkhDLXpidy1pTQ?oc=5"
     },
     {
       "name": "ONE",

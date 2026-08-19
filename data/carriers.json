@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-19T17:38:56.770Z",
+  "updatedAt": "2026-08-19T18:52:10.828Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk returns another shipping service through Suez as risks remain - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUG1UN0hTeEZxSlpCdmN3eGxkTFRrX2xnX3FENHVza2t0U3c2OG1OV0dRMnZwZGZEZ1UtbzhfaENILUt4SEhjYjdUZEhjSzA2WlVJWk1ZNXd3c2hxY1pUc2k4eFJISlRPa3pidTkyRHBaZzY4T3RmeVpTZXBaS25HWnBSRE1yNE8yQkctSnkyU25FNHNOa1QwZFJuN0VHSVNpUWREOUFEamtDVV9abFVnNER5MDBYcVhKajV1TnVRSVM0Ui05SkpBOTlsNEhGQQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -16,7 +16,7 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - wwd.com",
+      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach - The Guardian",
+      "note": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach - theguardian.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUNTWVFLLXhncGRwVGVoMGZSWXhtMlNFZmFFVG5jcUV4MmhSVDA2UEJoS1NWSkotQUJwSEZEZVBjbGRWVEItY1VJR0RReVA0aXpXNlNNc1c4RkZTN1pDazh4eVc5cXlFSUR6em41VzFKdGd6SURhLUY2RFhlSlBfNTZsUjM3QkdEaXJTUEg0RXp4c2w0cVdGLTRnQzRaa0Q2c3RFdHczRDIyMnltYUVybUpjLTRRcW9wTUxwano0NllJRW1VcVE?oc=5"
     },
     {

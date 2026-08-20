@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:43:15.073Z",
+  "updatedAt": "2026-08-20T07:04:39.800Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,13 +10,13 @@
     {
       "name": "MSC",
       "status": "operational",
-      "note": "News Seven MSC box ships 'go dark' as they resume Suez canal transits - The Loadstar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGFGYzdmLWd2b0FkX1FoV3dzQzVoWUpkaGw1cUY2OXRMR3lPTjB6WURvSG53Nmo2blRjak95c0QtODVsb2VDOEx6ZEhGNGdTLXBNWGpxbURXVmJBcmM3aXNQcU1ZMDRDS0N0S0Uwc1ZtSjBBeGZPTHhSRWdoUGVjek04MlQyQVJ0YnhkdWZpOEE?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
+      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - wwd.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
     },
     {

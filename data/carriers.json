@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:38:52.540Z",
+  "updatedAt": "2026-08-21T01:56:27.298Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
+      "note": "CMA CGM introduces low water surcharge for Manaus - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTS1dsOXRhZnhKd3pFbHZ0SkMyNGYtSGkwanpjMUx5bzR5bFFGMlNvbm1HUnZTWUduQ3RQSG5TbU5VYjh1UnVpSmxydlk0WFYzdWprX3N3NEhETmIwaEVNdmZKbEpJSk9raUxKTk1BaDBRcEo4ZFpkaWVnNDhjRjhMMA?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

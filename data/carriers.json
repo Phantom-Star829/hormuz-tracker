@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:36:58.132Z",
+  "updatedAt": "2026-08-22T01:48:55.007Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "CMA CGM introduces low water surcharge for Manaus - Container News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTS1dsOXRhZnhKd3pFbHZ0SkMyNGYtSGkwanpjMUx5bzR5bFFGMlNvbm1HUnZTWUduQ3RQSG5TbU5VYjh1UnVpSmxydlk0WFYzdWprX3N3NEhETmIwaEVNdmZKbEpJSk9raUxKTk1BaDBRcEo4ZFpkaWVnNDhjRjhMMA?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

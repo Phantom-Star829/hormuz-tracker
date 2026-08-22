@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:40:15.955Z",
+  "updatedAt": "2026-08-22T06:58:27.307Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "CMA CGM introduces low water surcharge for Manaus - Container News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTS1dsOXRhZnhKd3pFbHZ0SkMyNGYtSGkwanpjMUx5bzR5bFFGMlNvbm1HUnZTWUduQ3RQSG5TbU5VYjh1UnVpSmxydlk0WFYzdWprX3N3NEhETmIwaEVNdmZKbEpJSk9raUxKTk1BaDBRcEo4ZFpkaWVnNDhjRjhMMA?oc=5"
+      "status": "suspended",
+      "note": "CMA CGM starts bypassing Hormuz by deploying emergency multimodal solutions - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXVUQS1zWjRhYkdIVE0xZms3QTA1dEl4bTVTMUE2djhueEdBekxZZHhtRkx5aEhEMXRuUVR0dnY1UEpmX3pqWFBmeTh5NXJGV0w4TUtTeXdrb0w4QUhCeDZZSl9jbDNVaG0tS2RJRzUwT3Q3d0FkdE40cExNZmVGYlRqX1JKWTA0YzNaZzBwZFhoWTk3U0pZWnpPQld3TzJma1BxbzBqYm9iTDFsemtpWC1DZ3loZkM4b2FlSjRR?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

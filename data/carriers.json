@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:34:23.617Z",
+  "updatedAt": "2026-08-23T22:36:38.478Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hormuz Cargo Movement Remains Limited as Some Red Sea Services Resume - Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblliUmRBOWtfT1pXTjBfQUNqbTNYcmZ6RnlXbXpMdVNESHhNMUZtUHd2SDNMU0FrYzFsQlFQVnRJNER0ZDR5NHV2amdTRG1RdWdtMkZKUEEtQWdZUE5fSjd4a3loc3I0N3lUREx0YlBQTEhrQ2hfNHh3czVoSkcwOGtJdDhGb1N3Y0d2WmtnQks2dFcwN0ZuY3BB?oc=5"
     },
     {
       "name": "ONE",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:59:18.187Z",
+  "updatedAt": "2026-08-23T03:14:54.726Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Hormuz Cargo Movement Remains Limited as Some Red Sea Services Resume - Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblliUmRBOWtfT1pXTjBfQUNqbTNYcmZ6RnlXbXpMdVNESHhNMUZtUHd2SDNMU0FrYzFsQlFQVnRJNER0ZDR5NHV2amdTRG1RdWdtMkZKUEEtQWdZUE5fSjd4a3loc3I0N3lUREx0YlBQTEhrQ2hfNHh3czVoSkcwOGtJdDhGb1N3Y0d2WmtnQks2dFcwN0ZuY3BB?oc=5"
+      "status": "limited",
+      "note": "Hapag-Lloyd's €148 million loss exposes the real cost of risk - Insurance Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3lmX1RySWJfVEs3S1F3dDhpMG5zOUE4TER6dENoOGdzaER0TzM1TG5kMFA0NkRoaDdBaXpUZFVlVmxjeHU5RWhwR0x1TzY0VmFIM1B6VzQyOENDcW5XWEUzVmtIa1NtVWdBdm4tOWM2aE9Fcy1CTEVGbmM4cVplc0h6bVBMQk43b1B5eGFjblpoTzEwSnhhTkVoUDZxSDdxTk5UUXlnNWx5NjJJREZLMXVGVnc2MkhDLXpidy1pTQ?oc=5"
     },
     {
       "name": "ONE",

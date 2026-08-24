@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-23T23:33:58.828Z",
+  "updatedAt": "2026-08-24T01:56:38.178Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
     },
     {
       "name": "MSC",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hormuz Cargo Movement Remains Limited as Some Red Sea Services Resume - Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblliUmRBOWtfT1pXTjBfQUNqbTNYcmZ6RnlXbXpMdVNESHhNMUZtUHd2SDNMU0FrYzFsQlFQVnRJNER0ZDR5NHV2amdTRG1RdWdtMkZKUEEtQWdZUE5fSjd4a3loc3I0N3lUREx0YlBQTEhrQ2hfNHh3czVoSkcwOGtJdDhGb1N3Y0d2WmtnQks2dFcwN0ZuY3BB?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

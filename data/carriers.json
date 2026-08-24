@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-24T20:45:48.197Z",
+  "updatedAt": "2026-08-24T21:41:51.662Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
+      "status": "limited",
+      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
     },
     {
       "name": "MSC",
       "status": "limited",
-      "note": "Odfjell posts stronger second quarter as it navigates Hormuz risk - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2JUTlo5dWZPMEQ2RU1aZDA2UGV2V3lEMHJOdkdaWGVkcm9qQmVVc3ZyQWw2M0dHQmtGYTlSZnZEWWs1cnl1ZnpLeXFqdV9lTU16UUdTNWxHYXZ0LTh5eUF0R1dtN2p1a1M3d05rMERZQUstcmlEMU9SOEVGVXBZcjlwaG85LVQ3X1JyM2l4QkpTUzlOR0pyeTBLWlBZNUR1ampUN293TmIzME9VdVJVaWVaMEhEUzA?oc=5"
+      "note": "Depth Restrictions Limit Cargo Capacity Of Largest Cargo Ship To Call Port Everglades - Marine Insight",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVNnUjZKZE5HZm5VVkdYNzBDdTlQLXU4R0prNERFY1hyMGlkUUtkMnZhLUNCXzFXR2F4dXBZTzFDSG9PajQ2Y1F4OC1vWjQ1V0lPV2JCV2lqUWk5dTBlN1hJZ2FxaUxSaUNTQlZPQnk3VjZuWU9GcHIwN01qNUJPMm1kNUtKb1ZucjFpVHZqTlFzdm1VcWU1NUZEQjhLWERyRDdVX0h1b3EzMXVGTjUzaWdzb05mcGM?oc=5"
     },
     {
       "name": "CMA CGM",

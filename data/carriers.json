@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-24T17:42:54.847Z",
+  "updatedAt": "2026-08-24T18:56:59.419Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk returns another shipping service through Suez as risks remain - Euronews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUG1UN0hTeEZxSlpCdmN3eGxkTFRrX2xnX3FENHVza2t0U3c2OG1OV0dRMnZwZGZEZ1UtbzhfaENILUt4SEhjYjdUZEhjSzA2WlVJWk1ZNXd3c2hxY1pUc2k4eFJISlRPa3pidTkyRHBaZzY4T3RmeVpTZXBaS25HWnBSRE1yNE8yQkctSnkyU25FNHNOa1QwZFJuN0VHSVNpUWREOUFEamtDVV9abFVnNER5MDBYcVhKajV1TnVRSVM0Ui05SkpBOTlsNEhGQQ?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Hapag-Lloyd's €148 million loss exposes the real cost of risk - Insurance Business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3lmX1RySWJfVEs3S1F3dDhpMG5zOUE4TER6dENoOGdzaER0TzM1TG5kMFA0NkRoaDdBaXpUZFVlVmxjeHU5RWhwR0x1TzY0VmFIM1B6VzQyOENDcW5XWEUzVmtIa1NtVWdBdm4tOWM2aE9Fcy1CTEVGbmM4cVplc0h6bVBMQk43b1B5eGFjblpoTzEwSnhhTkVoUDZxSDdxTk5UUXlnNWx5NjJJREZLMXVGVnc2MkhDLXpidy1pTQ?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "ONE",

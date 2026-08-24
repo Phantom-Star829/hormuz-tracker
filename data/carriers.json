@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T11:41:33.647Z",
+  "updatedAt": "2026-08-24T13:11:26.382Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "status": "limited",
+      "note": "Hapag-Lloyd's €148 million loss exposes the real cost of risk - Insurance Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3lmX1RySWJfVEs3S1F3dDhpMG5zOUE4TER6dENoOGdzaER0TzM1TG5kMFA0NkRoaDdBaXpUZFVlVmxjeHU5RWhwR0x1TzY0VmFIM1B6VzQyOENDcW5XWEUzVmtIa1NtVWdBdm4tOWM2aE9Fcy1CTEVGbmM4cVplc0h6bVBMQk43b1B5eGFjblpoTzEwSnhhTkVoUDZxSDdxTk5UUXlnNWx5NjJJREZLMXVGVnc2MkhDLXpidy1pTQ?oc=5"
     },
     {
       "name": "ONE",

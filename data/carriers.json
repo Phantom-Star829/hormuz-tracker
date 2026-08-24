@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-24T01:56:38.178Z",
+  "updatedAt": "2026-08-24T03:15:35.390Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

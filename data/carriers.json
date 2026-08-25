@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-25T03:11:25.982Z",
+  "updatedAt": "2026-08-25T04:52:14.741Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Red Sea Shipping Risks Return With Deadly Houthi Attack - WWD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2RNejBVRDIwN1BVVmlxRnhoSnVWYjlmZHBZdXh3YUU2VEtIZWR1TFVQSWlBRml5RDRTVTNGRVJfWFo4cWhTTEY5ZzJvNUM0NGhoTzNTQkhBcGFQTW5HaGpLcFRsZGxvcjIyQW0zX1p1V2Z2OUJOWlFVX3JZODB2N3YtOTJUYWJIRnFoMnhIZlB4N09pdjRlSFNtOF9xcUhOUzNVbXpYWng5b2NNZmJHM2FPSTJpaE4xbEFXV3JFY21OZkVQeVE?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
-      "status": "limited",
-      "note": "Depth Restrictions Limit Cargo Capacity Of Largest Cargo Ship To Call Port Everglades - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVNnUjZKZE5HZm5VVkdYNzBDdTlQLXU4R0prNERFY1hyMGlkUUtkMnZhLUNCXzFXR2F4dXBZTzFDSG9PajQ2Y1F4OC1vWjQ1V0lPV2JCV2lqUWk5dTBlN1hJZ2FxaUxSaUNTQlZPQnk3VjZuWU9GcHIwN01qNUJPMm1kNUtKb1ZucjFpVHZqTlFzdm1VcWU1NUZEQjhLWERyRDdVX0h1b3EzMXVGTjUzaWdzb05mcGM?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Hapag-Lloyd's €148 million loss exposes the real cost of risk - Insurance Business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3lmX1RySWJfVEs3S1F3dDhpMG5zOUE4TER6dENoOGdzaER0TzM1TG5kMFA0NkRoaDdBaXpUZFVlVmxjeHU5RWhwR0x1TzY0VmFIM1B6VzQyOENDcW5XWEUzVmtIa1NtVWdBdm4tOWM2aE9Fcy1CTEVGbmM4cVplc0h6bVBMQk43b1B5eGFjblpoTzEwSnhhTkVoUDZxSDdxTk5UUXlnNWx5NjJJREZLMXVGVnc2MkhDLXpidy1pTQ?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "ONE",

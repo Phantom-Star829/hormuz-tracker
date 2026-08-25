@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:08:57.163Z",
+  "updatedAt": "2026-08-25T14:03:02.634Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "Odfjell posts stronger second quarter as it navigates Hormuz risk - TradeWinds News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2JUTlo5dWZPMEQ2RU1aZDA2UGV2V3lEMHJOdkdaWGVkcm9qQmVVc3ZyQWw2M0dHQmtGYTlSZnZEWWs1cnl1ZnpLeXFqdV9lTU16UUdTNWxHYXZ0LTh5eUF0R1dtN2p1a1M3d05rMERZQUstcmlEMU9SOEVGVXBZcjlwaG85LVQ3X1JyM2l4QkpTUzlOR0pyeTBLWlBZNUR1ampUN293TmIzME9VdVJVaWVaMEhEUzA?oc=5"
     },
     {
       "name": "CMA CGM",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T19:17:33.470Z",
+  "updatedAt": "2026-08-26T23:27:07.951Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "limited",
+      "note": "Depth Restrictions Limit Cargo Capacity Of Largest Cargo Ship To Call Port Everglades - Marine Insight",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVNnUjZKZE5HZm5VVkdYNzBDdTlQLXU4R0prNERFY1hyMGlkUUtkMnZhLUNCXzFXR2F4dXBZTzFDSG9PajQ2Y1F4OC1vWjQ1V0lPV2JCV2lqUWk5dTBlN1hJZ2FxaUxSaUNTQlZPQnk3VjZuWU9GcHIwN01qNUJPMm1kNUtKb1ZucjFpVHZqTlFzdm1VcWU1NUZEQjhLWERyRDdVX0h1b3EzMXVGTjUzaWdzb05mcGM?oc=5"
     },
     {
       "name": "CMA CGM",

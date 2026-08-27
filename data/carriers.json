@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T09:35:03.369Z",
+  "updatedAt": "2026-08-27T20:23:54.123Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "MSC suspends Novorossiysk cargo bookings after drone attack - safety4sea",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2JsbzdCSnlyaXlCZGluLWQtMzVaOGdBbklDMzRCb3RHaTk0MTVSNEg2WEJ3WEVENlhRZWh3M3FLcC11VlFWV1NfOHhwR05YWHlCdlo0MW9rNGtKQjNvVXVleU9HWGFudkREdFd2OFJCOV9rTkhlS3J2Y1MzakZCZjlfbDZHS0JTN1Bn?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Why Hormuz remains high risk for ships despite US claims of mine-clearing - Al Jazeera",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEhrS296MFZ6dU90WC02X0RZOG83bGV3N2YwWDJMNS0tcXItZHBfY1owN2tmQ2Z0eXpFSWFpWE0wY2E4SkFTc0dlNHZfWi14WXo5Mk5LcG1rR3J1WERhdTUwRjU0cEotdHRTVjJzaGpVZ0xUY0Vmd0JFN1dRbjFxTFROVVlrN2NHeFlBcEZIb01ZVDJJQ2pkMnhBaUhycGh6UHhOZW1EWTVnNkhkV3NSQjlucnXSAboBQVVfeXFMTnIxZjhuSFlHTWVDRVFHQVp0ZHNQTEdUZlY0N1oxc09zRW5aZDRWSXh0SEh3bjFzaVlrSTRRal9YZFVNLXB1QnpmVEFzb01TNEJFUk5MeDh3SG1rSEJFUlVJeTYyZlhJaEZXSG9zZWJlaThrbk04OS1oeGtfa29nM0xsZXY4TVNDXzBWSHlZYS1yd1dnMTJ0dlVQWWNwb2l2Y2ZzTjdHR1lsaTZkVlo5dE9TTjJNcTVLUzNR?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-31T05:26:54.211Z",
+  "updatedAt": "2026-08-31T13:37:43.036Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum - Global Trade Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHNQTDJpVEw2Z00xQms1NWRZTEFuM3ZxZDEwQkJuMFF4UDNGWXdoT3hqQWdOWS15R2ZKRm9TcDNXUXNLeVFaZGJUTDdRS3NJMWs3VUNvTUozUlctX05kT1A5THlETXdGek5menZscWExOHV6WllpZ2c4LUFkSEhxV2F4Ty1YZTRhT2plMjFpYzdSdjd1SkJMdVZsa3V2M2FHM1ZnUw?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum - Global Trade Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHNQTDJpVEw2Z00xQms1NWRZTEFuM3ZxZDEwQkJuMFF4UDNGWXdoT3hqQWdOWS15R2ZKRm9TcDNXUXNLeVFaZGJUTDdRS3NJMWs3VUNvTUozUlctX05kT1A5THlETXdGek5menZscWExOHV6WllpZ2c4LUFkSEhxV2F4Ty1YZTRhT2plMjFpYzdSdjd1SkJMdVZsa3V2M2FHM1ZnUw?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

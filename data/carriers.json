@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-01T14:50:19.300Z",
+  "updatedAt": "2026-09-01T18:27:34.304Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - shippingtelegraph.com",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
       "status": "suspended",
-      "note": "MSC suspends Novorossiysk cargo bookings after drone attack - safety4sea",
+      "note": "MSC suspends Novorossiysk cargo bookings after drone attack - safety4sea.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2JsbzdCSnlyaXlCZGluLWQtMzVaOGdBbklDMzRCb3RHaTk0MTVSNEg2WEJ3WEVENlhRZWh3M3FLcC11VlFWV1NfOHhwR05YWHlCdlo0MW9rNGtKQjNvVXVleU9HWGFudkREdFd2OFJCOV9rTkhlS3J2Y1MzakZCZjlfbDZHS0JTN1Bn?oc=5"
     },
     {
@@ -22,14 +22,14 @@
     {
       "name": "Hapag-Lloyd",
       "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - shippingtelegraph.com",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "limited",
+      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
     },
     {
       "name": "Evergreen",

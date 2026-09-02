@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T21:46:40.712Z",
+  "updatedAt": "2026-09-02T00:06:18.780Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
+      "status": "limited",
+      "note": "Global Oil Slips But Middle East Fighting Limits Losses - EnergyNow.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1AtZGZGQzRVZWVXVy1VV0lrVk5TTG1xd2twc3pqYkluYjRNSDU2LWFpUlR3Z2VqS3pSc3g4U214bGJZeEgxV05YTHRQTmY3VFZhblUyQXpTMHZyV2JReHlUVTBZT3NrbElyc29LUGdVTklhSjFfa21CUl96b3kybkZuSUw0N0Z3NDVDcnNKQQ?oc=5"
     },
     {
       "name": "MSC",

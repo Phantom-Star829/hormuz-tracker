@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:39:40.566Z",
+  "updatedAt": "2026-09-02T21:48:54.910Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,13 +16,13 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - indexbox.io",
+      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - IndexBox",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRENmd19XN0dHRThNTFNWbVVHT0htODlkbDVGZWZ0eEdPVDBEeEFfMF9hbWxfQzJlcFFNSlJPYnI2aTkybUQtTnhhZlFGV0ZxYVdaTE1kaTFfY2ZScUtPOVBGRnAyRWFqZGVSX1Q0RDAwNDRNckM1aHRRcUt1MDRCck5RYjd0TkR4enFMRzc5WC04SkxMb2pCRmFVTnQyQnBIaGc?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "limited",
-      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - indexbox.io",
+      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - IndexBox",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRENmd19XN0dHRThNTFNWbVVHT0htODlkbDVGZWZ0eEdPVDBEeEFfMF9hbWxfQzJlcFFNSlJPYnI2aTkybUQtTnhhZlFGV0ZxYVdaTE1kaTFfY2ZScUtPOVBGRnAyRWFqZGVSX1Q0RDAwNDRNckM1aHRRcUt1MDRCck5RYjd0TkR4enFMRzc5WC04SkxMb2pCRmFVTnQyQnBIaGc?oc=5"
     },
     {

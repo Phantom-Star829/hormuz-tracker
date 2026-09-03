@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:48:54.910Z",
+  "updatedAt": "2026-09-03T00:10:12.786Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,20 +16,20 @@
     {
       "name": "CMA CGM",
       "status": "limited",
-      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - IndexBox",
+      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - indexbox.io",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRENmd19XN0dHRThNTFNWbVVHT0htODlkbDVGZWZ0eEdPVDBEeEFfMF9hbWxfQzJlcFFNSlJPYnI2aTkybUQtTnhhZlFGV0ZxYVdaTE1kaTFfY2ZScUtPOVBGRnAyRWFqZGVSX1Q0RDAwNDRNckM1aHRRcUt1MDRCck5RYjd0TkR4enFMRzc5WC04SkxMb2pCRmFVTnQyQnBIaGc?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "limited",
-      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - IndexBox",
+      "note": "Strait of Hormuz Traffic Limited, Red Sea Return Imminent | Shipping Update - News and Statistics - indexbox.io",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRENmd19XN0dHRThNTFNWbVVHT0htODlkbDVGZWZ0eEdPVDBEeEFfMF9hbWxfQzJlcFFNSlJPYnI2aTkybUQtTnhhZlFGV0ZxYVdaTE1kaTFfY2ZScUtPOVBGRnAyRWFqZGVSX1Q0RDAwNDRNckM1aHRRcUt1MDRCck5RYjd0TkR4enFMRzc5WC04SkxMb2pCRmFVTnQyQnBIaGc?oc=5"
     },
     {
       "name": "ONE",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "status": "limited",
+      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
     },
     {
       "name": "Evergreen",

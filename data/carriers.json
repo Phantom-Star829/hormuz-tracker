@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:22:35.955Z",
+  "updatedAt": "2026-09-04T21:26:10.564Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk's Bookings After Ship Attack - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVpmd0tvLU1PVU81b2QtY3djTkNtS08yNWp3VUdCTnFTQ0FYY29ETUxmcmI3X3B2dFZsOG5mbE9yTE9ET2l4UWZMOTZrekUwU25CWFNXYVFmUERLbXJNNzFfVWlIOEpoa1hrUUtzMTBLOGZRbFk0aXF4ZnlqbFIwX3o3RDJ4N1JqN2xPQXR0OExVcmNSemlPTTkxRVRjSHFfa3hEUHppaHdSd2EtU2I3c3ExTzdwQTdQZTg2MFRKLTRZYXc?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

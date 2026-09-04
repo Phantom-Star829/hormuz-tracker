@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:43:17.489Z",
+  "updatedAt": "2026-09-04T00:09:39.264Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,14 +21,14 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "status": "limited",
+      "note": "Hapag-Lloyd Spain Inland Fuel Surcharge: 3% Truck, 1% Rail-Truck from Sept 2026 - News and Statistics - IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzVvS0xvVTZBV0tLZ0tQai1qSkw0ZFNyZlg3cjdIU0hLZnhwbWZOcjNnTHNvM3ZLZGFvVkY5eTdaTjdKU0dXSm55WmdKa3NGcUZtNGdsenBNYXMyYmJBNXV2VFFzVjB4ZE5Rcnc5ZF9ubmpqRl9RUkhYUllWcVBnT09jenpRakdjSnEtdkNFU0VFNUY1YjdMa2I5dVhDTTkwN01GXw?oc=5"
     },
     {
       "name": "ONE",
       "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
+      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - axios.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
     },
     {

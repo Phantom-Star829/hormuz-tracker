@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-04T09:36:44.383Z",
+  "updatedAt": "2026-09-04T14:19:36.455Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Global Oil Slips But Middle East Fighting Limits Losses - EnergyNow.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1AtZGZGQzRVZWVXVy1VV0lrVk5TTG1xd2twc3pqYkluYjRNSDU2LWFpUlR3Z2VqS3pSc3g4U214bGJZeEgxV05YTHRQTmY3VFZhblUyQXpTMHZyV2JReHlUVTBZT3NrbElyc29LUGdVTklhSjFfa21CUl96b3kybkZuSUw0N0Z3NDVDcnNKQQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

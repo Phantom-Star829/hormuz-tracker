@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:01:34.130Z",
+  "updatedAt": "2026-09-05T04:20:27.422Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

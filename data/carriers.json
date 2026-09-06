@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-06T17:00:05.900Z",
+  "updatedAt": "2026-09-06T19:08:21.338Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Global Oil Slips But Middle East Fighting Limits Losses - EnergyNow.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1AtZGZGQzRVZWVXVy1VV0lrVk5TTG1xd2twc3pqYkluYjRNSDU2LWFpUlR3Z2VqS3pSc3g4U214bGJZeEgxV05YTHRQTmY3VFZhblUyQXpTMHZyV2JReHlUVTBZT3NrbElyc29LUGdVTklhSjFfa21CUl96b3kybkZuSUw0N0Z3NDVDcnNKQQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -28,14 +28,14 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran says no one can reopen Strait of Hormuz without its consent - Middle East Eye",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBQSHV5QzBxaTRfOVpmNXBwM0JDWmhIM2hadTV1TVFDa3Z0NXlPSzE0SnROSUV6WFVnZlRZMFZ6S2MzRzZlUGZNRUxVR1NvX24zS2JKUldqUm9iQW44Ulc3OVNUVzZoVm1BZURuLVhyc01JZEdhYUFaU2hyd3JYQVM4bFItYVRkWVp3eGNpaHYxblNKYkZ4SDdRU1c2cGFVSm9DbUpsTDdDME1UekJHNWdwWnAtaGtyWFE?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
+      "status": "suspended",
+      "note": "UN maritime organization pauses Strait of Hormuz ship escort operation after vessel attack - News On AIR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcENkalVyNHZFXzB0MFdlZzN6VGNlSmo0WWRac2JkYlptUlVNZkN3WUxEd3A4ZHZnR2F6dGdybDlNMjU0bEoyazFFOGJBZTlHNkltTThteFB0Mi1LeUdaWmVXOHBrdkF1ejN4U2hIYXV0cjZuTWk1UGZ0TGtKWVhGY3NoMERFT2s2ZXpHUHJWeFRPaUk2cjRVN1FhRWdrMnBUTWRBNUJxX3kxM1ZNUk5UTlQxUVpRX2s?oc=5"
     }
   ]
 }

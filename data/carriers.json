@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-06T19:08:21.338Z",
+  "updatedAt": "2026-09-06T21:20:14.234Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Global Oil Slips But Middle East Fighting Limits Losses - EnergyNow.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1AtZGZGQzRVZWVXVy1VV0lrVk5TTG1xd2twc3pqYkluYjRNSDU2LWFpUlR3Z2VqS3pSc3g4U214bGJZeEgxV05YTHRQTmY3VFZhblUyQXpTMHZyV2JReHlUVTBZT3NrbElyc29LUGdVTklhSjFfa21CUl96b3kybkZuSUw0N0Z3NDVDcnNKQQ?oc=5"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk's Bookings After Ship Attack - Marine Insight",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVpmd0tvLU1PVU81b2QtY3djTkNtS08yNWp3VUdCTnFTQ0FYY29ETUxmcmI3X3B2dFZsOG5mbE9yTE9ET2l4UWZMOTZrekUwU25CWFNXYVFmUERLbXJNNzFfVWlIOEpoa1hrUUtzMTBLOGZRbFk0aXF4ZnlqbFIwX3o3RDJ4N1JqN2xPQXR0OExVcmNSemlPTTkxRVRjSHFfa3hEUHppaHdSd2EtU2I3c3ExTzdwQTdQZTg2MFRKLTRZYXc?oc=5"
     },
     {
       "name": "CMA CGM",

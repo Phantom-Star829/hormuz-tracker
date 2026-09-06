@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:52:09.085Z",
+  "updatedAt": "2026-09-06T04:31:03.089Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Hapag-Lloyd Spain Inland Fuel Surcharge: 3% Truck, 1% Rail-Truck from Sept 2026 - News and Statistics - IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzVvS0xvVTZBV0tLZ0tQai1qSkw0ZFNyZlg3cjdIU0hLZnhwbWZOcjNnTHNvM3ZLZGFvVkY5eTdaTjdKU0dXSm55WmdKa3NGcUZtNGdsenBNYXMyYmJBNXV2VFFzVjB4ZE5Rcnc5ZF9ubmpqRl9RUkhYUllWcVBnT09jenpRakdjSnEtdkNFU0VFNUY1YjdMa2I5dVhDTTkwN01GXw?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

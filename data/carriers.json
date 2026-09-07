@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:51:05.755Z",
+  "updatedAt": "2026-09-07T04:30:07.271Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,14 +27,14 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
+      "status": "operational",
+      "note": "Iran says no one can reopen Strait of Hormuz without its consent - Middle East Eye",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBQSHV5QzBxaTRfOVpmNXBwM0JDWmhIM2hadTV1TVFDa3Z0NXlPSzE0SnROSUV6WFVnZlRZMFZ6S2MzRzZlUGZNRUxVR1NvX24zS2JKUldqUm9iQW44Ulc3OVNUVzZoVm1BZURuLVhyc01JZEdhYUFaU2hyd3JYQVM4bFItYVRkWVp3eGNpaHYxblNKYkZ4SDdRU1c2cGFVSm9DbUpsTDdDME1UekJHNWdwWnAtaGtyWFE?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "suspended",
-      "note": "UN maritime organization pauses Strait of Hormuz ship escort operation after vessel attack - newsonair.gov.in",
+      "note": "UN maritime organization pauses Strait of Hormuz ship escort operation after vessel attack - News On AIR",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcENkalVyNHZFXzB0MFdlZzN6VGNlSmo0WWRac2JkYlptUlVNZkN3WUxEd3A4ZHZnR2F6dGdybDlNMjU0bEoyazFFOGJBZTlHNkltTThteFB0Mi1LeUdaWmVXOHBrdkF1ejN4U2hIYXV0cjZuTWk1UGZ0TGtKWVhGY3NoMERFT2s2ZXpHUHJWeFRPaUk2cjRVN1FhRWdrMnBUTWRBNUJxX3kxM1ZNUk5UTlQxUVpRX2s?oc=5"
     }
   ]

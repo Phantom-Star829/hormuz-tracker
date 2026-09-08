@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:37:25.738Z",
+  "updatedAt": "2026-09-08T14:30:32.485Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
+      "status": "operational",
+      "note": "Iran says no one can reopen Strait of Hormuz without its consent - Middle East Eye",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBQSHV5QzBxaTRfOVpmNXBwM0JDWmhIM2hadTV1TVFDa3Z0NXlPSzE0SnROSUV6WFVnZlRZMFZ6S2MzRzZlUGZNRUxVR1NvX24zS2JKUldqUm9iQW44Ulc3OVNUVzZoVm1BZURuLVhyc01JZEdhYUFaU2hyd3JYQVM4bFItYVRkWVp3eGNpaHYxblNKYkZ4SDdRU1c2cGFVSm9DbUpsTDdDME1UekJHNWdwWnAtaGtyWFE?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-10T16:22:35.691Z",
+  "updatedAt": "2026-09-10T19:38:30.661Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Saudi ports brace for cargo surge as shipping lines reroute - Arab News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTklkR0tLaFZHS1F2emo0ZDNUejZkQV9rMWc4SlFPTVdneHQzRjhubU5JRFdVZDRqMHBaMU95T1R5OXkzS0RCUVJKWExDNUVMRmJaNlZxaDBxYzBnR2QzeDI4bzJOdjYyREplYlNzbU5JQmtZSmJ0YnV4QTNrUXcwTVc1d0hNR3BIYmZ4VzR2bWlSbVUzMmJWNHdFcklOaGF1bFRB?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

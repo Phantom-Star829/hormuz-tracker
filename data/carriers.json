@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T05:56:40.730Z",
+  "updatedAt": "2026-09-10T11:13:37.864Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "Black Sea attacks force MSC to halt Novorossiysk service - TradeWinds News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakd4TkJyU0U2Mjl0M0VwYmxWMGJsa0FWT2pxOUpDTm1WLWI3YVdkaHRDcUdHNXgzd2Z2T2xzVzRWdEQ2V1VyTHNtZ2RVaVdYZDc0VUpYNXY1RldCRzhyQUhPeXFld3dfU1Z2czVMUkU5UmdJb09Ma1p0d0QtUTlISlVQc0UtUnZ5RmhtaXdhX01NRUJtRWFXMGVmaTlqSVRmeGtoZGdibzFmTmxzdDEw?oc=5"
+      "status": "limited",
+      "note": "Operators weigh Hormuz transit risk - Freight News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZlJtOUJPcEVVemJjbmJxY05SX1pQS1lmUVdKUm4xU3RrV1J0Z2l3RlhYU2tidHo5SzhycmtlMXBiS2NTOHdDN2pUNFM2aUlQWlNYc1VXTlFhblNkMVhpLUhFRVNid0pyN0Z1SnFjRkNlSmVwNUtPZlh6SHRGUQ?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - puentedemando.com",
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {

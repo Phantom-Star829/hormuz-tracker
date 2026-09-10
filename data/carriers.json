@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-09T21:42:11.321Z",
+  "updatedAt": "2026-09-10T00:10:51.909Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "suspended",
-      "note": "Saudi ports brace for cargo surge as shipping lines reroute - Arab News",
+      "note": "Saudi ports brace for cargo surge as shipping lines reroute - arabnews.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTklkR0tLaFZHS1F2emo0ZDNUejZkQV9rMWc4SlFPTVdneHQzRjhubU5JRFdVZDRqMHBaMU95T1R5OXkzS0RCUVJKWExDNUVMRmJaNlZxaDBxYzBnR2QzeDI4bzJOdjYyREplYlNzbU5JQmtZSmJ0YnV4QTNrUXcwTVc1d0hNR3BIYmZ4VzR2bWlSbVUzMmJWNHdFcklOaGF1bFRB?oc=5"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "Black Sea attacks force MSC to halt Novorossiysk service - TradeWinds News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakd4TkJyU0U2Mjl0M0VwYmxWMGJsa0FWT2pxOUpDTm1WLWI3YVdkaHRDcUdHNXgzd2Z2T2xzVzRWdEQ2V1VyTHNtZ2RVaVdYZDc0VUpYNXY1RldCRzhyQUhPeXFld3dfU1Z2czVMUkU5UmdJb09Ma1p0d0QtUTlISlVQc0UtUnZ5RmhtaXdhX01NRUJtRWFXMGVmaTlqSVRmeGtoZGdibzFmTmxzdDEw?oc=5"
     },
     {
       "name": "CMA CGM",

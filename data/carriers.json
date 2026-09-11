@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:26:36.556Z",
+  "updatedAt": "2026-09-11T19:39:46.187Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
+      "status": "limited",
+      "note": "Here’s an update on the Rhine River low water surcharge - Hapag-Lloyd",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaERJX1VycmJDc2JjQUhPQm95YUZiYnhCQ1hFYk81M1NWV25DYWxud2xKM1BKNWI1SU9QNS02X252MzJqNDMybVhYTlNYUGk3RmxSMnlJQWJibXc3U1ByazY2U2s1ZmRKdGhpWkVRdkh4bmxPZ0FVT2lBYmlOSkxyd21VNHllTzhMTFlvUjEtalF2WFp5d2FFVEZHMWZmSGJvYnJRREV5TlpsaVJTTjY2MDRXQmtnNWU2T1RFbXlCalE2OUE?oc=5"
     },
     {
       "name": "ONE",

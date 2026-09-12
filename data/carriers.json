@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:05:55.068Z",
+  "updatedAt": "2026-09-12T17:05:35.539Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,7 +10,7 @@
     {
       "name": "MSC",
       "status": "limited",
-      "note": "Operators weigh Hormuz transit risk - freightnews.co.za",
+      "note": "Operators weigh Hormuz transit risk - Freight News",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZlJtOUJPcEVVemJjbmJxY05SX1pQS1lmUVdKUm4xU3RrV1J0Z2l3RlhYU2tidHo5SzhycmtlMXBiS2NTOHdDN2pUNFM2aUlQWlNYc1VXTlFhblNkMVhpLUhFRVNid0pyN0Z1SnFjRkNlSmVwNUtPZlh6SHRGUQ?oc=5"
     },
     {
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Iran says no one can reopen Strait of Hormuz without its consent - Middle East Eye",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBQSHV5QzBxaTRfOVpmNXBwM0JDWmhIM2hadTV1TVFDa3Z0NXlPSzE0SnROSUV6WFVnZlRZMFZ6S2MzRzZlUGZNRUxVR1NvX24zS2JKUldqUm9iQW44Ulc3OVNUVzZoVm1BZURuLVhyc01JZEdhYUFaU2hyd3JYQVM4bFItYVRkWVp3eGNpaHYxblNKYkZ4SDdRU1c2cGFVSm9DbUpsTDdDME1UekJHNWdwWnAtaGtyWFE?oc=5"
     },
     {
       "name": "Evergreen",

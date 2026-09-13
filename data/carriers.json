@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:56:57.801Z",
+  "updatedAt": "2026-09-13T06:04:12.367Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,14 +22,14 @@
     {
       "name": "Hapag-Lloyd",
       "status": "limited",
-      "note": "Here’s an update on the Rhine River low water surcharge - hapag-lloyd.com",
+      "note": "Here’s an update on the Rhine River low water surcharge - Hapag-Lloyd",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaERJX1VycmJDc2JjQUhPQm95YUZiYnhCQ1hFYk81M1NWV25DYWxud2xKM1BKNWI1SU9QNS02X252MzJqNDMybVhYTlNYUGk3RmxSMnlJQWJibXc3U1ByazY2U2s1ZmRKdGhpWkVRdkh4bmxPZ0FVT2lBYmlOSkxyd21VNHllTzhMTFlvUjEtalF2WFp5d2FFVEZHMWZmSGJvYnJRREV5TlpsaVJTTjY2MDRXQmtnNWU2T1RFbXlCalE2OUE?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran says no one can reopen Strait of Hormuz without its consent - Middle East Eye",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBQSHV5QzBxaTRfOVpmNXBwM0JDWmhIM2hadTV1TVFDa3Z0NXlPSzE0SnROSUV6WFVnZlRZMFZ6S2MzRzZlUGZNRUxVR1NvX24zS2JKUldqUm9iQW44Ulc3OVNUVzZoVm1BZURuLVhyc01JZEdhYUFaU2hyd3JYQVM4bFItYVRkWVp3eGNpaHYxblNKYkZ4SDdRU1c2cGFVSm9DbUpsTDdDME1UekJHNWdwWnAtaGtyWFE?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

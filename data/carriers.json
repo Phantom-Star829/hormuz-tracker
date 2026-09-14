@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T13:58:26.567Z",
+  "updatedAt": "2026-09-14T19:19:42.912Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk adds $500 surcharge for Gulf-bound containers - seatrade-maritime.com",
+      "note": "Maersk adds $500 surcharge for Gulf-bound containers - Seatrade Maritime News",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFFIMnZEejVtZG5hU0VtLVFiNlJJeEF2SWFvdlBJQTV0aF9teGs3Q19CMlpFOFZ6LWlSOUJQMEc5UjJMTFZZUkF5bHJ1M3Z1SVB2UHdmdTZHUmRPdWV0Wm1kUUNWOE9pNWtnYWl2bzJfSUtDZk82ZFRhWVpTRUhVS1J1UGRBN3pkbnAzVnVwS21sRC01MVhvYVdmWnY?oc=5"
     },
     {

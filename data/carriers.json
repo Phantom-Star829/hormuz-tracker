@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:01:40.050Z",
+  "updatedAt": "2026-09-14T06:11:36.337Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -10,7 +10,7 @@
     {
       "name": "MSC",
       "status": "limited",
-      "note": "Operators weigh Hormuz transit risk - Freight News",
+      "note": "Operators weigh Hormuz transit risk - freightnews.co.za",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZlJtOUJPcEVVemJjbmJxY05SX1pQS1lmUVdKUm4xU3RrV1J0Z2l3RlhYU2tidHo5SzhycmtlMXBiS2NTOHdDN2pUNFM2aUlQWlNYc1VXTlFhblNkMVhpLUhFRVNid0pyN0Z1SnFjRkNlSmVwNUtPZlh6SHRGUQ?oc=5"
     },
     {
@@ -22,14 +22,14 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - puentedemando.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",
-      "status": "limited",
-      "note": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

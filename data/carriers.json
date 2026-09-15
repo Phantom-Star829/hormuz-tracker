@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T01:27:08.131Z",
+  "updatedAt": "2026-09-15T07:41:33.375Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk adds $500 surcharge for Gulf-bound containers - Seatrade Maritime News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFFIMnZEejVtZG5hU0VtLVFiNlJJeEF2SWFvdlBJQTV0aF9teGs3Q19CMlpFOFZ6LWlSOUJQMEc5UjJMTFZZUkF5bHJ1M3Z1SVB2UHdmdTZHUmRPdWV0Wm1kUUNWOE9pNWtnYWl2bzJfSUtDZk82ZFRhWVpTRUhVS1J1UGRBN3pkbnAzVnVwS21sRC01MVhvYVdmWnY?oc=5"
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
       "name": "MSC",
@@ -22,7 +22,7 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - puentedemando.com",
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {

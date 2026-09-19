@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-18T21:39:39.408Z",
+  "updatedAt": "2026-09-19T00:16:12.341Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gcaptain.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Shipping from Jeddah to Aden? A Middle East Emergency Surcharge (MES) is coming up - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZm1FWDR3c2VrbndLMkNvckczQVJ1T0FtbzVNN3hyMWVlbE9KcjR6aTFRVjF6OTAwdjN2U3dBT210a19YeElJek0xUy1ZQnRROGtHc0RyVWNTOHlSVzlBeTUyVlBPNmJWbmsyUUZ3WWV3NUpPRHR1N29DOGpiaUpwb2hDYUZxYTNwM1hVbThoSUp1bXZqcTNoMHhfb0VNXzBvTGdkZ2hBdEtFemdESFpMTHRHc25NV2QwVjhDRU8yS2VHZ1U2dE1JR1JYUG5ROGRJYk5kbm9hNTBlZUk?oc=5"
+      "status": "operational",
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",

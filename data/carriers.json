@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-20T06:10:52.460Z",
+  "updatedAt": "2026-09-20T11:20:53.465Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
+      "status": "suspended",
+      "note": "Hapag-Lloyd posts Q1 ‘unsatisfactory’ result amid war and Maersk keeps Hormuz transits suspended - Shipping Telegraph",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOU9GbGVQemFWV2ZPVkVBeUxpOTdOaExlelV2dWYtSUFSNXVNanVkeUk5UEEtLUttRXd4OU8wM1JVQ0VXN0FaOEFRSGZWVWRuYlZDRzBQZk80blpmRWkzNnZrTjBfenc0TnA4OFBGQjZxS3RsRTJIOC1DMnV2X0RaeEl2cnR3UllJRTBxZjBjLUlQQ05HNGZISVgyaUprUFdtbFJ3c0NyN0hKRzFIYmVhRUN5d3JVQ0NGbk5aWTdRWEpPVUVoeExGRkNjRQ?oc=5"
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "When the Bypass Fails: Hormuz, the Petroline and a Market Without a Baseline - Medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1ZMN0dRZnZKY19nd1hhYjlOdDE3VWl0b0RmT0gwWkk2X2xiMTRyZGpFYmFsLWZtU2dudXJUZEtrTUZURUQwMXllTnphQXgwRkNoODFjSjNNVW44enByTFFMdjVEM3oxNnRlbHlzLXl1SFBPa08yQWZ6aVQwbThnT2NDd21SR1pqOWliY0FXUUw1b1puRnlfUF8yR1FYeE9iQ2FNUWZlZTBqREFjVGZ6OGY3QXBBZy1aTVducFhYaWRLMC1w?oc=5"
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "CMA CGM | Situation in the Middle East - Emergency Fuel Surcharge Update - American Journal of Transportation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0IwYnhyUmhJQU41SERmZ1AzMVhMMEtmRjN3cm4zOWFqb2pBejVaTXY5cnhRQ1dHMmVRc2M4bEZBRHZrQ19GNm9BSDJyWWR0ZzVzZkxqMkFsTWwzV0pZdG5ad05MNXVXamdFQ3E1Y08yYjhFVVNNX1RkbU5rTHV3TUFWVTJXV2trcno3cUMxQlBDWkF5RFQxNkFn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-20T18:46:12.273Z",
+  "updatedAt": "2026-09-20T21:31:55.963Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "When the Bypass Fails: Hormuz, the Petroline and a Market Without a Baseline - Medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1ZMN0dRZnZKY19nd1hhYjlOdDE3VWl0b0RmT0gwWkk2X2xiMTRyZGpFYmFsLWZtU2dudXJUZEtrTUZURUQwMXllTnphQXgwRkNoODFjSjNNVW44enByTFFMdjVEM3oxNnRlbHlzLXl1SFBPa08yQWZ6aVQwbThnT2NDd21SR1pqOWliY0FXUUw1b1puRnlfUF8yR1FYeE9iQ2FNUWZlZTBqREFjVGZ6OGY3QXBBZy1aTVducFhYaWRLMC1w?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "limited",
-      "note": "Shipping from Jeddah to Aden? A Middle East Emergency Surcharge (MES) is coming up - Hapag-Lloyd",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZm1FWDR3c2VrbndLMkNvckczQVJ1T0FtbzVNN3hyMWVlbE9KcjR6aTFRVjF6OTAwdjN2U3dBT210a19YeElJek0xUy1ZQnRROGtHc0RyVWNTOHlSVzlBeTUyVlBPNmJWbmsyUUZ3WWV3NUpPRHR1N29DOGpiaUpwb2hDYUZxYTNwM1hVbThoSUp1bXZqcTNoMHhfb0VNXzBvTGdkZ2hBdEtFemdESFpMTHRHc25NV2QwVjhDRU8yS2VHZ1U2dE1JR1JYUG5ROGRJYk5kbm9hNTBlZUk?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

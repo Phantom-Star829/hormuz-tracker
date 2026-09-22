@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:55:42.139Z",
+  "updatedAt": "2026-09-22T14:47:35.713Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "CMA CGM | Situation in the Middle East - Emergency Fuel Surcharge Update - American Journal of Transportation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0IwYnhyUmhJQU41SERmZ1AzMVhMMEtmRjN3cm4zOWFqb2pBejVaTXY5cnhRQ1dHMmVRc2M4bEZBRHZrQ19GNm9BSDJyWWR0ZzVzZkxqMkFsTWwzV0pZdG5ad05MNXVXamdFQ3E1Y08yYjhFVVNNX1RkbU5rTHV3TUFWVTJXV2trcno3cUMxQlBDWkF5RFQxNkFn?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

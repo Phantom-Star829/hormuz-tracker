@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T18:51:05.946Z",
+  "updatedAt": "2026-09-22T22:03:53.785Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

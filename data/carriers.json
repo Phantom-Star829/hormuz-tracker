@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-22T22:03:53.785Z",
+  "updatedAt": "2026-09-23T00:25:51.392Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gcaptain.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "When the Bypass Fails: Hormuz, the Petroline and a Market Without a Baseline - Medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1ZMN0dRZnZKY19nd1hhYjlOdDE3VWl0b0RmT0gwWkk2X2xiMTRyZGpFYmFsLWZtU2dudXJUZEtrTUZURUQwMXllTnphQXgwRkNoODFjSjNNVW44enByTFFMdjVEM3oxNnRlbHlzLXl1SFBPa08yQWZ6aVQwbThnT2NDd21SR1pqOWliY0FXUUw1b1puRnlfUF8yR1FYeE9iQ2FNUWZlZTBqREFjVGZ6OGY3QXBBZy1aTVducFhYaWRLMC1w?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-26T19:51:35.325Z",
+  "updatedAt": "2026-09-26T22:45:01.619Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gcaptain.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
@@ -22,14 +22,14 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - puentedemando.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz - KSNB",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUZjMzE0SlZXRjJrZ0tFaWxaMUx0NDI3elFTanJacXZtZEkxcnVCTFZyT25zVFowTGdJS0xTcTN6VVpxZ3IwZGRsM1NNZ3Z1SHZHY2UyRkUyZFZ2eTBnekl1Y0JBa19LVVdfWldDNFM0RlQ0T3VIRnZDLW9hTml0eDQxQTIzS1RRMmZka1hMdEp6UdIBpgFBVV95cUxNc1VZeV9peTNKWmdVTnNuMGNuWUV3ZG1yZ04xbXl3dDNQTVVHVnBMclA2MEVtTkw1UVFCMnJRdVBKSW43aXZmeG9Eb0ZtaEJxT1VoU3NwV2FCN0dlelNkMmJZQUNaN0N4eERhdDJjRVdUWVNLdmlkeEI1N09lbGFSdElhT0NodGM4R3E2RmV3VzZySFBnSXpLN0VQWmctZEd4V3F5Q3RR?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T22:17:17.297Z",
+  "updatedAt": "2026-09-26T01:31:22.133Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gcaptain.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "CMA CGM Implements Emergency Fuel Surcharge Amid Middle East Tensions - Data Portuaria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHk3MnQyeGFYam9DOTVaVUpFTVZVNnFNWFVLeDFlSkl0ZFBtRHZoM2NQdVB2RXQzTkk5eUJlaVF0VWE5cEdjbFZobEwxZ2VoZWxpTEV6NmlhdkZ5b3ZWRXlyN1NuVVMtbnlvOXJiVnUxdlJmbkJUcEE4NGtJMUVadlhTdklFa2E4NmRnSDAtRGFGVHkwLUhzQ3VSVVBqRVBrZktKVHBUcVhObk11aVAzSHdn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-27T13:55:49.248Z",
+  "updatedAt": "2026-09-27T18:21:02.536Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks - gCaptain",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ozNGJTZ3VNZlVQemdtWUxXYVQxTmlIekEtQjV1RFRKc2VwVE1ha1VzZFN6UjNSTVpOQUZ4MHV5RkJMOE9BZzZSUHYzR2ZBZEdQdVNQTEt5SDJlYlk0QlA1YUlDV1ZrRmFhV0hqYXhYQWZuOTZ4c0lSSlFSbmpqc3QyWmhRaWw3WnNjblU1YXlsZw?oc=5"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:39:45.795Z",
+  "updatedAt": "2026-09-30T19:12:57.837Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,14 +22,14 @@
     {
       "name": "Hapag-Lloyd",
       "status": "limited",
-      "note": "Rhine River: Additional Low Water Surcharge Levels Introduced - Hapag-Lloyd",
+      "note": "Rhine River: Additional Low Water Surcharge Levels Introduced - hapag-lloyd.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGs1SlBEbVBVNGRhNFVsNzY0TlU3Qm5NS1BjZnVrdS1WRThBM1dtbi03RGVKOWpzbUszc2FuVFZybHhNTjB2UlN0anFDaG4xdkkyTkFnbU01bzIxck9JVVdCNjcya1pYenN2MjQ4TmJzc0FQQjF3TFdDQndWOTFCMzhlbFotM3BDdGxnck5LU2NfVHlNbG1uQ25zZU9tUnNVaDhtR3hoak9GdVh5UWd4ZEt6MnFmaEdIZy0yYnNjWGZfUF9x?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz - KPTV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFo1OXotaHFCaG1OQ1JzMDh2d1FJdEtVOWtJTVhiNkFaMkNMcmZHRGhrVElER2JaSUJJdUNLTzBCXzNMSnlEeWo5UkY2WGZLVzY0X2tsY3Noci1KdkNhX2p4Sm5aN0lDcjVnVUd2c0ZKT0RzSUR4R3ZWY3psMXNBd2JJT3drckFLNEHSAZ4BQVVfeXFMTWUtTlJkUmd0Sm5XYzg4aUJGVUxkdXZXU3RzT0FIWEh2Uk0xUktNUFNLMGpyNUxON1Rxa3ZzS1FrS1gtcmgydldzUFFJLUt5c0RrblotOWduZ0c4WmN6LTVaRHdtdHlUQk01NUR5MTVrZGhNRzNkVThWeWNQTmwtV2U0WkdEazh0U3gxZmdnOVRDdDFYZHpEZDJOR0NqMHc?oc=5"
+      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T06:40:45.461Z",
+  "updatedAt": "2026-09-30T13:39:45.795Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Maersk, Hapag-Lloyd Resume More Suez Canal Voyages Despite Red Sea Risks - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2JYNVdfQlBxVHZQaEZPV2k0QzhEcmFhREMwRXFmMk5rQ3dlcUFmTk5YdnlUZjI0UG44V0EtQ0hNSEd5MEJJTlRlZnZmdzVTSFZta1MzLTg5cEx2SVREQkFiZ3I4NjdnTWVPV05qeUN5ejYxakg4MURFaHMzbGI3cFhaenJCeEdZQ2VoRFFJQjI3aTZlUUpvQU9OVlI0d1ZPcDNDWQ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

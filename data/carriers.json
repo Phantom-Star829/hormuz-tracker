@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T23:09:57.980Z",
+  "updatedAt": "2026-10-02T02:15:11.776Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - Data Portuaria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW8tanY4SDlkUENiYU94d3NzdWxPQlVkejZfMTR1b096c3Z5dUtNVzlTSWJDbEJKcUpreHo0Ums2RGp4VGU3Q1FDX3VrWF91bTRtOXZrM2p5Z05WVmZ4cUJmUmZFUzJqOVl0d1Z0MTdBYmxoMTByd3F5RmE4MENLaFZlUEI5VEgwNnBpZWlEVk8tTFkyelY0Z2dCanBfMlZZQWVzUFdqd0Mtelo1czctTC1iVEpsTEgxSDZjeHl3OEUtOEZPcnZBc19n?oc=5"
     },
     {
       "name": "MSC",

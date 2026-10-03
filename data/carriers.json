@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:20:26.634Z",
+  "updatedAt": "2026-10-03T01:09:23.092Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "CMA CGM Implements Emergency Fuel Surcharge Amid Middle East Tensions - Data Portuaria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHk3MnQyeGFYam9DOTVaVUpFTVZVNnFNWFVLeDFlSkl0ZFBtRHZoM2NQdVB2RXQzTkk5eUJlaVF0VWE5cEdjbFZobEwxZ2VoZWxpTEV6NmlhdkZ5b3ZWRXlyN1NuVVMtbnlvOXJiVnUxdlJmbkJUcEE4NGtJMUVadlhTdklFa2E4NmRnSDAtRGFGVHkwLUhzQ3VSVVBqRVBrZktKVHBUcVhObk11aVAzSHdn?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
     },
     {
       "name": "Evergreen",

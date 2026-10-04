@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-04T13:12:02.821Z",
+  "updatedAt": "2026-10-04T18:09:17.683Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - dataportuaria.com",
+      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - Data Portuaria",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW8tanY4SDlkUENiYU94d3NzdWxPQlVkejZfMTR1b096c3Z5dUtNVzlTSWJDbEJKcUpreHo0Ums2RGp4VGU3Q1FDX3VrWF91bTRtOXZrM2p5Z05WVmZ4cUJmUmZFUzJqOVl0d1Z0MTdBYmxoMTByd3F5RmE4MENLaFZlUEI5VEgwNnBpZWlEVk8tTFkyelY0Z2dCanBfMlZZQWVzUFdqd0Mtelo1czctTC1iVEpsTEgxSDZjeHl3OEUtOEZPcnZBc19n?oc=5"
     },
     {
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Araghchi claims Iran offered US deal to reopen Strait of Hormuz within one week - The Jerusalem Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jUEVadVJ4eXY0eHJyWlpVVWZtalJqcV9xSHRPZzMxUERheW8tSVFheGplZjFaLXZIb1JJakR5Nmh3Q0QwMnhrX2JMQmlkTENJa3NNTzhpV1I3dDVVSVNlZmRYQUZWWnlXOWc?oc=5"
     },
     {
       "name": "Evergreen",

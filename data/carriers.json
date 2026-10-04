@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T06:50:00.012Z",
+  "updatedAt": "2026-10-04T13:12:02.821Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - dataportuaria.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW8tanY4SDlkUENiYU94d3NzdWxPQlVkejZfMTR1b096c3Z5dUtNVzlTSWJDbEJKcUpreHo0Ums2RGp4VGU3Q1FDX3VrWF91bTRtOXZrM2p5Z05WVmZ4cUJmUmZFUzJqOVl0d1Z0MTdBYmxoMTByd3F5RmE4MENLaFZlUEI5VEgwNnBpZWlEVk8tTFkyelY0Z2dCanBfMlZZQWVzUFdqd0Mtelo1czctTC1iVEpsTEgxSDZjeHl3OEUtOEZPcnZBc19n?oc=5"
     },
     {
       "name": "MSC",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Iran’s 7-Day Plan to Reopen the Strait of Hormuz Lasted 24 Hours - vocal.media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBoMjY5cWw4ZGc1NldRTFItdlNmR1RhZjRUdEFPZktGSGlQSnNTa0d5aXJMcXh5c3h4cVFqaUtQay1FTGFrYzFjZDFpUzNSaTZZaWN0cVdQN0xaOTZaLUhVT2lHRTN5aHZSLS1ueC1hTVlwbEFaeFpoVkxfWHpSUVZtU0hISVo1c1FNME1FejBCM2xiNmRn?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:36:43.986Z",
+  "updatedAt": "2026-10-06T02:57:23.864Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "note": "LNG Tanker Transits Through Strait of Hormuz Resume Amid Conflict - Logistics Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzVsUFIySXAwMnRsRFZFanNYel9qY010a3NxWWliakxJOEpJQWdVdlRfZXU1TmdHOFdfc043R0hwelNUTmpEZDNSNU9mdXA4LVZCU2dQQXdJNUZMVHpGSXlZb0NRT3NLakQ0NlhaV1R5d24tREcxZlE5by1RMkctcEdGNU0yeUZoX2V5dEw0S2M1NHU1eTVLOW4tR193VmlLZ0NYTm1nQmM0WU5TdVRRMV8zWHRTdTlHaDdCWTkwUUlsdFRvQmtrbl83bEFYSk0?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Araghchi claims Iran offered US deal to reopen Strait of Hormuz within one week - The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jUEVadVJ4eXY0eHJyWlpVVWZtalJqcV9xSHRPZzMxUERheW8tSVFheGplZjFaLXZIb1JJakR5Nmh3Q0QwMnhrX2JMQmlkTENJa3NNTzhpV1I3dDVVSVNlZmRYQUZWWnlXOWc?oc=5"
+      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
     },
     {
       "name": "Evergreen",

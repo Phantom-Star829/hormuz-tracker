@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T16:49:24.760Z",
+  "updatedAt": "2026-10-06T21:38:36.043Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - Data Portuaria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW8tanY4SDlkUENiYU94d3NzdWxPQlVkejZfMTR1b096c3Z5dUtNVzlTSWJDbEJKcUpreHo0Ums2RGp4VGU3Q1FDX3VrWF91bTRtOXZrM2p5Z05WVmZ4cUJmUmZFUzJqOVl0d1Z0MTdBYmxoMTByd3F5RmE4MENLaFZlUEI5VEgwNnBpZWlEVk8tTFkyelY0Z2dCanBfMlZZQWVzUFdqd0Mtelo1czctTC1iVEpsTEgxSDZjeHl3OEUtOEZPcnZBc19n?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Araghchi claims Iran offered US deal to reopen Strait of Hormuz within one week - The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jUEVadVJ4eXY0eHJyWlpVVWZtalJqcV9xSHRPZzMxUERheW8tSVFheGplZjFaLXZIb1JJakR5Nmh3Q0QwMnhrX2JMQmlkTENJa3NNTzhpV1I3dDVVSVNlZmRYQUZWWnlXOWc?oc=5"
+      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
     },
     {
       "name": "Evergreen",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T16:25:18.533Z",
+  "updatedAt": "2026-10-07T21:59:37.728Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "suspended",
-      "note": "Maersk reroutes Gulf cargo: what it means for Maersk stock - AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1QzRHRVSEVVMXd4VzNnN3Q3R0FHUE0yLWE2cTAxTVg0MXRISFVfNGVkVGQyTjhDNEdFTkxLaVNBRDhmTmpjOEtBb2dTYnZOWWUzYWlqWjNHYTYtMHQzS3RlQnIteUMyanM5UVFreHRuc0hISGgwR1hKSTdUdVhqMGoyUlloNjBpeFVIVXVJU0luQ1QwejEtMThNMGN4UktJUFJEczh1QVNwTkJUM21OamZnVXphdGZod0VnLQ?oc=5"
+      "status": "limited",
+      "note": "Maersk raises intermodal fuel surcharge in Serbia to 14.5% - Data Portuaria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW8tanY4SDlkUENiYU94d3NzdWxPQlVkejZfMTR1b096c3Z5dUtNVzlTSWJDbEJKcUpreHo0Ums2RGp4VGU3Q1FDX3VrWF91bTRtOXZrM2p5Z05WVmZ4cUJmUmZFUzJqOVl0d1Z0MTdBYmxoMTByd3F5RmE4MENLaFZlUEI5VEgwNnBpZWlEVk8tTFkyelY0Z2dCanBfMlZZQWVzUFdqd0Mtelo1czctTC1iVEpsTEgxSDZjeHl3OEUtOEZPcnZBc19n?oc=5"
     },
     {
       "name": "MSC",

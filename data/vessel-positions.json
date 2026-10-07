@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T00:05:37.573Z",
+  "updatedAt": "2026-10-07T01:30:36.459Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,13 @@
   },
   "vessels": [
     {
-      "mmsi": 630001095,
-      "name": "MO JOUD",
+      "mmsi": 352690000,
+      "name": "H7 PMB2",
       "type": "Other",
-      "lat": 27.093433333333333,
-      "lon": 56.0503,
-      "sog": 0,
-      "cog": 0
+      "lat": 26.049955,
+      "lon": 57.057355,
+      "sog": 9.9,
+      "cog": 345
     }
   ],
   "demo": false

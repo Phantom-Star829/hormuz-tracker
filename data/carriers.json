@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T01:30:37.066Z",
+  "updatedAt": "2026-10-07T08:36:53.976Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "suspended",
+      "note": "Maersk reroutes Gulf cargo: what it means for Maersk stock - AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1QzRHRVSEVVMXd4VzNnN3Q3R0FHUE0yLWE2cTAxTVg0MXRISFVfNGVkVGQyTjhDNEdFTkxLaVNBRDhmTmpjOEtBb2dTYnZOWWUzYWlqWjNHYTYtMHQzS3RlQnIteUMyanM5UVFreHRuc0hISGgwR1hKSTdUdVhqMGoyUlloNjBpeFVIVXVJU0luQ1QwejEtMThNMGN4UktJUFJEczh1QVNwTkJUM21OamZnVXphdGZod0VnLQ?oc=5"
     },
     {
       "name": "MSC",

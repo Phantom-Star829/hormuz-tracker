@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-09T02:06:24.454Z",
+  "updatedAt": "2026-10-09T08:58:46.910Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "note": "LNG Tanker Transits Through Strait of Hormuz Resume Amid Conflict - Logistics Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzVsUFIySXAwMnRsRFZFanNYel9qY010a3NxWWliakxJOEpJQWdVdlRfZXU1TmdHOFdfc043R0hwelNUTmpEZDNSNU9mdXA4LVZCU2dQQXdJNUZMVHpGSXlZb0NRT3NLakQ0NlhaV1R5d24tREcxZlE5by1RMkctcEdGNU0yeUZoX2V5dEw0S2M1NHU1eTVLOW4tR193VmlLZ0NYTm1nQmM0WU5TdVRRMV8zWHRTdTlHaDdCWTkwUUlsdFRvQmtrbl83bEFYSk0?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Trump rejects Iran’s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1Rja0Y2Z0RxMU12MzE5M2d5UUhPRnZYYWdhQVJ3YTdtdjBIZ1c0eXV1WjQzSVZJNnk2UGlpR2dQV2RtUHZqR2tzRjVwaTNSbXJRV1RWUEdEN2hBY1p0VXBxVzJnZFUxVV92N0gyTmhqYkg2Szc3THE3UTByRWUyN09fT2M2WWRDanQ5VTV0aGJCWXFDeXZCSjNxMEY4LUQyY3ZBWHk1VHl0RjktMGh2V0VwTUZ4SGpqOFpELVNTQlFSRjh2b1Vtdg?oc=5"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

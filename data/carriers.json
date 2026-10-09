@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-08T22:03:56.996Z",
+  "updatedAt": "2026-10-09T02:06:24.454Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - American Journal of Transportation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQal9Ha1JTNkIybFRfc0ZqX2ZIU0gyZlNPUDFkTUN4YTFYUWwwMkl4RE1zTmswemFqXzlfVUJQQmMwU2IwSk5ncHZlYTdGZTZUZlJHQkxrU0g1WmtEVldPeXIzM2dHbkRyRF8xWkRON0tEWmlVWVBhWDFITU52MmJPMW9COVdrMi1Pb2hFS1RoNnNqalE4YUtZYTlwMDQ?oc=5"
+      "status": "operational",
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump rejects Iran's proposal to reopen the Strait of Hormuz - Spectrum News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURQb3BaLXFKY0RuaWVNMDI4cmJDOVV2YmFMMmdmV3M4QkhVUmRaR1NtOWVCNHF2VENIeXlJTVNGc1VGRTJPMEw2S0RLUzNfb21CNmMxRm9hUmR4NHhlVk1mQ2l0RUs0U3g2RTBJdFRLNlk5SEpjU3hUWUN0dW13VDM2NWczdUxNUXdOX3BwNWowODQ4MkdfZnB2ald3d2JELXhFM1VLZXl0Y3hoQ0NBdQ?oc=5"
+      "note": "Status check unavailable",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
+      "note": "Status check unavailable",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

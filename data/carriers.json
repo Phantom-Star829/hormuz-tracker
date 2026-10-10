@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T20:04:08.543Z",
+  "updatedAt": "2026-10-10T23:31:50.079Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.one-line.com/en/news"
+      "note": "Iran Reportedly Warns Strait Of Hormuz Will Not Reopen Until Its Conditions Are Met — Ghalibaf Says Era Of 'Dictating One-Sided Demands Is O",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjBWTWlObGxmMlRfVjdkcVB2U3RHZDU5MENnaG9sNTRjM1U5OEdmc1Q3Vmg3SHJlUGZhT19ScVhyVnhocENFMW9hME92WEpMMDlEN0hDRmtoQ21UVmszMTA0RmNZOEdkeXVON2RUc2c5c19CT1VRbEVxckkzMEdMR2p5WndraXJiSXNjV256bWVuRUlzajdMU0pxbi0yZE9Qcjc4VkVmS3hTeWVNTDBJWXFwS1hUR25uNV9DbFVZVWpuaDlsVDZZ?oc=5"
     },
     {
       "name": "Evergreen",

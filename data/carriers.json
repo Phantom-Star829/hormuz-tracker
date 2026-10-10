@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:27:55.153Z",
+  "updatedAt": "2026-10-10T15:19:50.119Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz - WOWT",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzBpSC1JaUt6REVERHBBLU1VOXB5UmJ4bHhZSG91aFhsZTBVMmdXRTlILVJwSWVGWVZBMUFKSUFyam03MVhrNjdzZVllMjVnejVBYXc0WEcwWklub0FrOVhWSDRBN0RKblViWGwzd2hjX1pObkNVZC1IdkV6b0JYSElKZllPMDUxblHSAZ4BQVVfeXFMTm1wVkZma05aVFlfNnlScnItdDdhOFpXRU5LUkF0dk45bWE0UVBXc0ZvU1cyU01mWnVwYWgxYk1tcXAybWsxdmZNeHpIWFZKMVpnbUZtclZnMG45LUNmV0FreVNqeTIwenR5THVzdVpsVXVxclFBWUxiVjVrRWVFWkxFek4wSUdiYlBHM0tIWEt0RVlJUjZsTGRWM28yUXc?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

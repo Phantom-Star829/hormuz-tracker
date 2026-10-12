@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:07:44.472Z",
+  "updatedAt": "2026-10-12T19:00:36.991Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -16,8 +16,8 @@
     {
       "name": "CMA CGM",
       "status": "operational",
-      "note": "LNG Tanker Transits Through Strait of Hormuz Resume Amid Conflict - Logistics Business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzVsUFIySXAwMnRsRFZFanNYel9qY010a3NxWWliakxJOEpJQWdVdlRfZXU1TmdHOFdfc043R0hwelNUTmpEZDNSNU9mdXA4LVZCU2dQQXdJNUZMVHpGSXlZb0NRT3NLakQ0NlhaV1R5d24tREcxZlE5by1RMkctcEdGNU0yeUZoX2V5dEw0S2M1NHU1eTVLOW4tR193VmlLZ0NYTm1nQmM0WU5TdVRRMV8zWHRTdTlHaDdCWTkwUUlsdFRvQmtrbl83bEFYSk0?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",
@@ -28,8 +28,8 @@
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Iran Reportedly Warns Strait Of Hormuz Will Not Reopen Until Its Conditions Are Met — Ghalibaf Says Era Of 'Dictating One-Sided Demands Is O",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjBWTWlObGxmMlRfVjdkcVB2U3RHZDU5MENnaG9sNTRjM1U5OEdmc1Q3Vmg3SHJlUGZhT19ScVhyVnhocENFMW9hME92WEpMMDlEN0hDRmtoQ21UVmszMTA0RmNZOEdkeXVON2RUc2c5c19CT1VRbEVxckkzMEdMR2p5WndraXJiSXNjV256bWVuRUlzajdMU0pxbi0yZE9Qcjc4VkVmS3hTeWVNTDBJWXFwS1hUR25uNV9DbFVZVWpuaDlsVDZZ?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

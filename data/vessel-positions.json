@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:52:17.409Z",
+  "updatedAt": "2026-10-14T18:34:33.844Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,13 @@
   },
   "vessels": [
     {
-      "mmsi": 311001979,
-      "name": "EVER VICT",
+      "mmsi": 408968000,
+      "name": "ALMOAYYED 34",
       "type": "Other",
-      "lat": 25.971349999999997,
-      "lon": 55.7691,
-      "sog": 2.3,
-      "cog": 238
+      "lat": 25.819164999999998,
+      "lon": 55.50958,
+      "sog": 1.9,
+      "cog": 243
     }
   ],
   "demo": false

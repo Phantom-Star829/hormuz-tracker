@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:19:46.252Z",
+  "updatedAt": "2026-10-14T01:52:17.409Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,13 @@
   },
   "vessels": [
     {
-      "mmsi": 352005846,
-      "name": "JAMILA 1",
+      "mmsi": 311001979,
+      "name": "EVER VICT",
       "type": "Other",
-      "lat": 26.05741,
-      "lon": 56.08492666666667,
-      "sog": 0,
-      "cog": 360
+      "lat": 25.971349999999997,
+      "lon": 55.7691,
+      "sog": 2.3,
+      "cog": 238
     }
   ],
   "demo": false

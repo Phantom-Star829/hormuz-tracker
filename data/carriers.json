@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T13:23:47.997Z",
+  "updatedAt": "2026-10-15T18:16:18.662Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5"
+      "note": "Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict - Marine Insight",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTlpYWI1MWJURmtWM1RQMVZGS1E0eW9CSXJlakN4N1lSSkdLQjl1akZwSk1ZcEViM0M4emRfX3JmdTNVX0ZzZ0YzYUVsNTd2Z0FodEg2VDRnTk03cmFPWkZoN25oUTVGWjNFejFUXzdaV3FYZEc4cEgweVFxV3JOVkxsLU9WTmhFbmpFY3VndHZTZzk4U2hfQ2VsdkV6dkdoYWVWN19Kbw?oc=5"
     },
     {
       "name": "MSC",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "limited",
-      "note": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - American Journal of Transportation",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQal9Ha1JTNkIybFRfc0ZqX2ZIU0gyZlNPUDFkTUN4YTFYUWwwMkl4RE1zTmswemFqXzlfVUJQQmMwU2IwSk5ncHZlYTdGZTZUZlJHQkxrU0g1WmtEVldPeXIzM2dHbkRyRF8xWkRON0tEWmlVWVBhWDFITU52MmJPMW9COVdrMi1Pb2hFS1RoNnNqalE4YUtZYTlwMDQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.cma-cgm.com/news"
     },
     {
       "name": "Hapag-Lloyd",

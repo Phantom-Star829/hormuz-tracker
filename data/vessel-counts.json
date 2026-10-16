@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:23:57.055Z",
+  "updatedAt": "2026-10-16T21:01:56.595Z",
   "historicalDailyAverage": 100,
   "strandedBaseline": 150,
   "series": [
@@ -100,10 +100,10 @@
     },
     {
       "date": "2026-10-16",
-      "transits": 46,
-      "strandedEstimate": 1088
+      "transits": 62,
+      "strandedEstimate": 1107
     }
   ],
-  "source": "AISStream.io live feed — 3 unique MMSI in last 3min sample",
+  "source": "AISStream.io live feed — 4 unique MMSI in last 3min sample",
   "demo": false
 }

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T07:06:43.702Z",
+  "updatedAt": "2026-10-16T12:22:37.133Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "limited",
-      "note": "Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTlpYWI1MWJURmtWM1RQMVZGS1E0eW9CSXJlakN4N1lSSkdLQjl1akZwSk1ZcEViM0M4emRfX3JmdTNVX0ZzZ0YzYUVsNTd2Z0FodEg2VDRnTk03cmFPWkZoN25oUTVGWjNFejFUXzdaV3FYZEc4cEgweVFxV3JOVkxsLU9WTmhFbmpFY3VndHZTZzk4U2hfQ2VsdkV6dkdoYWVWN19Kbw?oc=5"
+      "note": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5"
     },
     {
       "name": "MSC",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",

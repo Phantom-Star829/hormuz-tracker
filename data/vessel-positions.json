@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:34:32.568Z",
+  "updatedAt": "2026-10-20T11:28:53.773Z",
   "bbox": {
     "minLat": 25.8,
     "maxLat": 27.2,
@@ -8,13 +8,13 @@
   },
   "vessels": [
     {
-      "mmsi": 212851000,
-      "name": "DUBAI VENTURE",
+      "mmsi": 422799000,
+      "name": "JAME JAM 5",
       "type": "Other",
-      "lat": 25.977156666666666,
-      "lon": 56.008181666666665,
-      "sog": 10,
-      "cog": 233
+      "lat": 26.53807,
+      "lon": 55.736545,
+      "sog": 4.1,
+      "cog": 81
     }
   ],
   "demo": false

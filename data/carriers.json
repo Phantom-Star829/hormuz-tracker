@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:11:00.787Z",
+  "updatedAt": "2026-10-21T20:07:37.153Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - American Journal of Transportation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQal9Ha1JTNkIybFRfc0ZqX2ZIU0gyZlNPUDFkTUN4YTFYUWwwMkl4RE1zTmswemFqXzlfVUJQQmMwU2IwSk5ncHZlYTdGZTZUZlJHQkxrU0g1WmtEVldPeXIzM2dHbkRyRF8xWkRON0tEWmlVWVBhWDFITU52MmJPMW9COVdrMi1Pb2hFS1RoNnNqalE4YUtZYTlwMDQ?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

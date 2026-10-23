@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T04:40:48.852Z",
+  "updatedAt": "2026-10-23T10:01:00.766Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict - Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTlpYWI1MWJURmtWM1RQMVZGS1E0eW9CSXJlakN4N1lSSkdLQjl1akZwSk1ZcEViM0M4emRfX3JmdTNVX0ZzZ0YzYUVsNTd2Z0FodEg2VDRnTk03cmFPWkZoN25oUTVGWjNFejFUXzdaV3FYZEc4cEgweVFxV3JOVkxsLU9WTmhFbmpFY3VndHZTZzk4U2hfQ2VsdkV6dkdoYWVWN19Kbw?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",

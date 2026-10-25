@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T16:06:52.011Z",
+  "updatedAt": "2026-10-25T19:01:00.985Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Global Oil Slips But Middle East Fighting Limits Losses - EnergyNow",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb29rakpzQ3lTTlpxS0x6RW54TmVNU2xNUHNkMDdwZmRwWHk3NEFnX0JQak1waEViNWROM3I5THdkaDlBQll6MDc5U3RxQ1FkTlJlQURETDlHUVFoczJUbGZ2SDNaYW1kbmVTb3JYbno5amFGNFBTM0JxTG5BdEotMXRVWlJjTlMzMXRESnRB?oc=5"
     },
     {
       "name": "MSC",

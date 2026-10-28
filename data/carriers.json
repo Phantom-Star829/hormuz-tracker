@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T08:22:49.986Z",
+  "updatedAt": "2026-10-28T16:00:04.434Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Three Straits, One Global Risk - Breakbulk Events & Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1scHkzWDdFYk9HS1hFRlg2RjVQZ0JLOXhYbTZtZnN4bDMtN1ZXVTRLY0tySEt3QVNXenRHTGdiWGpEeEFrcDBQaWFqODhrSDRfY01EQW1uZTlURWh1UHdmRmlEaHYyQWJRdkZYYQ?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Gemini restarts Asia–Middle East loop, swapping Jebel Ali for Khor Fakkan - Container Management",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3F0LUtmOHNsT2dxSjFtMVdBZ2FISEdiTVBJVmRlc0FNVi1oN1JtM2U0b01Ba2xFRUVjN3VGWlpGMXlOTUt4bjY5bjd6XzlRamJRbzVFSVY2UmVybXB1Ny1SMEZtOEJPWkY3TmcxeTNkZGxwUzloRGotcFREaWZJcEw5bTA4WDB1dEN5b2xmdHpYRW82bDZydkpTdlQ2VjF0Q3FqeFFn?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

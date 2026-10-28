@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:16:28.572Z",
+  "updatedAt": "2026-10-28T08:22:49.986Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Gemini restarts Asia–Middle East loop, swapping Jebel Ali for Khor Fakkan - Container Management",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3F0LUtmOHNsT2dxSjFtMVdBZ2FISEdiTVBJVmRlc0FNVi1oN1JtM2U0b01Ba2xFRUVjN3VGWlpGMXlOTUt4bjY5bjd6XzlRamJRbzVFSVY2UmVybXB1Ny1SMEZtOEJPWkY3TmcxeTNkZGxwUzloRGotcFREaWZJcEw5bTA4WDB1dEN5b2xmdHpYRW82bDZydkpTdlQ2VjF0Q3FqeFFn?oc=5"
     },
     {
       "name": "ONE",

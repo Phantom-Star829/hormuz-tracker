@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T05:29:23.930Z",
+  "updatedAt": "2026-10-31T12:16:50.151Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk raises intermodal fuel surcharge in New Zealand by 27% - DataPortuaria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2F0eC1jU2c5VVBWLVhxbTN6ai1PWG9kMjc3YkdSa1lwYjVRSEt6TUxwc2RsN3NBdEo4aFlmR1N6QzZmUjIwT3JJXzBOSnB5Z3RuVktfT3M1dFRGMzNxYWNkMzk0WGhoZGYxT19KcjM0bWVQTGc0YUVydVdKYmxpT2hVMHpwUmg2Z2VkR3d2RmNKVHlmOTVmZWJXSlFGcGVhMmVKY3Jsc2V4WDM2ejNhZm1mTW1fUXhYbnpWZEFmNVBaMHRULTFpVTNjUGljQQ?oc=5"
     },
     {
       "name": "MSC",

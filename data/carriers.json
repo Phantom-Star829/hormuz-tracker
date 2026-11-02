@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T05:55:10.396Z",
+  "updatedAt": "2026-11-02T15:40:26.323Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "limited",
-      "note": "Three Straits, One Global Risk - Breakbulk Events",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1scHkzWDdFYk9HS1hFRlg2RjVQZ0JLOXhYbTZtZnN4bDMtN1ZXVTRLY0tySEt3QVNXenRHTGdiWGpEeEFrcDBQaWFqODhrSDRfY01EQW1uZTlURWh1UHdmRmlEaHYyQWJRdkZYYQ?oc=5"
+      "status": "operational",
+      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
     },
     {
       "name": "MSC",
@@ -15,15 +15,15 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Four of Five Global Chokepoints Disrupted as Risk Barometer Hits 8.1, Highest Since Maritime Crisis Began - Breakbulk.News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWlplWmljYl92UEtURWRZTm9NVnRNOUhjaHdaRS1EZFhiWjJiQkVZcExma0dFcHBUUmpnNy0yS3VWREJQb2lGSzl4NkxhVDJhS1Y3S2w5SllWXzA0WEx5YVE5NkxzNXdPS1pZRk1uWF9DOGVWTzV4ZXMwT3R2ODU4ekZoSTUxWnZQZ3haV0FWMkNKd1dxM3QxN09MZHBiTUQ4aFFwX2VsZG9CM3UwanM4VTNnVmlrRnNDb2dDMWhydzhEak94cXJr?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
     },
     {
       "name": "ONE",

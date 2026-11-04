@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:18:50.595Z",
+  "updatedAt": "2026-11-04T09:04:14.285Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.msc.com/en/newsroom"
+      "status": "suspended",
+      "note": "MV Odyssey cruise ship stranded in Cambodia after fuel crisis halts voyage - Nacionale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3RPMHpKQ09OWk9WVDNnWU9kcnIyeUdVOHBlcEswRW9ESENUdHhpeThzVDN4V0I0RlM4YzVHbElhNVpNeXFJaDF1c3JQejJ3OHNfQTJ4c1VMWmE2S3ZHZHR4ZDMxR1ZyQmJZd1RqVzNQSjlRb0tUamFkMlNjOUtCVzlJeWNhMWpqVml0WlZyRGJyRXpWYm5zNDJ3OURFclplNi0yT0liZGJQb2VEN3FEMFZRcG90TUw1bUhj?oc=5"
     },
     {
       "name": "CMA CGM",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Hapag-Lloyd and Maersk to resume Red Sea sailings - Fruitnet",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDNfSWNyOWZ0SC1BSnUzTjhVcGx0TWFpU0xBam1Tb19sbldlU21DLS1teU9LWUd5akxidlV1M2kxa3RZczBzY3VHb204YkxmX0hzQ3JBb2RZVG4tdzc0TDZVY1VZd3VsMTYtbExEZTB3YUJZbllzLTdjV3hOVWd5bDZ2NG9KS3BQS0lHUEdSRk1qQl9YeXZZdFNRdXZIbkc3?oc=5"
+      "note": "Maersk says another container shipping service will resume Suez sailings - Yahoo Finance UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1k2T2VtSnpadjFZVlNLWnY5Ml9nZGdhSGcySnBlaV9GZ25jdEIwMjh4aDhpYkt2Ml92UGkzc3ZmeWM4c0o5eDZVd05xUl9RQTJQUWhpUDN2aDhQX1Zxa2dNWGZhRHZHYVY5UnBWVEhtdFFGa1BXRXVyb1BzZ2NMQ0hYMFNiV19wVE9TMy1MZUs?oc=5"
     },
     {
       "name": "ONE",

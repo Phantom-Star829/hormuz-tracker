@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T20:58:41.889Z",
+  "updatedAt": "2026-11-04T01:18:50.595Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
+      "note": "Maersk says another container shipping service will resume Suez sailings - Yahoo Finance UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1k2T2VtSnpadjFZVlNLWnY5Ml9nZGdhSGcySnBlaV9GZ25jdEIwMjh4aDhpYkt2Ml92UGkzc3ZmeWM4c0o5eDZVd05xUl9RQTJQUWhpUDN2aDhQX1Zxa2dNWGZhRHZHYVY5UnBWVEhtdFFGa1BXRXVyb1BzZ2NMQ0hYMFNiV19wVE9TMy1MZUs?oc=5"
     },
     {
       "name": "MSC",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
+      "note": "Hapag-Lloyd and Maersk to resume Red Sea sailings - Fruitnet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDNfSWNyOWZ0SC1BSnUzTjhVcGx0TWFpU0xBam1Tb19sbldlU21DLS1teU9LWUd5akxidlV1M2kxa3RZczBzY3VHb204YkxmX0hzQ3JBb2RZVG4tdzc0TDZVY1VZd3VsMTYtbExEZTB3YUJZbllzLTdjV3hOVWd5bDZ2NG9KS3BQS0lHUEdSRk1qQl9YeXZZdFNRdXZIbkc3?oc=5"
     },
     {
       "name": "ONE",

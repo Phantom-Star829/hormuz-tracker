@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T09:04:14.285Z",
+  "updatedAt": "2026-11-04T17:10:33.832Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -9,9 +9,9 @@
     },
     {
       "name": "MSC",
-      "status": "suspended",
-      "note": "MV Odyssey cruise ship stranded in Cambodia after fuel crisis halts voyage - Nacionale",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3RPMHpKQ09OWk9WVDNnWU9kcnIyeUdVOHBlcEswRW9ESENUdHhpeThzVDN4V0I0RlM4YzVHbElhNVpNeXFJaDF1c3JQejJ3OHNfQTJ4c1VMWmE2S3ZHZHR4ZDMxR1ZyQmJZd1RqVzNQSjlRb0tUamFkMlNjOUtCVzlJeWNhMWpqVml0WlZyRGJyRXpWYm5zNDJ3OURFclplNi0yT0liZGJQb2VEN3FEMFZRcG90TUw1bUhj?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",

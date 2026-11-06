@@ -29,7 +29,7 @@ Follow-up requests:
 | Brent crude | Yahoo Finance `BZ=F` unofficial API | Free, no key, reliable enough |
 | Carrier status | Google News RSS + keyword classifier | No individual carrier APIs; RSS is universal |
 | Map tiles | CARTO dark basemap + OpenSeaMap overlay | Free tiles with shipping marks |
-| Chat | Anthropic Sonnet 4.5 + prompt caching | Static rules cached, live state appended uncached |
+| Chat | Anthropic Sonnet 4.5 + prompt caching, gated by server-only `CHAT_ACCESS_TOKEN` | Static rules cached, live state appended uncached. The dashboard stays public |
 | Alerts | Webhook to Make.com | User has existing Make.com → Telegram/iMessage pipeline |
 
 ## Spec coverage — self-grade
@@ -45,7 +45,7 @@ Follow-up requests:
 | Alerts on +10/day jumps | Yes, panel + webhook | `app/api/alerts/route.ts`, collector webhook |
 | Strait reopening alerts | Yes, fires at 90%+ of baseline | same |
 | Live map (added later) | Yes, Leaflet + vessel positions | `components/VesselMap.tsx` |
-| Chat about dashboard (added later) | Yes, streaming Claude responses | `app/api/chat/route.ts`, `components/Chat.tsx` |
+| Chat about dashboard (added later) | Yes, streaming Claude responses behind a server-only bearer token | `app/api/chat/route.ts`, `components/Chat.tsx` |
 
 ## Known limitations
 
@@ -67,5 +67,5 @@ Follow-up requests:
 
 - Mobile-first layout (dashboard is desktop-primary)
 - Historical archive beyond 30 days (rolling window)
-- User accounts / auth (single-user dashboard)
+- User accounts. The dashboard stays public. `POST /api/chat` requires the server-only `CHAT_ACCESS_TOKEN` described in the README
 - Paid AIS redundancy (free-tier constraint)

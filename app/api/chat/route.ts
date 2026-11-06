@@ -2,12 +2,28 @@ import Anthropic from "@anthropic-ai/sdk";
 import vesselsFallback from "@/data/vessel-counts.json";
 import carriersFallback from "@/data/carriers.json";
 import positionsFallback from "@/data/vessel-positions.json";
+import { authorizeChat } from "./access";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
 
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+type ChatMessage = { role: "user" | "assistant"; content: string };
+
+function parseMessages(body: unknown): ChatMessage[] | null {
+  if (!body || typeof body !== "object") return null;
+  const messages = (body as { messages?: unknown }).messages;
+  if (!Array.isArray(messages) || messages.length === 0) return null;
+  const parsed: ChatMessage[] = [];
+  for (const message of messages) {
+    if (!message || typeof message !== "object") return null;
+    const role = (message as { role?: unknown }).role;
+    const content = (message as { content?: unknown }).content;
+    if ((role !== "user" && role !== "assistant") || typeof content !== "string") return null;
+    parsed.push({ role, content });
+  }
+  return parsed;
+}
 
 const RAW = "https://raw.githubusercontent.com/Phantom-Star829/hormuz-tracker/main/data";
 
@@ -55,9 +71,26 @@ Maersk, MSC, CMA CGM, Hapag-Lloyd, ONE, Evergreen. Tanker, cargo, passenger, and
 - Brent typically spikes 10-30% on serious Hormuz disruption`;
 
 export async function POST(req: Request) {
-  const { messages } = await req.json();
-  if (!Array.isArray(messages) || messages.length === 0) {
-    return new Response("messages required", { status: 400 });
+  const decision = authorizeChat(req.headers.get("authorization"), process.env.CHAT_ACCESS_TOKEN);
+  if (!decision.ok) {
+    const body = decision.status === 503 ? "chat unavailable" : "unauthorized";
+    return new Response(body, { status: decision.status, headers: { "Cache-Control": "no-store" } });
+  }
+
+  let payload: unknown;
+  try {
+    payload = await req.json();
+  } catch {
+    return new Response("messages required", { status: 400, headers: { "Cache-Control": "no-store" } });
+  }
+  const messages = parseMessages(payload);
+  if (!messages) {
+    return new Response("messages required", { status: 400, headers: { "Cache-Control": "no-store" } });
+  }
+
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    return new Response("chat unavailable", { status: 500, headers: { "Cache-Control": "no-store" } });
   }
 
   const [vesselsData, carriersData, positionsData] = await Promise.all([
@@ -88,6 +121,7 @@ ${positionsData.vessels
   .join("\n")}
 ${positionsData.demo ? "\n(NOTE: positions are demo data — AISStream coverage gap; last good snapshot retained)" : ""}`;
 
+  const anthropic = new Anthropic({ apiKey });
   const stream = await anthropic.messages.stream({
     model: "claude-sonnet-4-5",
     max_tokens: 1024,
@@ -95,10 +129,7 @@ ${positionsData.demo ? "\n(NOTE: positions are demo data — AISStream coverage 
       { type: "text", text: SYSTEM_STATIC, cache_control: { type: "ephemeral" } },
       { type: "text", text: liveSnapshot },
     ],
-    messages: messages.map((m: { role: "user" | "assistant"; content: string }) => ({
-      role: m.role,
-      content: m.content,
-    })),
+    messages,
   });
 
   const encoder = new TextEncoder();
@@ -111,8 +142,8 @@ ${positionsData.demo ? "\n(NOTE: positions are demo data — AISStream coverage 
           }
         }
         controller.close();
-      } catch (e: any) {
-        controller.enqueue(encoder.encode(`\n\n[error: ${e.message}]`));
+      } catch {
+        controller.enqueue(encoder.encode("\n\n[error]"));
         controller.close();
       }
     },

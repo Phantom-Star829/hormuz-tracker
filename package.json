@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "collect": "node scripts/collect-ais.mjs"
+    "collect": "node scripts/collect-ais.mjs",
+    "test": "node --import tsx --test tests/*.test.ts tests/*.test.tsx",
+    "test:bundle": "node scripts/check-client-bundle.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.90.0",
@@ -23,10 +25,13 @@
     "@types/leaflet": "1.9.12",
     "@types/node": "20.14.10",
     "@types/react": "18.3.3",
+    "@types/react-test-renderer": "^18.3.1",
     "@types/ws": "8.5.12",
     "autoprefixer": "10.4.19",
     "postcss": "8.4.40",
+    "react-test-renderer": "^18.3.1",
     "tailwindcss": "3.4.7",
+    "tsx": "^4.23.15",
     "typescript": "5.5.4"
   }
 }

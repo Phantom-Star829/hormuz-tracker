@@ -1,5 +1,5 @@
 "use client";
-import { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect } from "react";
 
 type Msg = { role: "user" | "assistant"; content: string };
 
@@ -13,17 +13,24 @@ const SUGGESTIONS = [
 export default function Chat() {
   const [messages, setMessages] = useState<Msg[]>([]);
   const [input, setInput] = useState("");
+  const [token, setToken] = useState("");
+  const [notice, setNotice] = useState("");
   const [streaming, setStreaming] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
-    scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
+    scrollRef.current?.scrollTo?.({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
   }, [messages, streaming]);
 
   async function send(text: string) {
     const clean = text.trim();
     if (!clean || streaming) return;
+    if (!token.trim()) {
+      setNotice("Enter the access token.");
+      return;
+    }
+    setNotice("");
     const next: Msg[] = [...messages, { role: "user", content: clean }];
     setMessages(next);
     setInput("");
@@ -35,11 +42,20 @@ export default function Chat() {
     try {
       const res = await fetch("/api/chat", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`,
+        },
         body: JSON.stringify({ messages: next }),
       });
       if (!res.ok || !res.body) {
-        setMessages([...next, { role: "assistant", content: `Error: ${res.status}` }]);
+        const content =
+          res.status === 401
+            ? "Access token was rejected."
+            : res.status === 503
+              ? "Chat is unavailable."
+              : `Error: ${res.status}`;
+        setMessages([...next, { role: "assistant", content }]);
         setStreaming(false);
         return;
       }
@@ -112,6 +128,21 @@ export default function Chat() {
           ))
         )}
       </div>
+
+      <label className="block mb-3">
+        <span className="sr-only">Access token</span>
+        <input
+          type="password"
+          value={token}
+          onChange={(e) => setToken(e.target.value)}
+          autoComplete="off"
+          spellCheck={false}
+          placeholder="Access token"
+          aria-label="Access token"
+          className="w-full bg-bg border border-border rounded-md px-3 py-2 text-sm focus:outline-none focus:border-accent"
+        />
+        {notice ? <p className="text-xs text-muted mt-2">{notice}</p> : null}
+      </label>
 
       <form
         onSubmit={(e) => {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:36:37.632Z",
+  "updatedAt": "2026-11-08T23:42:18.482Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
+      "status": "suspended",
+      "note": "Aramco Weighs Expanding Pipeline That Bypasses Strait of Hormuz - Data Portuaria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajY0RjlmVFg2ZlBjY3FwcU1waEpmbUxZWWJpRmtXZTNEUnFoTjRwbWtxX1VOUjJEdU1vSnFaOWowM3dTNHJYcDAzR3dnQnNOV1p2WkxzLUVhUlhkZXRhLTdxUG45U2dvLTlfQ3Job2lLeUwtSEsxVFlQVDAySGVrN2V0RGlLSDczXzBJRUtfbGVWQjFLcURhZmpSOWtrMDRlbTRXNzdvdXlWU045X3lz?oc=5"
     },
     {
       "name": "ONE",

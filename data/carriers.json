@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T20:52:38.274Z",
+  "updatedAt": "2026-11-08T00:31:03.307Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "operational",
-      "note": "Maersk says another container shipping service will resume Suez sailings - AOL.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBMRjlpNUpyQUFrejZnZjB5Vm5CT2RQQU55UnA1Nld1OTBsQnZJcENhaWFkbE80czFrWUdIaFZjZjZIRlFDZ3V3VFpCZ0lTcFo3aTZram93ZWdfam8xSFp0RUFrVUJOZzdXTk9IcXlPR3ZidUtkU3RnYzdSZHhSNExRZ1R1c1V2b2c?oc=5"
+      "status": "suspended",
+      "note": "Aramco Weighs Expanding Pipeline That Bypasses Strait of Hormuz - Data Portuaria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajY0RjlmVFg2ZlBjY3FwcU1waEpmbUxZWWJpRmtXZTNEUnFoTjRwbWtxX1VOUjJEdU1vSnFaOWowM3dTNHJYcDAzR3dnQnNOV1p2WkxzLUVhUlhkZXRhLTdxUG45U2dvLTlfQ3Job2lLeUwtSEsxVFlQVDAySGVrN2V0RGlLSDczXzBJRUtfbGVWQjFLcURhZmpSOWtrMDRlbTRXNzdvdXlWU045X3lz?oc=5"
     },
     {
       "name": "ONE",

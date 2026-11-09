@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-09T06:10:59.416Z",
+  "updatedAt": "2026-11-09T17:26:55.504Z",
   "carriers": [
     {
       "name": "Maersk",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.maersk.com/news"
     },
     {
       "name": "MSC",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.msc.com/en/newsroom"
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Hormuz standoff disrupts traffic, lifts war risk insurance rates - www.businessinsurance.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HRVR6VXFqUHVDQU9BTkhzMmZ1SDhnUGVhWGY3dFFCUHMtc19xbktNZ0swcEZfMVhqZFJvbjh5WF83UkxXSzdpa3l3WnlCLWgtb2FOUmJDZEhycTlwR2NCNDBCTE5tMTI2VGgw?oc=5"
     },
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "Status check unavailable",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd Resumes Operations in the Persian Gulf While Avoiding the Strait of Hormuz Through a Feeder Service Network - Puente de Mando",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlR1X1paSEMxNkFOTUR0aTI2YjBybTZFdHZjME4wSS1yOHhoOTU5Z0h6OHNhbW9GWS1BU2labXYwLU1NQ3A5OUoyTVVPLUtZNm4wMzJZWF8zZXRkRnV2NjhDR3JBMk9oT3d2aW5NV21HSGM0UElZdVJKUVdYQTVyRmQ3bw?oc=5"
     },
     {
       "name": "ONE",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",
       "status": "operational",
-      "note": "Status check unavailable",
+      "note": "No disruption news in last 14 days",
       "sourceUrl": "https://www.evergreen-marine.com/tbi1/jsp/TBI1_News.jsp"
     }
   ]

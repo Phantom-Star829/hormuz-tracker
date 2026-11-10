@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T09:42:34.892Z",
+  "updatedAt": "2026-11-10T17:45:21.973Z",
   "carriers": [
     {
       "name": "Maersk",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.maersk.com/news"
+      "status": "limited",
+      "note": "Maersk Flags Gulf Disruption Risks as West Africa Shipping Network Changes - Breakbulk.News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc21UTXNCbk8yTHVkSDBnck4wVFlHNlVhUmpGdVNwakd6RGJYQmVPTjdHRXpCeDAwVXZwLUgtYWF3TFpFYmRvTTVtOEhHV0Jza3dBVXdCcXFJcGs1LXhxNGFNRldRbWhDRGhLTjZfelVoMEZCczl3U3M4c1gyZldLVGF3bEpHZmFzVDJWNmwteV9KcXczXzBnaHdxM0huLUU?oc=5"
     },
     {
       "name": "MSC",

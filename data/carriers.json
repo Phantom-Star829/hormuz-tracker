@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:23:39.876Z",
+  "updatedAt": "2026-11-12T02:55:46.404Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -21,9 +21,9 @@
     },
     {
       "name": "Hapag-Lloyd",
-      "status": "suspended",
-      "note": "Aramco Weighs Expanding Pipeline That Bypasses Strait of Hormuz - Data Portuaria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajY0RjlmVFg2ZlBjY3FwcU1waEpmbUxZWWJpRmtXZTNEUnFoTjRwbWtxX1VOUjJEdU1vSnFaOWowM3dTNHJYcDAzR3dnQnNOV1p2WkxzLUVhUlhkZXRhLTdxUG45U2dvLTlfQ3Job2lLeUwtSEsxVFlQVDAySGVrN2V0RGlLSDczXzBJRUtfbGVWQjFLcURhZmpSOWtrMDRlbTRXNzdvdXlWU045X3lz?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
     },
     {
       "name": "ONE",

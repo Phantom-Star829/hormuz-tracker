@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:53:25.517Z",
+  "updatedAt": "2026-11-13T00:13:59.804Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -27,9 +27,9 @@
     },
     {
       "name": "ONE",
-      "status": "suspended",
-      "note": "IRGC says two tankers stopped south of Strait of Hormuz after ignoring radio warnings from Iran - The Jerusalem Post",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN19qNVpkSWVjY2pVNDNYMUhjWWd2b1V2UFhETlBUOWI4aUJ0UGNMVi1WQjZMQWxUM2F5b2tlNHpWYVdIcGxDM1lhckhzVGFxME5HMU5xMFlIYThUaFh6V2NzSzFVdUI3UEE?oc=5"
+      "status": "operational",
+      "note": "No disruption news in last 14 days",
+      "sourceUrl": "https://www.one-line.com/en/news"
     },
     {
       "name": "Evergreen",

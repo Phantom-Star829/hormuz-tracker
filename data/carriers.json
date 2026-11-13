@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:53:04.919Z",
+  "updatedAt": "2026-11-13T16:13:51.888Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -15,9 +15,9 @@
     },
     {
       "name": "CMA CGM",
-      "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.cma-cgm.com/news"
+      "status": "limited",
+      "note": "Hormuz standoff disrupts traffic, lifts war risk insurance rates - www.businessinsurance.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HRVR6VXFqUHVDQU9BTkhzMmZ1SDhnUGVhWGY3dFFCUHMtc19xbktNZ0swcEZfMVhqZFJvbjh5WF83UkxXSzdpa3l3WnlCLWgtb2FOUmJDZEhycTlwR2NCNDBCTE5tMTI2VGgw?oc=5"
     },
     {
       "name": "Hapag-Lloyd",

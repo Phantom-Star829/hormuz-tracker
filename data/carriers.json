@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:34:29.276Z",
+  "updatedAt": "2026-11-14T03:08:25.977Z",
   "carriers": [
     {
       "name": "Maersk",
@@ -22,8 +22,8 @@
     {
       "name": "Hapag-Lloyd",
       "status": "operational",
-      "note": "No disruption news in last 14 days",
-      "sourceUrl": "https://www.hapag-lloyd.com/en/press.html"
+      "note": "Hapag-Lloyd and Maersk to resume Red Sea sailings - Fruitnet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDNfSWNyOWZ0SC1BSnUzTjhVcGx0TWFpU0xBam1Tb19sbldlU21DLS1teU9LWUd5akxidlV1M2kxa3RZczBzY3VHb204YkxmX0hzQ3JBb2RZVG4tdzc0TDZVY1VZd3VsMTYtbExEZTB3YUJZbllzLTdjV3hOVWd5bDZ2NG9KS3BQS0lHUEdSRk1qQl9YeXZZdFNRdXZIbkc3?oc=5"
     },
     {
       "name": "ONE",
